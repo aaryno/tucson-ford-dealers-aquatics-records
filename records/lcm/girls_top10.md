@@ -22,28 +22,28 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Ella Cosgrove | 31.58 | 10 | 07/22/2018 | 2018 AZ LC Age Group State Cha |
 | 2 | Addie Hobbs | 31.82 | 10 | 07/18/2021 | 2021 AZ  LC Age Group State @ YWSF |
 | 3 | Wren Smith | 31.89 | 10 | 04/19/2019 | 2019 AZ FORD FNL Long Course Meet |
-| 4 | Taylor Alicea-Jorgensen ‡ | 31.99 | 10 | 05/03/2013 | 2013 NM LCAT Suntan Classic |
-| 5 | Eleora Bailey | 32.11 | 10 | 07/29/2009 | 2009 PC  LCM FAR WEST CHM |
-| 6 | Tatum Nye | 32.68 | 10 | 07/21/2024 | 2024 AZ AZSI LC Age Group State Champ... |
-| 7 | Natalie Armstrong | 32.76 | 10 | 07/17/2016 | 2016 AZ LC Age Group State Championsh... |
-| 8 | Miriam Sarok | 33.32 | 10 | 07/21/2024 | 2024 AZ AZSI LC Age Group State Champ... |
-| 9 | Kristen Covello | 34.01 | 10 | 06/10/2010 | 2010 AZ Southwest "BB" Meet |
-| 10 | Allie Even | 34.04 | 10 | 04/29/2018 | 2018 AZ AZAC 2018 May Dayz Beach Party |
+| 4 | Eleora Bailey | 32.11 | 10 | 07/29/2009 | 2009 PC  LCM FAR WEST CHM |
+| 5 | Tatum Nye | 32.68 | 10 | 07/21/2024 | 2024 AZ AZSI LC Age Group State Champ... |
+| 6 | Natalie Armstrong | 32.76 | 10 | 07/17/2016 | 2016 AZ LC Age Group State Championsh... |
+| 7 | Miriam Sarok | 33.32 | 10 | 07/21/2024 | 2024 AZ AZSI LC Age Group State Champ... |
+| 8 | Kristen Covello | 34.01 | 10 | 06/10/2010 | 2010 AZ Southwest "BB" Meet |
+| 9 | Allie Even | 34.04 | 10 | 04/29/2018 | 2018 AZ AZAC 2018 May Dayz Beach Party |
+| 10 | Mandy Rothe | 34.14 | 9 | 05/17/2015 | 2015 AZ AZAC May Dayz Beach Party |
 
 ### 11-12
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Tori Dabney ‡ | 28.29 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 2 | Natalie Ward | 28.88 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
-| 3 | Sarah Schou | 29.03 | 12 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
-| 4 | Razilee Luker ‡ | 29.3 | 12 | 05/23/2008 | 2008 AZ Swimming World Cactus Classic |
-| 5 | Maggie Oliver | 29.34 | 12 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
-| 6 | Eleora Bailey | 29.53 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 7 | Reilly White | 29.57 | 12 | 07/23/2009 | 2009 AZ LC Age Group State |
-| 8 | Ashley Robinson | 29.62 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 9 | Kristina Defoor | 29.87 | 12 | 07/19/2015 | 2015 AZ Swimming LC AG State C |
-| 10 | Taylor Alicea-Jorgensen | 29.99 | 12 | 06/05/2014 | 2014 AZ FORD Southwest Classic |
+| 1 | Natalie Ward | 28.88 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
+| 2 | Sarah Schou | 29.03 | 12 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
+| 3 | Maggie Oliver | 29.34 | 12 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
+| 4 | Eleora Bailey | 29.53 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
+| 5 | Reilly White | 29.57 | 12 | 07/23/2009 | 2009 AZ LC Age Group State |
+| 6 | Ashley Robinson | 29.62 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
+| 7 | Kristina Defoor | 29.87 | 12 | 07/19/2015 | 2015 AZ Swimming LC AG State C |
+| 8 | Taylor Alicea-Jorgensen | 29.99 | 12 | 06/05/2014 | 2014 AZ FORD Southwest Classic |
+| 9 | Holland Nye | 30.44 | 12 | 06/18/2022 | 2022 AZ FORD Summer Splash |
+| 10 | Kailey Lozano | 30.45 | 12 | 07/16/2017 | 2017 AZ LC Age Group State |
 
 ### 13-14
 
@@ -81,14 +81,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Paige Kremer | 25.67 | 18 | 04/01/2015 | 2015 Canadian Swimming Trials |
 | 2 | Lacey Nymeyer | 25.73 | 18 | 07/07/2004 | 2004 Olympic Trials |
-| 3 | Ann Ochitwa ‡ | 25.96 | 18 | 12/06/2015 | Texas Swimming & Diving Hall o |
-| 4 | Emma Munsch | 26.31 | 18 | 06/29/2008 | 2008 Olympic Trials |
-| 5 | Krista Duffield | 26.33 | 17 | 07/19/2014 | 2014 Speedo Western Section LC |
-| 6 | Maggie McCord | 26.37 | 18 | 03/20/2012 | 2012 NCSA Junior National Swim |
-| 7 | Ryann Hackett | 26.56 | 18 | 07/10/2003 | 2003 CA JANET EVANS INV 0703 |
-| 8 | Hannah Houlton | 26.57 | 18 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
-| 9 | Taylor Schick | 26.67 | 18 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
-| 10 | Taylor Garcia † | 26.9 | 18 | 04/15/2016 | 2016 Pro Series - Mesa |
+| 3 | Emma Munsch | 26.31 | 18 | 06/29/2008 | 2008 Olympic Trials |
+| 4 | Krista Duffield | 26.33 | 17 | 07/19/2014 | 2014 Speedo Western Section LC |
+| 5 | Maggie McCord | 26.37 | 18 | 03/20/2012 | 2012 NCSA Junior National Swim |
+| 6 | Ryann Hackett | 26.56 | 18 | 07/10/2003 | 2003 CA JANET EVANS INV 0703 |
+| 7 | Hannah Houlton | 26.57 | 18 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
+| 8 | Taylor Schick | 26.67 | 18 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
+| 9 | Taylor Garcia | 26.9 | 18 | 04/15/2016 | 2016 Pro Series - Mesa |
+| 10 | Kristen Covello | 26.97 | 18 | 08/05/2017 | 2017 Futures - Santa Clara |
 
 ### Open
 
@@ -114,30 +114,30 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Eleora Bailey | 1:09.06 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
-| 2 | Taylor Alicea-Jorgensen ‡ | 1:10.19 | 10 | 05/03/2013 | 2013 NM LCAT Suntan Classic |
-| 3 | Addie Hobbs | 1:10.79 | 10 | 07/17/2021 | 2021 AZ  LC Age Group State @ YWSF |
-| 4 | Ella Cosgrove | 1:10.90 | 10 | 07/21/2018 | 2018 AZ LC Age Group State Cha |
-| 5 | Teagan McGinnis | 1:11.00 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
-| 6 | Tatum Nye | 1:12.03 | 10 | 07/20/2024 | 2024 AZ AZSI LC Age Group State Champ... |
-| 7 | Abby Brown ‡ | 1:12.70 | 10 | 06/05/2014 | 2014 AZ FORD Southwest Classic |
-| 8 | Wren Smith | 1:12.71 | 10 | 05/05/2019 | 2019 AZ FAST Mayflower Invitational |
-| 9 | Kristen Covello | 1:12.92 | 10 | 05/28/2010 | 2010 AZ United Healthcare Cactus |
-| 10 | Miriam Sarok | 1:13.13 | 10 | 07/20/2024 | 2024 AZ AZSI LC Age Group State Champ... |
+| 2 | Addie Hobbs | 1:10.79 | 10 | 07/17/2021 | 2021 AZ  LC Age Group State @ YWSF |
+| 3 | Ella Cosgrove | 1:10.90 | 10 | 07/21/2018 | 2018 AZ LC Age Group State Cha |
+| 4 | Teagan McGinnis | 1:11.00 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
+| 5 | Tatum Nye | 1:12.03 | 10 | 07/20/2024 | 2024 AZ AZSI LC Age Group State Champ... |
+| 6 | Wren Smith | 1:12.71 | 10 | 05/05/2019 | 2019 AZ FAST Mayflower Invitational |
+| 7 | Kristen Covello | 1:12.92 | 10 | 05/28/2010 | 2010 AZ United Healthcare Cactus |
+| 8 | Miriam Sarok | 1:13.13 | 10 | 07/20/2024 | 2024 AZ AZSI LC Age Group State Champ... |
+| 9 | Natalie Armstrong | 1:14.00 | 10 | 07/16/2016 | 2016 AZ LC Age Group State Championsh... |
+| 10 | Stephanie Flores | 1:14.26 | 10 | 05/17/2015 | 2015 AZ AZAC May Dayz Beach Party |
 
 ### 11-12
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Tori Dabney ‡ | 1:01.94 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 2 | Natalie Ward | 1:02.38 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
-| 3 | Teagan McGinnis | 1:03.07 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 4 | Eleora Bailey | 1:03.09 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 5 | Razilee Luker ‡ | 1:03.67 | 12 | 05/23/2008 | 2008 AZ Swimming World Cactus Classic |
-| 6 | Sarah Schou | 1:04.39 | 12 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
-| 7 | Kristina Defoor | 1:04.63 | 12 | 07/18/2015 | 2015 AZ Swimming LC AG State C |
-| 8 | Hailey Palma | 1:05.14 | 12 | 07/22/2010 | 2010 AZ Long Course Age Group  |
-| 9 | Taylor Alicea-Jorgensen | 1:05.27 | 12 | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Bore... |
-| 10 | Michelle Trujillo | 1:05.31 | 12 | 05/07/2011 | 2011 AZ Mayflower Meet |
+| 1 | Natalie Ward | 1:02.38 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
+| 2 | Teagan McGinnis | 1:03.07 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
+| 3 | Eleora Bailey | 1:03.09 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
+| 4 | Sarah Schou | 1:04.39 | 12 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
+| 5 | Kristina Defoor | 1:04.63 | 12 | 07/18/2015 | 2015 AZ Swimming LC AG State C |
+| 6 | Hailey Palma | 1:05.14 | 12 | 07/22/2010 | 2010 AZ Long Course Age Group  |
+| 7 | Taylor Alicea-Jorgensen | 1:05.27 | 12 | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Bore... |
+| 8 | Michelle Trujillo | 1:05.31 | 12 | 05/07/2011 | 2011 AZ Mayflower Meet |
+| 9 | Maggie Oliver | 1:05.34 | 12 | 06/07/2012 | 2012 AZ Tucson Ford Dealers June Invit |
+| 10 | Jordan Harms | 1:05.69 | 12 | 07/15/2017 | 2017 AZ LC Age Group State |
 
 ### 13-14
 
@@ -149,7 +149,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Brianna Leverenz | 59.96 | 14 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
 | 5 | Natalie Ward | 1:00.15 | 14 | 05/24/2013 | 2013 AZ Invitational |
 | 6 | Tori Dabney | 1:00.29 | 13 | 07/18/2015 | 2015 AZ Swimming LC AG State C |
-| 7 | Sydney Even ‡ | 1:00.81 | 13 | 07/15/2017 | 2017 AZ LC Age Group State |
+| 7 | Sydney Even | 1:00.92 | 14 | 06/22/2018 | 2018 CA MVN Fran Crippen SMOC |
 | 8 | Krista Duffield | 1:01.09 | 14 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
 | 9 | Kristen Alicea-Jorgensen | 1:01.15 | 14 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
 | 10 | Razilee Luker | 1:01.34 | 14 | 07/23/2009 | 2009 AZ LC Age Group State |
@@ -176,13 +176,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Lacey Nymeyer | 56.26 | 18 | 02/10/2004 | 2004 Spring Nationals |
 | 2 | Paige Kremer | 56.52 | 18 | 04/01/2015 | 2015 Canadian Swimming Trials |
 | 3 | Sarah Tolar | 56.77 | 18 | 08/22/1999 | Pan Pacs |
-| 4 | Lindsey Farella ‡ | 56.81 | 18 | 01/17/1998 | 1998 US Wc |
-| 5 | Ann Ochitwa | 56.90 | 18 | 03/20/2016 | 2016 GT Women's LC Collegiate |
-| 6 | Emma Munsch | 57.18 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
-| 7 | Sarah Bennett | 57.27 | 18 | 04/29/2010 | 2010 Irish Long Course Championship |
-| 8 | Casslyn Treydte | 57.38 | 18 | 03/01/2020 | 2020 PN AP Women's Pac-12 LC TT |
-| 9 | Ryann Hackett | 57.71 | 18 | 07/10/2003 | 2003 CA JANET EVANS INV 0703 |
-| 10 | Krista Duffield | 57.83 | 17 | 07/16/2014 | 2014 Speedo Western Section LC |
+| 4 | Ann Ochitwa | 56.90 | 18 | 03/20/2016 | 2016 GT Women's LC Collegiate |
+| 5 | Emma Munsch | 57.18 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
+| 6 | Sarah Bennett | 57.27 | 18 | 04/29/2010 | 2010 Irish Long Course Championship |
+| 7 | Casslyn Treydte | 57.38 | 18 | 03/01/2020 | 2020 PN AP Women's Pac-12 LC TT |
+| 8 | Ryann Hackett | 57.71 | 18 | 07/10/2003 | 2003 CA JANET EVANS INV 0703 |
+| 9 | Krista Duffield | 57.83 | 17 | 07/16/2014 | 2014 Speedo Western Section LC |
+| 10 | Taylor Schick | 57.94 | 18 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
 
 ### Open
 
@@ -190,8 +190,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Margo Geer | 53.95 | 23 | 07/10/2015 | 2015 CA  Los Angeles Invite |
 | 2 | Lacey Nymeyer | 54.02 | 22 | 06/29/2008 | 2008 Olympic Trials |
-| 3 | Katrina Konopka | 55.34 | 19 | 06/30/2016 | 2016 Olympic Trials  |
-| 4 | Whitney Burnett | 55.34 | 21 | 08/17/2006 | 2006 Pan Pacific Champs |
+| 3 | Whitney Burnett | 55.34 | 21 | 08/17/2006 | 2006 Pan Pacific Champs |
+| 4 | Katrina Konopka | 55.34 | 19 | 06/30/2016 | 2016 Olympic Trials  |
 | 5 | Christine Magnuson | 55.41 | 26 | 03/09/2012 | 2012 Pro Swim - Columbus |
 | 6 | Kaitlyn Flederbach | 55.48 | 19 | 08/02/2011 | 2011 Summer Nationals |
 | 7 | Justine Schluntz | 55.52 | 22 | 07/07/2009 | 2009 Summer Nationals |
@@ -223,30 +223,30 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Natalie Ward | 2:09.89 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 2 | Tori Dabney ‡ | 2:15.84 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 3 | Teagan McGinnis | 2:16.56 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 4 | Maggie Oliver | 2:19.97 | 12 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
-| 5 | Razilee Luker ‡ | 2:20.54 | 12 | 05/23/2008 | 2008 AZ Swimming World Cactus Classic |
-| 6 | Ruthie Beadle | 2:20.77 | 12 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
-| 7 | Taylor Alicea-Jorgensen | 2:21.46 | 12 | 05/23/2014 | 2014 AZ MAC Speedo Arizona Invitational |
-| 8 | Eleora Bailey | 2:21.66 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
-| 9 | Michelle Trujillo | 2:22.79 | 12 | 04/30/2011 | 2011 AZ Ford April Intrasquad |
-| 10 | Stephanie Flores | 2:23.62 | 12 | 06/05/2016 | 2016 AZ FORD TYR Quest for the Rings ... |
+| 2 | Teagan McGinnis | 2:16.56 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
+| 3 | Maggie Oliver | 2:19.97 | 12 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
+| 4 | Ruthie Beadle | 2:20.77 | 12 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
+| 5 | Taylor Alicea-Jorgensen | 2:21.46 | 12 | 05/23/2014 | 2014 AZ MAC Speedo Arizona Invitational |
+| 6 | Eleora Bailey | 2:21.66 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
+| 7 | Michelle Trujillo | 2:22.79 | 12 | 04/30/2011 | 2011 AZ Ford April Intrasquad |
+| 8 | Stephanie Flores | 2:23.62 | 12 | 06/05/2016 | 2016 AZ FORD TYR Quest for the Rings ... |
+| 9 | Kristina Defoor | 2:24.33 | 12 | 07/17/2015 | 2015 AZ Swimming LC AG State C |
+| 10 | Ella Cosgrove | 2:24.67 | 11 | 06/14/2019 | 2019 SI Splash and Dash Meet |
 
 ### 13-14
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Brianna Leverenz | 2:07.21 | 14 | 05/25/2012 | 2012 AZ Arizona Invitational |
-| 2 | Sarah Bennett ‡ | 2:07.39 | 14 | 06/22/2006 | 2006 CA NOVA Summer AG  |
-| 3 | Tori Dabney | 2:08.11 | 13 | 07/17/2015 | 2015 AZ Swimming LC AG State C |
-| 4 | Teagan McGinnis | 2:08.38 | 14 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
-| 5 | Ella Cosgrove | 2:08.99 | 13 | 05/30/2021 | 2021 AZ SAC Cactus Classic |
-| 6 | Natalie Ward | 2:09.18 | 14 | 05/24/2013 | 2013 AZ Invitational |
-| 7 | Molly Houlton ‡ | 2:10.33 | 14 | 06/20/2002 | 2002 US Smoc  |
-| 8 | Samantha Covello | 2:11.03 | 14 | 04/01/2016 | 2016 Sectionals - Austin |
-| 9 | Karima Chuk ‡ | 2:11.30 | 14 | 06/22/2006 | 2006 CA NOVA Summer AG  |
-| 10 | Sydney Even | 2:11.91 | 14 | 07/27/2018 | 2018 AZ Senior Open LC Champio |
+| 2 | Tori Dabney | 2:08.11 | 13 | 07/17/2015 | 2015 AZ Swimming LC AG State C |
+| 3 | Teagan McGinnis | 2:08.38 | 14 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
+| 4 | Ella Cosgrove | 2:08.99 | 13 | 05/30/2021 | 2021 AZ SAC Cactus Classic |
+| 5 | Natalie Ward | 2:09.18 | 14 | 05/24/2013 | 2013 AZ Invitational |
+| 6 | Sarah Bennett | 2:09.84 | 14 | 07/27/2006 | 2006 AZ BEST Season Finale |
+| 7 | Samantha Covello | 2:11.03 | 14 | 04/01/2016 | 2016 Sectionals - Austin |
+| 8 | Karima Chuk | 2:11.60 | 14 | 07/18/2006 | 2006 PN Speedo Sectionals |
+| 9 | Sydney Even | 2:11.91 | 14 | 07/27/2018 | 2018 AZ Senior Open LC Champio |
+| 10 | Kristen Alicea-Jorgensen | 2:12.47 | 14 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
 
 ### 15-16
 
@@ -303,14 +303,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Ella Cosgrove | 5:11.89 | 10 | 07/19/2018 | 2018 AZ LC Age Group State Cha |
 | 2 | Eleora Bailey | 5:16.65 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
-| 3 | Taylor Alicea-Jorgensen ‡ | 5:25.48 | 10 | 05/03/2013 | 2013 NM LCAT Suntan Classic |
-| 4 | Teagan McGinnis | 5:29.92 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
-| 5 | Kristen Covello | 5:33.81 | 10 | 05/28/2010 | 2010 AZ United Healthcare Cactus |
-| 6 | Wren Smith | 5:37.46 | 10 | 05/03/2019 | 2019 AZ FAST Mayflower Invitational |
-| 7 | Stephanie Flores | 5:38.72 | 10 | 05/01/2015 | 2015 AZ FAST Mayflower Invitational 2015 |
-| 8 | Natalie Armstrong | 5:45.29 | 10 | 07/14/2016 | 2016 AZ LC Age Group State Championsh... |
-| 9 | Miriam Sarok | 5:45.55 | 10 | 07/18/2024 | 2024 AZ AZSI LC Age Group State Champ... |
-| 10 | Mandy Rothe | 5:46.60 | 9 | 05/24/2015 | 2015 AZ Cactus Classic |
+| 3 | Teagan McGinnis | 5:29.92 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
+| 4 | Kristen Covello | 5:33.81 | 10 | 05/28/2010 | 2010 AZ United Healthcare Cactus |
+| 5 | Wren Smith | 5:37.46 | 10 | 05/03/2019 | 2019 AZ FAST Mayflower Invitational |
+| 6 | Stephanie Flores | 5:38.72 | 10 | 05/01/2015 | 2015 AZ FAST Mayflower Invitational 2015 |
+| 7 | Natalie Armstrong | 5:45.29 | 10 | 07/14/2016 | 2016 AZ LC Age Group State Championsh... |
+| 8 | Miriam Sarok | 5:45.55 | 10 | 07/18/2024 | 2024 AZ AZSI LC Age Group State Champ... |
+| 9 | Mandy Rothe | 5:46.60 | 9 | 05/24/2015 | 2015 AZ Cactus Classic |
+| 10 | Elise Peters | 5:48.96 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
 
 ### 11-12
 
@@ -322,10 +322,10 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Teagan McGinnis | 4:52.04 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
 | 5 | Maggie Oliver | 4:55.76 | 12 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
 | 6 | Taylor Alicea-Jorgensen | 5:00.84 | 12 | 05/23/2014 | 2014 AZ MAC Speedo Arizona Invitational |
-| 7 | Razilee Luker ‡ | 5:01.75 | 12 | 05/02/2008 | 2008 AZ Southwest ClassicInvitational |
-| 8 | Dillon Nye | 5:02.87 | 12 | 06/10/2023 | 2023 AZ FORD Southwest Classic |
-| 9 | Ella Cosgrove | 5:03.37 | 11 | 07/20/2019 | 2019 AZ LC Age Group State Cha |
-| 10 | Mac Reagan | 5:04.68 | 12 | 05/24/2013 | 2013 AZ Invitational |
+| 7 | Dillon Nye | 5:02.87 | 12 | 06/10/2023 | 2023 AZ FORD Southwest Classic |
+| 8 | Ella Cosgrove | 5:03.37 | 11 | 07/20/2019 | 2019 AZ LC Age Group State Cha |
+| 9 | Mac Reagan | 5:04.68 | 12 | 05/24/2013 | 2013 AZ Invitational |
+| 10 | Kristen Covello | 5:06.79 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
 
 ### 13-14
 
@@ -333,14 +333,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Brianna Leverenz | 4:22.71 | 14 | 03/20/2012 | 2012 NCSA Junior National Swim |
 | 2 | Ella Cosgrove | 4:25.16 | 14 | 07/30/2021 | 2021 Futures Championships - West Fargo |
-| 3 | Molly Houlton ‡ | 4:25.20 | 14 | 07/23/2002 | 2002 US Speedo Champions |
-| 4 | Natalie Ward | 4:25.94 | 14 | 07/16/2013 | 2013 OR Speedo Western Section LC |
-| 5 | Karima Chuk | 4:28.31 | 14 | 07/18/2006 | 2006 PN Speedo Sectionals |
-| 6 | Ellie Doran | 4:29.44 | 14 | 03/10/2004 | 2004 PN Western Sect Spring Champs |
-| 7 | Lauren Baker | 4:32.51 | 14 | 07/10/2007 | 2007 OR Speedo Sectionals |
-| 8 | Sarah Bennett ‡ | 4:32.56 | 14 | 06/22/2006 | 2006 CA NOVA Summer AG  |
-| 9 | Samantha Covello | 4:33.23 | 14 | 04/02/2016 | 2016 Sectionals - Austin |
-| 10 | Teagan McGinnis | 4:35.92 | 14 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
+| 3 | Natalie Ward | 4:25.94 | 14 | 07/16/2013 | 2013 OR Speedo Western Section LC |
+| 4 | Karima Chuk | 4:28.31 | 14 | 07/18/2006 | 2006 PN Speedo Sectionals |
+| 5 | Ellie Doran | 4:29.44 | 14 | 03/10/2004 | 2004 PN Western Sect Spring Champs |
+| 6 | Lauren Baker | 4:32.51 | 14 | 07/10/2007 | 2007 OR Speedo Sectionals |
+| 7 | Samantha Covello | 4:33.23 | 14 | 04/02/2016 | 2016 Sectionals - Austin |
+| 8 | Sarah Bennett | 4:34.26 | 14 | 07/18/2006 | 2006 PN Speedo Sectionals |
+| 9 | Teagan McGinnis | 4:35.92 | 14 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
+| 10 | Sydney Even | 4:37.15 | 14 | 06/22/2018 | 2018 CA MVN Fran Crippen SMOC |
 
 ### 15-16
 
@@ -367,10 +367,10 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Sarah Tolar | 4:22.39 | 18 | 08/22/1999 | Pan Pacs |
 | 5 | Lacey Nymeyer | 4:24.53 | 17 | 07/10/2003 | 2003 CA JANET EVANS INV 0703 |
 | 6 | Lauren Baker | 4:25.10 | 17 | 07/20/2010 | 2010 OR Speedo Western Section LC |
-| 7 | Melissa Johnson ‡ | 4:25.58 | 18 | 12/04/2003 | 2003  ST Univ. of Texas Invi LCM |
-| 8 | Bonnie Diamond | 4:25.67 | 18 | 07/18/2014 | 2014 Speedo Western Section LC |
-| 9 | Claire Lockridge | 4:25.97 | 18 | 04/01/2015 | 2015 Canadian Swimming Trials |
-| 10 | Jenna Gamble | 4:26.69 | 18 | 07/12/2005 | 2005 PN Speedo Sectionals |
+| 7 | Bonnie Diamond | 4:25.67 | 18 | 07/18/2014 | 2014 Speedo Western Section LC |
+| 8 | Claire Lockridge | 4:25.97 | 18 | 04/01/2015 | 2015 Canadian Swimming Trials |
+| 9 | Jenna Gamble | 4:26.69 | 18 | 07/12/2005 | 2005 PN Speedo Sectionals |
+| 10 | Karli Thuen | 4:27.72 | 18 | 05/20/2016 | 2016 AZ FORD SW Classic Meet |
 
 ### Open
 
@@ -382,9 +382,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Leone Vorster | 4:10.93 | 21.0 | 08/04/2009 | 2009 U. S. Open |
 | 5 | Susana Helms | 4:12.74 | 20.0 | 08/04/2009 | 2009 U. S. Open |
 | 6 | Rory Schmidt | 4:14.35 | 19.0 | 07/07/2004 | 2004 Olympic Trials |
-| 7 | Tjasa Oder | 4:15.79 | 21.0 | 12/12/2015 | MM Maribor 2015 |
-| 8 | Monica Drake | 4:15.92 | 19.0 | 07/08/2010 | 2010 CA LOS ANGELES GRAND PRIX |
-| 9 | Emily Mason-Milak | 4:16.03 | 22.0 | 06/23/2005 | 2005 PC Santa Clara International |
+| 7 | Emily Mason-Milak | 4:15.13 | 22.0 | 04/01/2005 | 2005 Summer Nationals |
+| 8 | Tjasa Oder | 4:15.79 | 21.0 | 12/12/2015 | MM Maribor 2015 |
+| 9 | Monica Drake | 4:15.92 | 19.0 | 07/08/2010 | 2010 CA LOS ANGELES GRAND PRIX |
 | 10 | Hannah Cox | 4:16.21 | 20.0 | 06/22/2018 | 2018 CA MVN Fran Crippen SMOC |
 
 ---
@@ -407,8 +407,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Hailey Palma | 10:19.67 | 12 | 07/22/2010 | 2010 AZ Long Course Age Group  |
 | 7 | Delainey Christensen | 10:52.31 | 12 | 07/07/2017 | 2017 AZ JO LC Champs at DTAC |
 | 8 | Abby Brown | 10:53.71 | 12 | 07/19/2015 | 2015 AZ Swimming LC AG State C |
-| 9 | Maddie Hubbard ‡ | 11:04.63 | 11 | 06/05/2014 | 2014 AZ FORD Southwest Classic |
-| 10 | Emily Sizemore | 11:11.05 | 12 | 06/01/2017 | 2017 AZ FORD SW Classic Meet |
+| 9 | Emily Sizemore | 11:11.05 | 12 | 06/01/2017 | 2017 AZ FORD SW Classic Meet |
+| 10 | Lila Smith | 11:16.39 | 12 | 07/13/2018 | 2018 AZ LC JO's at DTAC |
 
 ### 13-14
 
@@ -420,7 +420,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Natalie Ward | 9:11.84 | 14 | 05/24/2013 | 2013 AZ Invitational |
 | 5 | Ella Cosgrove | 9:12.17 | 14 | 05/30/2022 | 2022 AZ FAST Southwest Classic |
 | 6 | Lauren Baker | 9:19.20 | 14 | 06/14/2007 | 2007 CA SMC |
-| 7 | Molly Houlton ‡ | 9:23.37 | 14 | 12/05/2002 | 2002 U.S. Open Championships |
+| 7 | Molly Houlton | 9:23.37 | 14 | 12/05/2002 | 2002 U.S. Open |
 | 8 | Samantha Covello | 9:26.21 | 14 | 04/03/2016 | 2016 Sectionals - Austin |
 | 9 | Teagan McGinnis | 9:30.91 | 13 | 06/21/2012 | 2012 CA RMDA June Age Group Invite |
 | 10 | Sydney Even | 9:34.11 | 14 | 06/24/2018 | 2018 CA MVN Fran Crippen SMOC |
@@ -447,28 +447,28 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Susana Helms | 8:46.51 | 18 | 07/31/2007 | 2007 Summer Nationals |
 | 2 | Ellie Doran | 8:56.70 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
 | 3 | Lauren Baker | 9:01.14 | 17 | 07/20/2010 | 2010 OR Speedo Western Section LC |
-| 4 | Claire Lockridge † | 9:01.95 | 18 | 08/09/2015 | 2015 Canadian Swimming Championships |
+| 4 | Claire Lockridge | 9:01.95 | 18 | 08/09/2015 | 2015 Canadian Swimming Championships |
 | 5 | Daniela Liera | 9:06.94 | 18 | 08/03/2017 | 2017 Futures - Santa Clara |
 | 6 | Caitlin Wright | 9:10.23 | 17 | 07/20/2010 | 2010 OR Speedo Western Section LC |
 | 7 | Kiki Hocheder | 9:15.86 | 18 | 07/20/2010 | 2010 OR Speedo Western Section LC |
 | 8 | Leighanne Oliver | 9:16.77 | 18 | 08/08/2011 | 2011 Summer Junior Nats |
 | 9 | Kristen Covello | 9:18.83 | 17 | 07/31/2016 | 2016 AZ LC Senior State Championship |
-| 10 | Laura Aronsson ‡ | 9:19.73 | 17 | 07/17/2003 | 2003 ST Texas Senior Circuit Long |
+| 10 | Kristie Fancher | 9:23.61 | 17 | 07/17/2003 | 2003 ST Texas Senior Circuit Long Champs |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Leah Smith | 8:16.33 | 23 | 04/10/2019 | 2019 Pro Series - Richmond |
-| 2 | Tjasa Oder † | 8:38.85 | 21 | 08/07/2015 | 2015 World Champs |
-| 3 | Ashley Evans ‡ | 8:42.67 | 16 | 07/08/2008 | 2008 Fina World Youth Champs |
-| 4 | Hannah Cox | 8:43.57 | 20 | 07/25/2018 | 2018 Summer Nationals |
-| 5 | Susana Helms | 8:44.63 | 20 | 08/04/2009 | 2009 U. S. Open |
-| 6 | Rory Schmidt | 8:46.09 | 19 | 07/07/2004 | 2004 Olympic Trials |
-| 7 | Kirsten Jacobsen | 8:46.63 | 20 | 07/25/2018 | 2018 Summer Nationals |
-| 8 | Joni Keith | 8:48.94 | 19 | 07/31/2007 | 2007 Summer Nationals |
-| 9 | Emily Mason-Milak | 8:50.43 | 22 | 06/16/2005 | 2005 CA TYR Meet of Champions |
-| 10 | Bonnie Brandon | 8:50.88 | 19 | 05/30/2013 | 2013 Pro Series - Santa Clara  |
+| 2 | Tjasa Oder | 8:38.85 | 21 | 08/07/2015 | 2015 World Champs |
+| 3 | Hannah Cox | 8:43.57 | 20 | 07/25/2018 | 2018 Summer Nationals |
+| 4 | Susana Helms | 8:44.63 | 20 | 08/04/2009 | 2009 U. S. Open |
+| 5 | Rory Schmidt | 8:46.09 | 19 | 07/07/2004 | 2004 Olympic Trials |
+| 6 | Kirsten Jacobsen | 8:46.63 | 20 | 07/25/2018 | 2018 Summer Nationals |
+| 7 | Joni Keith | 8:48.94 | 19 | 07/31/2007 | 2007 Summer Nationals |
+| 8 | Emily Mason-Milak | 8:50.43 | 22 | 06/16/2005 | 2005 CA TYR Meet of Champions |
+| 9 | Bonnie Brandon | 8:50.88 | 19 | 05/30/2013 | 2013 Pro Series - Santa Clara  |
+| 10 | Emma McCarthy | 8:51.63 | 19 | 07/14/2016 | 2016 CA  Los Angeles Invite |
 
 ---
 
@@ -493,9 +493,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Mac Reagan | 19:42.41 | 12 | 05/24/2013 | 2013 AZ Invitational |
 | 6 | Eleora Bailey | 20:02.60 | 12 | 04/30/2011 | 2011 AZ Ford April Intrasquad |
 | 7 | Michelle Trujillo | 20:08.82 | 12 | 04/30/2011 | 2011 AZ Ford April Intrasquad |
-| 8 | Maddie Hubbard ‡ | 20:55.34 | 11 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 9 | Hailey Palma ‡ | 20:57.09 | 12 | 06/26/2010 | 2010 AZ June Meet |
-| 10 | Jordan Harms | 21:13.52 | 12 | 05/05/2017 | 2017 AZ FAST Mayflower Invite |
+| 8 | Jordan Harms | 21:13.52 | 12 | 05/05/2017 | 2017 AZ FAST Mayflower Invite |
+| 9 | Emily Sizemore | 21:35.64 | 12 | 05/05/2017 | 2017 AZ FAST Mayflower Invite |
+| 10 | Delainey Christensen | 21:35.91 | 12 | 05/05/2017 | 2017 AZ FAST Mayflower Invite |
 
 ### 13-14
 
@@ -507,10 +507,10 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Ellie Doran | 17:45.96 | 14 | 03/10/2004 | 2004 PN Western Sect Spring Champs |
 | 5 | Lauren Baker | 18:06.01 | 14 | 06/14/2007 | 2007 CA SMC |
 | 6 | Brianna Leverenz | 18:06.62 | 14 | 06/14/2012 | 2012 AZ Phoenix Summer Invitation |
-| 7 | Tabina Chuk ‡ | 18:28.20 | 14 | 03/10/2004 | 2004 PN Western Sect Spring Champs |
-| 8 | Sydney Even ‡ | 18:33.27 | 13 | 07/13/2017 | 2017 AZ LC Age Group State |
-| 9 | Samantha Covello | 18:36.58 | 14 | 07/14/2016 | 2016 AZ LC Age Group State Championsh... |
-| 10 | Joely Ciasca | 18:54.62 | 13 | 07/19/2018 | 2018 AZ LC Age Group State Cha |
+| 7 | Tabina Chuk | 18:36.11 | 14 | 06/17/2004 | 2004 CA IHAC AA 06/04 |
+| 8 | Samantha Covello | 18:36.58 | 14 | 07/14/2016 | 2016 AZ LC Age Group State Championsh... |
+| 9 | Joely Ciasca | 18:54.62 | 13 | 07/19/2018 | 2018 AZ LC Age Group State Cha |
+| 10 | Mac Reagan | 18:55.79 | 14 | 07/23/2015 | 2015 AZ Swimming LC Senior Cha |
 
 ### 15-16
 
@@ -531,31 +531,31 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Rory Schmidt ‡ | 16:41.34 | 18 | 08/05/2003 | 2003 Summer Nationals |
-| 2 | Claire Lockridge † | 17:09.33 | 18 | 08/06/2015 | 2015 Canadian Swimming Championships |
-| 3 | Susana Helms | 17:11.92 | 18 | 07/31/2007 | 2007 Summer Nationals |
-| 4 | Ellie Doran | 17:12.92 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
-| 5 | Leighanne Oliver | 17:38.32 | 18 | 06/23/2011 | 2011 GU TWST Senior Invitational |
-| 6 | Lauren Baker | 17:38.92 | 17 | 06/17/2010 | 2010 AZ Phoenix Summer Invite |
-| 7 | Caitlin Wright | 17:44.31 | 17 | 07/20/2010 | 2010 OR Speedo Western Section LC |
-| 8 | Jenna Gamble | 17:46.38 | 18 | 07/12/2005 | 2005 PN Speedo Sectionals |
-| 9 | Abbey McIntosh | 17:50.54 | 17 | 07/23/2002 | 2002 US Speedo Champions |
-| 10 | Laura Aronsson ‡ | 17:55.46 | 17 | 07/17/2003 | 2003 ST Texas Senior Circuit Long Champs |
+| 1 | Claire Lockridge | 17:09.33 | 18 | 08/06/2015 | 2015 Canadian Swimming Championships |
+| 2 | Susana Helms | 17:11.92 | 18 | 07/31/2007 | 2007 Summer Nationals |
+| 3 | Ellie Doran | 17:12.92 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
+| 4 | Leighanne Oliver | 17:38.32 | 18 | 06/23/2011 | 2011 GU TWST Senior Invitational |
+| 5 | Lauren Baker | 17:38.92 | 17 | 06/17/2010 | 2010 AZ Phoenix Summer Invite |
+| 6 | Caitlin Wright | 17:44.31 | 17 | 07/20/2010 | 2010 OR Speedo Western Section LC |
+| 7 | Jenna Gamble | 17:46.38 | 18 | 07/12/2005 | 2005 PN Speedo Sectionals |
+| 8 | Abbey McIntosh | 17:50.54 | 17 | 07/23/2002 | 2002 US Speedo Champions |
+| 9 | Kiki Hocheder | 18:01.50 | 18 | 07/20/2010 | 2010 OR Speedo Western Section LC |
+| 10 | Kristie Fancher | 18:05.05 | 17 | 07/17/2003 | 2003 ST Texas Senior Circuit Long |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Leah Smith | 16:11.80 | 25 | 03/03/2021 | 2021 TYR Pro Swim Series - San |
-| 2 | Tjasa Oder † | 16:31.22 | 21 | 08/03/2015 | 2015 World Champs |
-| 3 | Ashley Evans ‡ | 16:37.98 | 16 | 07/08/2008 | 2008 Fina World Youth Champs |
-| 4 | Susana Helms | 16:49.65 | 21 | 07/08/2010 | 2010 CA LOS ANGELES GRAND PRIX |
-| 5 | Joni Keith | 16:54.45 | 19 | 07/12/2007 | 2007 CA Janet Evans Inv |
-| 6 | Claire Lockridge | 17:00.15 | 19 | 07/14/2016 | 2016 CA  Los Angeles Invite |
-| 7 | Rory Schmidt | 17:09.06 | 19 | 06/10/2004 | 2004 CA Janet Evans Invitational |
-| 8 | Ayumi Macias Alba | 17:11.29 | 24 | 05/12/2021 | 2021 TYR Pro Swim Series - Ind |
-| 9 | Ellie Doran | 17:12.92 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
-| 10 | Karima Chuk | 17:14.77 | 16 | 08/04/2008 | 2008 Summer Junior Nats  |
+| 2 | Tjasa Oder | 16:31.22 | 21 | 08/03/2015 | 2015 World Champs |
+| 3 | Susana Helms | 16:49.65 | 21 | 07/08/2010 | 2010 CA LOS ANGELES GRAND PRIX |
+| 4 | Joni Keith | 16:54.45 | 19 | 07/12/2007 | 2007 CA Janet Evans Inv |
+| 5 | Claire Lockridge | 17:00.15 | 19 | 07/14/2016 | 2016 CA  Los Angeles Invite |
+| 6 | Rory Schmidt | 17:09.06 | 19 | 06/10/2004 | 2004 CA Janet Evans Invitational |
+| 7 | Ayumi Macias Alba | 17:11.29 | 24 | 05/12/2021 | 2021 TYR Pro Swim Series - Ind |
+| 8 | Ellie Doran | 17:12.92 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
+| 9 | Karima Chuk | 17:14.77 | 16 | 08/04/2008 | 2008 Summer Junior Nats  |
+| 10 | Jackie Corcoran | 17:25.37 | 21 | 07/17/2003 | 2003 ST Texas Senior Circuit Long |
 
 ---
 
@@ -566,15 +566,15 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Addie Hobbs | 37.23 | 10 | 07/18/2021 | 2021 AZ  LC Age Group State @ YWSF |
-| 2 | Taylor Alicea-Jorgensen ‡ | 38.43 | 10 | 05/03/2013 | 2013 NM LCAT Suntan Classic |
-| 3 | Eleora Bailey | 38.97 | 10 | 07/29/2009 | 2009 PC  LCM FAR WEST CHM |
-| 4 | Ella Cosgrove | 39.28 | 10 | 05/06/2018 | 2018 AZ FAST Mayflower Invitational |
-| 5 | Mandy Rothe | 39.95 | 9 | 06/20/2015 | 2015 AZ Oro Valley Open Jon Borendame |
-| 6 | Allie Even | 40.26 | 10 | 05/06/2018 | 2018 AZ FAST Mayflower Invitational |
-| 7 | Natalie Armstrong | 40.30 | 10 | 06/04/2016 | 2016 AZ FORD TYR Quest for the Rings ... |
-| 8 | Gracyn Haas | 40.33 | 10 | 06/02/2017 | 2017 AZ FORD SW Classic Meet |
-| 9 | Tatum Nye | 41.01 | 10 | 05/26/2024 | 2024 AZ FORD Southwest Classic |
-| 10 | Abby Brown ‡ | 41.14 | 10 | 06/05/2014 | 2014 AZ FORD Southwest Classic |
+| 2 | Eleora Bailey | 38.97 | 10 | 07/29/2009 | 2009 PC  LCM FAR WEST CHM |
+| 3 | Ella Cosgrove | 39.28 | 10 | 05/06/2018 | 2018 AZ FAST Mayflower Invitational |
+| 4 | Mandy Rothe | 39.95 | 9 | 06/20/2015 | 2015 AZ Oro Valley Open Jon Borendame |
+| 5 | Allie Even | 40.26 | 10 | 05/06/2018 | 2018 AZ FAST Mayflower Invitational |
+| 6 | Natalie Armstrong | 40.30 | 10 | 06/04/2016 | 2016 AZ FORD TYR Quest for the Rings ... |
+| 7 | Gracyn Haas | 40.33 | 10 | 06/02/2017 | 2017 AZ FORD SW Classic Meet |
+| 8 | Tatum Nye | 41.01 | 10 | 05/26/2024 | 2024 AZ FORD Southwest Classic |
+| 9 | Mia Reidy | 41.33 | 9 | 07/21/2018 | 2018 AZ LC Age Group State Cha |
+| 10 | Kristen Covello | 41.42 | 10 | 05/28/2010 | 2010 AZ United Healthcare Cactus |
 
 ### 11-12
 
@@ -660,15 +660,15 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Ella Cosgrove | 1:20.44 | 10 | 07/21/2018 | 2018 AZ LC Age Group State Cha |
-| 2 | Taylor Alicea-Jorgensen ‡ | 1:21.38 | 10 | 05/03/2013 | 2013 NM LCAT Suntan Classic |
-| 3 | Mandy Rothe | 1:21.46 | 9 | 05/23/2015 | 2015 AZ Cactus Classic |
-| 4 | Stephanie Flores | 1:24.35 | 10 | 05/03/2015 | 2015 AZ FAST Mayflower Invitational 2015 |
-| 5 | Eleora Bailey | 1:25.17 | 10 | 07/29/2009 | 2009 PC  LCM FAR WEST CHM |
-| 6 | Natalie Armstrong | 1:25.67 | 10 | 06/05/2016 | 2016 AZ FORD TYR Quest for the Rings ... |
-| 7 | Teagan McGinnis | 1:26.55 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
-| 8 | Holly Flores | 1:27.22 | 10 | 07/21/2018 | 2018 AZ LC Age Group State Cha |
-| 9 | Allie Even | 1:27.58 | 10 | 05/05/2018 | 2018 AZ FAST Mayflower Invitational |
-| 10 | Miriam Sarok | 1:27.60 | 10 | 07/20/2024 | 2024 AZ AZSI LC Age Group State Champ... |
+| 2 | Mandy Rothe | 1:21.46 | 9 | 05/23/2015 | 2015 AZ Cactus Classic |
+| 3 | Stephanie Flores | 1:24.35 | 10 | 05/03/2015 | 2015 AZ FAST Mayflower Invitational 2015 |
+| 4 | Eleora Bailey | 1:25.17 | 10 | 07/29/2009 | 2009 PC  LCM FAR WEST CHM |
+| 5 | Natalie Armstrong | 1:25.67 | 10 | 06/05/2016 | 2016 AZ FORD TYR Quest for the Rings ... |
+| 6 | Teagan McGinnis | 1:26.55 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
+| 7 | Holly Flores | 1:27.22 | 10 | 07/21/2018 | 2018 AZ LC Age Group State Cha |
+| 8 | Allie Even | 1:27.58 | 10 | 05/05/2018 | 2018 AZ FAST Mayflower Invitational |
+| 9 | Miriam Sarok | 1:27.60 | 10 | 07/20/2024 | 2024 AZ AZSI LC Age Group State Champ... |
+| 10 | Gracyn Haas | 1:29.07 | 10 | 07/15/2017 | 2017 AZ LC Age Group State |
 
 ### 11-12
 
@@ -683,7 +683,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Eleora Bailey | 1:17.50 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
 | 8 | Stephanie Flores | 1:17.52 | 12 | 06/05/2016 | 2016 AZ FORD TYR Quest for the Rings ... |
 | 9 | Ella Cosgrove | 1:18.23 | 11 | 07/20/2019 | 2019 AZ LC Age Group State Cha |
-| 10 | Dalen Hinderaker | 1:18.45 | 12 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
+| 10 | Cecelia Croman | 1:18.45 | 12 | 05/22/2009 | 2009 AZ Swimming World Cactus Classic |
 
 ### 13-14
 
@@ -708,19 +708,19 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 2 | Skylar Dikeman | 1:04.25 | 16 | 08/04/2018 | 2018 Futures - Santa Clara |
 | 3 | Molly Houlton | 1:04.71 | 15 | 08/05/2003 | 2003 Summer Nationals |
 | 4 | Stef Wells | 1:05.03 | 16 | 08/06/2007 | 2007 Summer Junior Nats |
-| 5 | Shayla Markle ‡ | 1:07.28 | 16 | 07/28/2018 | 2018 AZ Senior Open LC Champio |
-| 6 | Kate Rollins | 1:07.73 | 16 | 08/01/1998 | Jun |
-| 7 | Emma Munsch | 1:07.78 | 16 | 03/28/2006 | 2006 Spring Nationals |
-| 8 | Cecelia Croman | 1:08.22 | 16 | 06/07/2012 | 2012 AZ Tucson Ford Dealers June Invit |
-| 9 | Taylor Alicea-Jorgensen | 1:08.29 | 16 | 07/28/2018 | 2018 AZ Senior Open LC Champio |
-| 10 | Dria Nickles | 1:08.33 | 16 | 07/12/2012 | 2012 AZ LC Senior State Champions |
+| 5 | Kate Rollins | 1:07.73 | 16 | 08/01/1998 | Jun |
+| 6 | Emma Munsch | 1:07.78 | 16 | 03/28/2006 | 2006 Spring Nationals |
+| 7 | Cecelia Croman | 1:08.22 | 16 | 06/07/2012 | 2012 AZ Tucson Ford Dealers June Invit |
+| 8 | Taylor Alicea-Jorgensen | 1:08.29 | 16 | 07/28/2018 | 2018 AZ Senior Open LC Champio |
+| 9 | Dria Nickles | 1:08.33 | 16 | 07/12/2012 | 2012 AZ LC Senior State Champions |
+| 10 | Razilee Luker | 1:08.59 | 15 | 07/08/2010 | 2010 AZ  LC Senior State |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Skylar Dikeman | 1:02.95 | 18 | 02/17/2020 | 2020 AZ FORD Old Pueblo Senior Meet |
-| 2 | Taylor Garcia † | 1:03.33 | 18 | 04/15/2016 | 2016 Pro Series - Mesa |
+| 2 | Taylor Garcia | 1:03.33 | 18 | 04/15/2016 | 2016 Pro Series - Mesa |
 | 3 | Taylor Schick | 1:03.84 | 18 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
 | 4 | Caitlin Iversen | 1:04.96 | 18 | 07/12/2007 | 2007 CA Janet Evans Inv |
 | 5 | Ryann Hackett | 1:05.55 | 18 | 07/10/2003 | 2003 CA JANET EVANS INV 0703 |
@@ -798,11 +798,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Skylar Dikeman | 2:18.85 | 16 | 08/05/2018 | 2018 Futures - Santa Clara |
 | 4 | Stef Wells | 2:22.83 | 16 | 08/06/2007 | 2007 Summer Junior Nats |
 | 5 | Dalen Hinderaker | 2:25.83 | 15 | 03/31/2016 | 2016 Sectionals - Austin |
-| 6 | Shayla Markle ‡ | 2:26.61 | 16 | 08/05/2018 | 2018 Futures - Santa Clara |
-| 7 | Cecelia Croman | 2:27.07 | 16 | 07/12/2012 | 2012 AZ LC Senior State Champions |
-| 8 | Dria Nickles | 2:27.95 | 16 | 07/12/2012 | 2012 AZ LC Senior State Champions |
-| 9 | Frankie Judy | 2:28.05 | 16 | 03/10/2004 | 2004 PN Western Sect Spring Champs |
-| 10 | Hannah Houlton | 2:28.22 | 15 | 07/31/2016 | 2016 AZ LC Senior State Championship |
+| 6 | Cecelia Croman | 2:27.07 | 16 | 07/12/2012 | 2012 AZ LC Senior State Champions |
+| 7 | Dria Nickles | 2:27.95 | 16 | 07/12/2012 | 2012 AZ LC Senior State Champions |
+| 8 | Frankie Judy | 2:28.05 | 16 | 03/10/2004 | 2004 PN Western Sect Spring Champs |
+| 9 | Hannah Houlton | 2:28.22 | 15 | 07/31/2016 | 2016 AZ LC Senior State Championship |
+| 10 | Courtney Dangremond | 2:29.22 | 16 | 07/21/2009 | 2009 OR Speedo Western Section LC |
 
 ### 17-18
 
@@ -847,11 +847,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Reagan Edquid | 43.51 | 9 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
 | 4 | Eleora Bailey | 44.34 | 10 | 06/18/2009 | 2009 AZ Sparky Invite |
 | 5 | Kristen Covello | 44.87 | 10 | 05/28/2010 | 2010 AZ United Healthcare Cactus |
-| 6 | Taylor Alicea-Jorgensen ‡ | 45.49 | 10 | 05/03/2013 | 2013 NM LCAT Suntan Classic |
-| 7 | Chloe Garcia | 45.62 | 10 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 8 | lindsey Sohoel-Smith | 45.75 | 10 | 05/04/2012 | 2012 AZ Southwest Classic Invitational |
-| 9 | Emily Sizemore ‡ | 45.79 | 10 | 07/17/2015 | 2015 AZ Swimming LC AG State C |
-| 10 | Taylor Palma | 45.93 | 10 | 04/30/2011 | 2011 AZ Ford April Intrasquad |
+| 6 | Chloe Garcia | 45.62 | 10 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
+| 7 | lindsey Sohoel-Smith | 45.75 | 10 | 05/04/2012 | 2012 AZ Southwest Classic Invitational |
+| 8 | Taylor Palma | 45.93 | 10 | 04/30/2011 | 2011 AZ Ford April Intrasquad |
+| 9 | Alex Montano | 46.03 | 10 | 07/08/2016 | 2016 AZ AG Regional Long Course Champ... |
+| 10 | Marina Mansell | 46.04 | 10 | 07/14/2017 | 2017 AZ LC Age Group State |
 
 ### 11-12
 
@@ -895,23 +895,23 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Christiana Williams | 36.78 | 16 | 06/01/2018 | 2018 AZ Cactus Classic |
 | 7 | Briana Wilford | 36.81 | 16 | 05/17/2008 | 2008 AZ Last Minute Invitational |
 | 8 | Connie Lee | 37.23 | 15 | 06/29/2018 | 2018 AZ Oro Valley Jon Borendame |
-| 9 | Daniella Emami | 37.43 | 15 | 07/08/2010 | 2010 AZ  LC Senior State |
-| 10 | Veronica So | 38.21 | 16 | 07/08/2010 | 2010 LC Senior State |
+| 9 | Daniella Emami | 37.43 | 15 | 07/08/2010 | 2010 LC Senior State |
+| 10 | Veronica So | 38.21 | 16 | 07/08/2010 | 2010 AZ  LC Senior State |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Sara Borendame | 33.15 | 18 | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Bore... |
-| 2 | Amy Spaay ‡ | 34.2 | 17 | 07/09/2009 | 2009 AZ Long Course Senior State |
-| 3 | Lindsay Hnyda | 35.78 | 18 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
-| 4 | Brandy Maben | 36.3 | 18 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
-| 5 | Jessica McNamee | 36.38 | 17 | 06/23/2011 | 2011 GU TWST Senior Invitational |
-| 6 | Courtney Rhodenbaugh | 36.48 | 17 | 07/24/2008 | 2008 AZ  Senior State |
-| 7 | Christiana Williams | 36.8 | 18 | 02/17/2020 | 2020 AZ FORD Old Pueblo Senior Meet |
-| 8 | lindsey Sohoel-Smith | 36.91 | 17 | 06/21/2019 | 2019 AZ FAST Oro Valley Jon Borendame |
-| 9 | Leighanne Oliver | 36.94 | 17 | 06/25/2010 | 2010 AZ Sparky Invite  |
-| 10 | Chloe Garcia | 37.53 | 17 | 06/01/2018 | 2018 AZ Cactus Classic |
+| 2 | Lindsay Hnyda | 35.78 | 18 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
+| 3 | Brandy Maben | 36.3 | 18 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
+| 4 | Jessica McNamee | 36.38 | 17 | 06/23/2011 | 2011 GU TWST Senior Invitational |
+| 5 | Courtney Rhodenbaugh | 36.48 | 17 | 07/24/2008 | 2008 AZ  Senior State |
+| 6 | Christiana Williams | 36.8 | 18 | 02/17/2020 | 2020 AZ FORD Old Pueblo Senior Meet |
+| 7 | lindsey Sohoel-Smith | 36.91 | 17 | 06/21/2019 | 2019 AZ FAST Oro Valley Jon Borendame |
+| 8 | Leighanne Oliver | 36.94 | 17 | 06/25/2010 | 2010 AZ Sparky Invite  |
+| 9 | Chloe Garcia | 37.53 | 17 | 06/01/2018 | 2018 AZ Cactus Classic |
+| 10 | Hope Peterson | 38.07 | 18 | 07/09/2009 | 2009 AZ Long Course Senior State |
 
 ### Open
 
@@ -922,11 +922,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Amanda Beard ◊ | 31.94 | nan | 2011-05-12 | NC Charlotte UltraSwim 2011 |
 | 4 | Ellyn Baumgardner | 32.01 | 22.0 | 06/25/2013 | 2013 Summer Nationals |
 | 5 | Emma Simonson | 32.30 | 21.0 | 05/22/2015 | 2015 AZ Cactus Classic |
-| 6 | Eve Sarris | 32.54 | 23.0 | 06/25/2013 | 2013 Summer Nationals |
-| 7 | Mallory Korenwinder | 32.54 | 21.0 | 06/22/2019 | 2019 CA MVN SMOC |
-| 8 | Greta Leberfinger ‡ | 32.81 | 22.0 | 12/03/2015 | 2015 Winter Nats Time Trials  |
-| 9 | Sara Borendame | 33.15 | 18.0 | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Bore... |
-| 10 | Alexandra Martelle | 33.36 | 21.0 | 06/29/2017 | 2017 Summer Nationals |
+| 6 | Mallory Korenwinder | 32.54 | 21.0 | 06/22/2019 | 2019 CA MVN SMOC |
+| 7 | Eve Sarris | 32.54 | 23.0 | 06/25/2013 | 2013 Summer Nationals |
+| 8 | Sara Borendame | 33.15 | 18.0 | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Bore... |
+| 9 | Alexandra Martelle | 33.36 | 21.0 | 06/29/2017 | 2017 Summer Nationals |
+| 10 | Lauren Schwaab | 33.66 | 21.0 | 05/22/2015 | 2015 AZ Cactus Classic |
 
 ---
 
@@ -953,14 +953,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Chloe Garcia | 1:18.94 | 12 | 05/24/2013 | 2013 AZ Invitational |
 | 2 | Hannah McIver | 1:23.01 | 12 | 07/17/2016 | 2016 AZ LC Age Group State Championsh... |
-| 3 | Razilee Luker ‡ | 1:23.19 | 12 | 05/23/2008 | 2008 AZ Swimming World Cactus Classic |
-| 4 | Tori Dabney ‡ | 1:23.48 | 12 | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Bore... |
-| 5 | Scarlett Bonomolo | 1:23.96 | 12 | 07/17/2022 | 2022 AZ LC Age Group State Championship |
-| 6 | Sarah Schou | 1:24.32 | 12 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
-| 7 | Teagan McGinnis | 1:25.22 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 8 | Brooke Kimball | 1:25.38 | 12 | 07/19/2015 | 2015 AZ Swimming LC AG State C |
-| 9 | lindsey Sohoel-Smith | 1:25.41 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 10 | Claudia Garcia | 1:25.47 | 12 | 05/25/2012 | 2012 AZ Arizona Invitational |
+| 3 | Scarlett Bonomolo | 1:23.96 | 12 | 07/17/2022 | 2022 AZ LC Age Group State Championship |
+| 4 | Sarah Schou | 1:24.32 | 12 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
+| 5 | Teagan McGinnis | 1:25.22 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
+| 6 | Brooke Kimball | 1:25.38 | 12 | 07/19/2015 | 2015 AZ Swimming LC AG State C |
+| 7 | lindsey Sohoel-Smith | 1:25.41 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
+| 8 | Claudia Garcia | 1:25.47 | 12 | 05/25/2012 | 2012 AZ Arizona Invitational |
+| 9 | Lauren Jorgensen | 1:25.93 | 12 | 07/19/2015 | 2015 AZ Swimming LC AG State C |
+| 10 | Elise Peters | 1:26.18 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
 
 ### 13-14
 
@@ -973,7 +973,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Holland Nye | 1:17.62 | 14 | 05/03/2024 | 2024 18 & Under Spring Cup - Mesa |
 | 6 | lindsey Sohoel-Smith | 1:18.35 | 14 | 07/17/2016 | 2016 AZ LC Age Group State Championsh... |
 | 7 | Karlee Carver | 1:19.28 | 13 | 05/23/2003 | 2003 PC Intermountain Classic |
-| 8 | Sarah Schou | 1:19.72 | 13 | 07/15/2014 | 2014 OR Speedo Western Section LC |
+| 8 | Sarah Schou | 1:19.72 | 13 | 07/18/2014 | 2014 Speedo Western Section LC |
 | 9 | Melissa King | 1:20.15 | 14 | 07/17/2016 | 2016 AZ LC Age Group State Championsh... |
 | 10 | Teagan McGinnis | 1:20.27 | 13 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
 
@@ -1044,13 +1044,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Chloe Garcia | 2:48.90 | 12 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
 | 2 | Hannah McIver | 2:57.98 | 12 | 07/16/2016 | 2016 AZ LC Age Group State Championsh... |
 | 3 | lindsey Sohoel-Smith | 2:59.93 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 4 | Razilee Luker ‡ | 3:00.70 | 12 | 05/23/2008 | 2008 AZ Swimming World Cactus Classic |
-| 5 | Melissa King | 3:02.86 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 6 | Hailey Palma | 3:04.82 | 12 | 07/22/2010 | 2010 AZ Long Course Age Group  |
-| 7 | Emily Sizemore | 3:06.00 | 12 | 07/15/2017 | 2017 AZ LC Age Group State |
-| 8 | Eleora Bailey | 3:06.27 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
-| 9 | Sarah Schou | 3:06.34 | 12 | 06/28/2013 | 2013 AZ Oro Valley Open June 2013 |
-| 10 | Lauren Jorgensen | 3:06.78 | 12 | 07/18/2015 | 2015 AZ Swimming LC AG State C |
+| 4 | Melissa King | 3:02.86 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
+| 5 | Hailey Palma | 3:04.82 | 12 | 07/22/2010 | 2010 AZ Long Course Age Group  |
+| 6 | Emily Sizemore | 3:06.00 | 12 | 07/15/2017 | 2017 AZ LC Age Group State |
+| 7 | Eleora Bailey | 3:06.27 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
+| 8 | Sarah Schou | 3:06.34 | 12 | 06/28/2013 | 2013 AZ Oro Valley Open June 2013 |
+| 9 | Lauren Jorgensen | 3:06.78 | 12 | 07/18/2015 | 2015 AZ Swimming LC AG State C |
+| 10 | Esther Sarok | 3:06.95 | 12 | 05/24/2024 | 2024 AZ FORD Southwest Classic |
 
 ### 13-14
 
@@ -1093,9 +1093,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Liz Lightner | 2:39.80 | 18 | 07/27/1999 | Junior Champs Ba |
 | 6 | Erin Sieper | 2:40.59 | 18 | 06/05/2003 | 2003 AZ FORD Southwest Invitational |
 | 7 | Avery Spade | 2:41.39 | 18 | 07/14/2022 | 2022 OR Speedo Sectionals - Mt Hood |
-| 8 | Annie Chandler ‡ | 2:41.46 | 17 | 06/23/2005 | 2005 PC Santa Clara International |
-| 9 | lindsey Sohoel-Smith | 2:43.53 | 17 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
-| 10 | Chloe Garcia | 2:46.71 | 17 | 07/28/2018 | 2018 AZ Senior Open LC Champio |
+| 8 | lindsey Sohoel-Smith | 2:43.53 | 17 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
+| 9 | Chloe Garcia | 2:46.71 | 17 | 07/28/2018 | 2018 AZ Senior Open LC Champio |
+| 10 | Lindsay Hnyda | 2:47.73 | 18 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
 
 ### Open
 
@@ -1106,11 +1106,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Erin Sieper | 2:30.19 | 20.0 | 07/07/2004 | 2004 Olympic Trials |
 | 4 | Annie Chandler | 2:30.51 | 21.0 | 07/07/2009 | 2009 Summer Nationals |
 | 5 | Sara Borendame | 2:31.16 | 18.0 | 07/03/2014 | 2014 AZ LC Senior State Championship |
-| 6 | Greta Leberfinger ‡ | 2:31.39 | 22.0 | 12/05/2015 | 2015 Winter Nationals |
-| 7 | Jacquelyn Craft | 2:33.25 | 21.0 | 07/31/2007 | 2007 Summer Nationals |
-| 8 | Jessica Embick | 2:33.46 | 21.0 | 06/29/2008 | 2008 Olympic Trials |
-| 9 | Julie Stupp | 2:33.59 | 23.0 | 07/07/2009 | 2009 Summer Nationals |
-| 10 | Eve Sarris | 2:33.95 | 23.0 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
+| 6 | Jacquelyn Craft | 2:33.25 | 21.0 | 07/31/2007 | 2007 Summer Nationals |
+| 7 | Jessica Embick | 2:33.46 | 21.0 | 06/29/2008 | 2008 Olympic Trials |
+| 8 | Julie Stupp | 2:33.59 | 23.0 | 07/07/2009 | 2009 Summer Nationals |
+| 9 | Eve Sarris | 2:33.95 | 23.0 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
+| 10 | Eleni Gewalt | 2:35.14 | 21.0 | 05/18/2025 | 2025 AZ SUN Devil Open |
 
 ---
 
@@ -1121,15 +1121,15 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Addie Hobbs | 33.24 | 10 | 07/17/2021 | 2021 AZ  LC Age Group State @ YWSF |
-| 2 | Taylor Alicea-Jorgensen ‡ | 33.45 | 10 | 05/03/2013 | 2013 NM LCAT Suntan Classic |
-| 3 | Eleora Bailey | 34.15 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
-| 4 | Mandy Rothe | 35.35 | 9 | 06/05/2015 | 2015 AZ Southwest Classic |
-| 5 | Stephanie Flores | 35.78 | 10 | 05/16/2015 | 2015 AZ AZAC May Dayz Beach Party |
-| 6 | Marina Mansell | 36.26 | 10 | 07/29/2017 | 2017 PC TERA FAR WESTERNS |
-| 7 | Teagan McGinnis | 36.40 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
-| 8 | Reagan Edquid | 36.79 | 9 | 07/21/2018 | 2018 AZ LC Age Group State Cha |
-| 9 | Mia Reidy | 36.87 | 9 | 07/21/2018 | 2018 AZ LC Age Group State Cha |
-| 10 | Wren Smith | 36.96 | 10 | 04/19/2019 | 2019 AZ FORD FNL Long Course Meet |
+| 2 | Eleora Bailey | 34.15 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
+| 3 | Mandy Rothe | 35.35 | 9 | 06/05/2015 | 2015 AZ Southwest Classic |
+| 4 | Stephanie Flores | 35.78 | 10 | 05/16/2015 | 2015 AZ AZAC May Dayz Beach Party |
+| 5 | Marina Mansell | 36.26 | 10 | 07/29/2017 | 2017 PC TERA FAR WESTERNS |
+| 6 | Teagan McGinnis | 36.40 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
+| 7 | Reagan Edquid | 36.79 | 9 | 07/21/2018 | 2018 AZ LC Age Group State Cha |
+| 8 | Mia Reidy | 36.87 | 9 | 07/21/2018 | 2018 AZ LC Age Group State Cha |
+| 9 | Wren Smith | 36.96 | 10 | 04/19/2019 | 2019 AZ FORD FNL Long Course Meet |
+| 10 | Ella Cosgrove | 36.99 | 10 | 06/01/2018 | 2018 AZ Cactus Classic |
 
 ### 11-12
 
@@ -1140,11 +1140,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Kristina Defoor | 31.86 | 12 | 07/18/2015 | 2015 AZ Swimming LC AG State C |
 | 4 | Eleora Bailey | 31.96 | 11 | 07/22/2010 | 2010 AZ Long Course Age Group  |
 | 5 | Brooke Kimball | 32.02 | 12 | 07/18/2015 | 2015 AZ Swimming LC AG State C |
-| 6 | Tori Dabney ‡ | 32.3 | 12 | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Bore... |
-| 7 | Maggie Oliver | 32.35 | 12 | 06/07/2012 | 2012 AZ Tucson Ford Dealers June Invit |
-| 8 | Maddie Viceconte | 32.68 | 12 | 07/22/2010 | 2010 AZ Long Course Age Group  |
-| 9 | Holland Nye | 33.14 | 12 | 07/16/2022 | 2022 AZ LC Age Group State Championship |
-| 10 | Tiffany Corella | 33.26 | 12 | 06/04/2017 | 2017 AZ FORD SW Classic Meet |
+| 6 | Maggie Oliver | 32.35 | 12 | 06/07/2012 | 2012 AZ Tucson Ford Dealers June Invit |
+| 7 | Maddie Viceconte | 32.68 | 12 | 07/22/2010 | 2010 AZ Long Course Age Group  |
+| 8 | Holland Nye | 33.14 | 12 | 07/16/2022 | 2022 AZ LC Age Group State Championship |
+| 9 | Tiffany Corella | 33.26 | 12 | 06/04/2017 | 2017 AZ FORD SW Classic Meet |
+| 10 | Michelle Trujillo | 33.40 | 12 | 07/16/2010 | 2010 AZ LC Southern Regional Meet |
 
 ### 13-14
 
@@ -1157,9 +1157,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Avery Howayeck | 31.09 | 14 | 05/05/2018 | 2018 AZ FAST Mayflower Invitational |
 | 6 | Stephanie White | 31.22 | 14 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
 | 7 | Alysa Park | 31.26 | 14 | 07/19/2025 | 2025 AZ AZSI LC Age Group State Champ... |
-| 8 | Harley Quinn ‡ | 31.46 | 14 | 07/23/2009 | 2009 AZ LC Age Group State |
-| 9 | Avery Spade | 31.6 | 14 | 06/01/2018 | 2018 AZ Cactus Classic |
-| 10 | Stephanie Flores | 31.64 | 14 | 06/29/2018 | 2018 AZ Oro Valley Jon Borendame |
+| 8 | Avery Spade | 31.6 | 14 | 06/01/2018 | 2018 AZ Cactus Classic |
+| 9 | Stephanie Flores | 31.64 | 14 | 06/29/2018 | 2018 AZ Oro Valley Jon Borendame |
+| 10 | Michelle Trujillo | 31.87 | 14 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
 
 ### 15-16
 
@@ -1170,11 +1170,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Emma Munsch | 29.55 | 15 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
 | 4 | Susana Helms | 30.18 | 15 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
 | 5 | Briana Wilford | 30.22 | 16 | 07/24/2008 | 2008 AZ  Senior State |
-| 6 | Sasha Ganem ‡ | 30.46 | 16 | 05/14/2022 | 2022 AZ FAST Mayflower Invitational |
-| 7 | Miranda Lyle | 30.87 | 16 | 07/09/2009 | 2009 AZ Long Course Senior State |
-| 8 | Bonnie Diamond | 30.99 | 16 | 07/12/2012 | 2012 AZ LC Senior State Champions |
-| 9 | Erin Kelaher ‡ | 31.16 | 15 | 05/05/2018 | 2018 AZ FAST Mayflower Invitational |
-| 10 | Noelle Miesfeld | 31.24 | 15 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
+| 6 | Miranda Lyle | 30.87 | 16 | 07/09/2009 | 2009 AZ Long Course Senior State |
+| 7 | Bonnie Diamond | 30.99 | 16 | 07/12/2012 | 2012 AZ LC Senior State Champions |
+| 8 | Noelle Miesfeld | 31.24 | 15 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
+| 9 | Cecelia Croman | 31.44 | 15 | 07/07/2011 | 2011 AZ Long Course Senior Sta |
+| 10 | Michelle Trujillo | 31.45 | 16 | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Bore... |
 
 ### 17-18
 
@@ -1188,7 +1188,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Brandy Maben | 30.39 | 18 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
 | 7 | Razilee Luker | 30.43 | 17 | 07/12/2012 | 2012 AZ LC Senior State Champions |
 | 8 | Miranda Lyle | 30.98 | 17 | 07/08/2010 | 2010 AZ  LC Senior State |
-| 9 | Caitlin Wright | 31.24 | 17 | 07/08/2010 | 2010 AZ  LC Senior State |
+| 9 | Caitlin Wright | 31.24 | 17 | 07/08/2010 | 2010 LC Senior State |
 | 10 | Kaylin Farnum | 31.28 | 17 | 06/29/2018 | 2018 AZ Oro Valley Jon Borendame |
 
 ### Open
@@ -1216,14 +1216,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Mandy Rothe | 1:15.68 | 9 | 06/05/2015 | 2015 AZ Southwest Classic |
 | 2 | Eleora Bailey | 1:16.86 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
-| 3 | Taylor Alicea-Jorgensen ‡ | 1:17.21 | 10 | 05/03/2013 | 2013 NM LCAT Suntan Classic |
-| 4 | Addie Hobbs | 1:19.23 | 10 | 07/16/2021 | 2021 AZ  LC Age Group State @ YWSF |
-| 5 | Ella Cosgrove | 1:19.56 | 10 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
-| 6 | Teagan McGinnis | 1:22.58 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
-| 7 | Stephanie Flores | 1:22.98 | 10 | 05/03/2015 | 2015 AZ FAST Mayflower Invitational 2015 |
-| 8 | Mia Reidy | 1:25.09 | 9 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
-| 9 | Wren Smith | 1:30.66 | 10 | 05/05/2019 | 2019 AZ FAST Mayflower Invitational |
-| 10 | Ruby Smith | 1:31.03 | 10 | 05/05/2019 | 2019 AZ FAST Mayflower Invitational |
+| 3 | Addie Hobbs | 1:19.23 | 10 | 07/16/2021 | 2021 AZ  LC Age Group State @ YWSF |
+| 4 | Ella Cosgrove | 1:19.56 | 10 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
+| 5 | Teagan McGinnis | 1:22.58 | 10 | 07/23/2009 | 2009 AZ LC Age Group State |
+| 6 | Stephanie Flores | 1:22.98 | 10 | 05/03/2015 | 2015 AZ FAST Mayflower Invitational 2015 |
+| 7 | Mia Reidy | 1:25.09 | 9 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
+| 8 | Wren Smith | 1:30.66 | 10 | 05/05/2019 | 2019 AZ FAST Mayflower Invitational |
+| 9 | Ruby Smith | 1:31.03 | 10 | 05/05/2019 | 2019 AZ FAST Mayflower Invitational |
+| 10 | Kristen Covello | 1:31.94 | 10 | 05/28/2010 | 2010 AZ United Healthcare Cactus |
 
 ### 11-12
 
@@ -1248,12 +1248,12 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 2 | Tori Dabney | 1:05.25 | 13 | 07/17/2015 | 2015 AZ Swimming LC AG State C |
 | 3 | Avery Spade | 1:05.68 | 14 | 08/03/2018 | 2018 Futures - Santa Clara |
 | 4 | Lauren Baker | 1:06.14 | 14 | 07/19/2007 | 2007 AZ AG State |
-| 5 | Molly Houlton ‡ | 1:06.33 | 14 | 07/23/2002 | 2002 US Speedo Champions |
-| 6 | Sydney Even | 1:07.26 | 14 | 06/24/2018 | 2018 CA MVN Fran Crippen SMOC |
-| 7 | Krista Markle ‡ | 1:07.64 | 14 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
-| 8 | Stephanie Flores | 1:07.78 | 14 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
-| 9 | Cecelia Croman | 1:08.01 | 14 | 07/22/2010 | 2010 AZ Long Course Age Group  |
-| 10 | Kaci Kelaher | 1:08.23 | 14 | 05/15/2021 | 2021 AZ FAST Mayflower Invitational |
+| 5 | Sydney Even | 1:07.26 | 14 | 06/24/2018 | 2018 CA MVN Fran Crippen SMOC |
+| 6 | Stephanie Flores | 1:07.78 | 14 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
+| 7 | Cecelia Croman | 1:08.01 | 14 | 07/22/2010 | 2010 AZ Long Course Age Group  |
+| 8 | Kaci Kelaher | 1:08.23 | 14 | 05/15/2021 | 2021 AZ FAST Mayflower Invitational |
+| 9 | Ellie Doran | 1:08.25 | 14 | 07/24/2003 | 2003 AZ Age Group State Champs |
+| 10 | Hannah Houlton | 1:08.30 | 14 | 07/24/2015 | 2015 AZ Swimming LC Senior Cha |
 
 ### 15-16
 
@@ -1274,7 +1274,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Taylor Garcia † | 1:02.25 | 18 | 04/14/2016 | 2016 Pro Series - Mesa |
+| 1 | Taylor Garcia | 1:02.25 | 18 | 04/14/2016 | 2016 Pro Series - Mesa |
 | 2 | Paige Kremer | 1:02.33 | 18 | 04/01/2015 | 2015 Canadian Swimming Trials |
 | 3 | Lacey Nymeyer | 1:02.85 | 18 | 02/10/2004 | 2004 Spring Nationals |
 | 4 | Avery Spade | 1:02.97 | 18 | 07/16/2022 | 2022 OR Speedo Sectionals - Mt Hood |
@@ -1282,16 +1282,16 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Krista Duffield | 1:03.22 | 17 | 07/15/2014 | 2014 OR Speedo Western Section LC |
 | 7 | Lauren Baker | 1:03.27 | 17 | 07/20/2010 | 2010 OR Speedo Western Section LC |
 | 8 | Emma Munsch | 1:03.36 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
-| 9 | Sydney Even | 1:03.52 | 18 | 07/16/2022 | 2022 OR Speedo Sectionals - Mt Hood |
-| 10 | Kaci Kelaher | 1:03.52 | 18 | 07/13/2024 | 2024 OR SPEEDO SECTIONALS - MT HOOD |
+| 9 | Kaci Kelaher | 1:03.52 | 18 | 07/13/2024 | 2024 OR SPEEDO SECTIONALS - MT HOOD |
+| 10 | Sydney Even | 1:03.52 | 18 | 07/16/2022 | 2022 OR Speedo Sectionals - Mt Hood |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Christine Magnuson | 57.32 | 24 | 08/03/2010 | 2010 Summer Nationals |
-| 2 | Whitney Burnett | 59.13 | 23 | 06/29/2008 | 2008 Olympic Trials |
-| 3 | Junko Onishi | 59.13 | 25 | 09/16/2000 | 2000 Olympic Games |
+| 2 | Junko Onishi | 59.13 | 25 | 09/16/2000 | 2000 Olympic Games |
+| 3 | Whitney Burnett | 59.13 | 23 | 06/29/2008 | 2008 Olympic Trials |
 | 4 | Erin Campbell | 59.54 | 22 | 08/03/2010 | 2010 Summer Nationals |
 | 5 | Whitney Lopus | 59.95 | 20 | 08/03/2010 | 2010 Summer Nationals |
 | 6 | Dana Christ | 59.97 | 19 | 08/04/2009 | 2009 U. S. Open |
@@ -1338,7 +1338,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Avery Spade | 2:32.08 | 14 | 06/22/2018 | 2018 CA MVN Fran Crippen SMOC |
 | 8 | Hannah Cooper | 2:33.69 | 14 | 05/28/2023 | 2023 AZ MAC 12th Annual Speedo Invite |
 | 9 | Kyla Babson | 2:35.15 | 14 | 07/21/2019 | 2019 AZ LC Age Group State Cha |
-| 10 | Krista Markle ‡ | 2:35.52 | 14 | 07/22/2018 | 2018 AZ LC Age Group State Cha |
+| 10 | Michelle Trujillo | 2:35.91 | 14 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
 
 ### 15-16
 
@@ -1377,7 +1377,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Emily Mason-Milak | 2:09.93 | 22.0 | 08/03/2005 | 2005 Summer Nationals |
 | 2 | Whitney Burnett | 2:10.76 | 19.0 | 07/07/2004 | 2004 Olympic Trials |
 | 3 | Leah Smith | 2:10.92 | 23.0 | 07/08/2018 | 2018 Pro Series - Columbus  |
-| 4 | Alyssa Anderson | 2:11.08 | 20.0 | 08/02/2011 | 2011 Summer Nationals |
+| 4 | Alyssa Anderson ◊ | 2:11.08 | nan | 2011-08-02 | US National Championships (50m) |
 | 5 | Erin Campbell | 2:12.97 | 22.0 | 08/03/2010 | 2010 Summer Nationals |
 | 6 | Pepper Pepper | 2:13.53 | 21.0 | 08/06/2014 | 2014 Summer Nationals |
 | 7 | Jenny Forster | 2:14.60 | 19.0 | 07/31/2007 | 2007 Summer Nationals |
@@ -1399,8 +1399,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Mandy Rothe | 2:59.82 | 9 | 07/19/2015 | 2015 AZ Swimming LC AG State C |
 | 5 | Teagan McGinnis | 3:01.65 | 10 | 07/29/2009 | 2009 PC  LCM FAR WEST CHM |
 | 6 | Addie Hobbs | 3:06.76 | 10 | 06/26/2021 | 2021 AZ FAST Last Chance Meet |
-| 7 | Marina Mansell | 3:09.32 | 10 | 07/16/2017 | 2017 AZ LC Age Group State |
-| 8 | Ruby Smith | 3:09.32 | 10 | 05/05/2019 | 2019 AZ FAST Mayflower Invitational |
+| 7 | Ruby Smith | 3:09.32 | 10 | 05/05/2019 | 2019 AZ FAST Mayflower Invitational |
+| 8 | Marina Mansell | 3:09.32 | 10 | 07/16/2017 | 2017 AZ LC Age Group State |
 | 9 | Kristen Covello | 3:09.73 | 10 | 06/10/2010 | 2010 AZ Southwest "BB" Meet |
 | 10 | Maggie Oliver | 3:10.09 | 10 | 07/22/2010 | 2010 AZ Long Course Age Group  |
 
@@ -1410,14 +1410,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Eleora Bailey | 2:32.71 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
 | 2 | Taylor Alicea-Jorgensen | 2:33.24 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 3 | Tori Dabney ‡ | 2:37.30 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 4 | Razilee Luker ‡ | 2:38.94 | 12 | 05/23/2008 | 2008 AZ Swimming World Cactus Classic |
-| 5 | Stephanie Flores | 2:39.19 | 12 | 07/17/2016 | 2016 AZ LC Age Group State Championsh... |
-| 6 | Natalie Ward | 2:39.65 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
-| 7 | Hannah McIver | 2:41.38 | 12 | 07/17/2016 | 2016 AZ LC Age Group State Championsh... |
-| 8 | Teagan McGinnis | 2:42.29 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 9 | Hailey Palma | 2:42.43 | 12 | 07/22/2010 | 2010 AZ Long Course Age Group  |
-| 10 | Sarah Schou | 2:42.70 | 12 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
+| 3 | Stephanie Flores | 2:39.19 | 12 | 07/17/2016 | 2016 AZ LC Age Group State Championsh... |
+| 4 | Natalie Ward | 2:39.65 | 12 | 05/27/2011 | 2011 AZ Arizona Invite |
+| 5 | Hannah McIver | 2:41.38 | 12 | 07/17/2016 | 2016 AZ LC Age Group State Championsh... |
+| 6 | Teagan McGinnis | 2:42.29 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
+| 7 | Hailey Palma | 2:42.43 | 12 | 07/22/2010 | 2010 AZ Long Course Age Group  |
+| 8 | Sarah Schou | 2:42.70 | 12 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
+| 9 | Jordan Harms | 2:42.90 | 12 | 07/16/2017 | 2017 AZ LC Age Group State |
+| 10 | Emily Sizemore | 2:42.98 | 12 | 07/16/2017 | 2017 AZ LC Age Group State |
 
 ### 13-14
 
@@ -1476,7 +1476,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Andrea Boritzke | 2:16.51 | 20 | 06/29/2008 | 2008 Olympic Trials |
 | 7 | Annie Chandler | 2:16.79 | 20 | 07/29/2008 | 2008 U. S. Open |
 | 8 | Alyssa Anderson | 2:17.76 | 19 | 07/08/2010 | 2010 CA LOS ANGELES GRAND PRIX |
-| 9 | Shannyn Hultin † | 2:18.27 | 20 | 07/03/2013 | Swedish Championships |
+| 9 | Shannyn Hultin | 2:18.27 | 20 | 07/03/2013 | Swedish Championships |
 | 10 | Kathryn Thompson | 2:18.39 | 21 | 06/29/2008 | 2008 Olympic Trials |
 
 ---
@@ -1497,19 +1497,19 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Natalie Ward | 5:21.28 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
 | 2 | Stephanie Flores | 5:26.12 | 12 | 07/29/2016 | 2016 AZ LC Senior State Championship |
 | 3 | Taylor Alicea-Jorgensen | 5:27.05 | 12 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 4 | Tori Dabney ‡ | 5:32.88 | 12 | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Bore... |
-| 5 | Eleora Bailey | 5:32.98 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 6 | Ainsley Limesand | 5:42.56 | 12 | 07/17/2015 | 2015 AZ Swimming LC AG State C |
-| 7 | Emily Sizemore | 5:44.11 | 12 | 07/14/2017 | 2017 AZ LC Age Group State |
-| 8 | Hannah McIver | 5:45.58 | 12 | 07/15/2016 | 2016 AZ LC Age Group State Championsh... |
-| 9 | Razilee Luker ‡ | 5:45.86 | 12 | 05/23/2008 | 2008 AZ Swimming World Cactus Classic |
-| 10 | Hailey Palma | 5:46.70 | 12 | 07/22/2010 | 2010 AZ Long Course Age Group  |
+| 4 | Eleora Bailey | 5:32.98 | 12 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
+| 5 | Ainsley Limesand | 5:42.56 | 12 | 07/17/2015 | 2015 AZ Swimming LC AG State C |
+| 6 | Emily Sizemore | 5:44.11 | 12 | 07/14/2017 | 2017 AZ LC Age Group State |
+| 7 | Hannah McIver | 5:45.58 | 12 | 07/15/2016 | 2016 AZ LC Age Group State Championsh... |
+| 8 | Hailey Palma | 5:46.70 | 12 | 07/22/2010 | 2010 AZ Long Course Age Group  |
+| 9 | Jordan Harms | 5:48.05 | 12 | 07/14/2017 | 2017 AZ LC Age Group State |
+| 10 | Mac Reagan | 5:51.24 | 12 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
 
 ### 13-14
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Molly Houlton ‡ | 4:52.20 | 14 | 08/12/2002 | 2002 Summer Nationals |
+| 1 | Molly Houlton | 4:55.86 | 14 | 01/09/2003 | 2003 US Junior National Team Trip |
 | 2 | Ellie Doran | 5:01.73 | 14 | 03/10/2004 | 2004 PN Western Sect Spring Champs |
 | 3 | Lauren Baker | 5:09.50 | 14 | 07/10/2007 | 2007 OR Speedo Sectionals |
 | 4 | Sydney Even | 5:12.79 | 14 | 06/23/2018 | 2018 CA MVN Fran Crippen SMOC |
@@ -1547,8 +1547,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Susana Helms | 5:06.65 | 18 | 07/10/2007 | 2007 OR Speedo Sectionals |
 | 7 | Avery Spade | 5:10.05 | 18 | 05/27/2022 | 2022 AZ FAST Southwest Classic |
 | 8 | Sara Borendame | 5:10.34 | 17 | 07/05/2013 | 2013 AZ Swimming LC Senior State |
-| 9 | Laura Aronsson ‡ | 5:12.14 | 17 | 07/17/2003 | 2003 ST Texas Senior Circuit Long |
-| 10 | Lindsey Russenberger | 5:19.39 | 17 | 07/17/2003 | 2003 ST Texas Senior Circuit Long Champs |
+| 9 | Lindsey Russenberger | 5:19.39 | 17 | 07/17/2003 | 2003 ST Texas Senior Circuit Long Champs |
+| 10 | Kyla Babson | 5:21.01 | 17 | 07/01/2022 | 2022 AZ LC Senior State Championship |
 
 ### Open
 
@@ -1561,11 +1561,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Emily Mason-Milak | 4:49.47 | 21 | 07/07/2004 | 2004 Olympic Trials |
 | 6 | Amanda Beard | 4:49.72 | 22 | 06/10/2004 | 2004 CA Janet Evans Invitational |
 | 7 | Kathryn Thompson | 4:51.07 | 21 | 06/29/2008 | 2008 Olympic Trials |
-| 8 | Shannyn Hultin † | 4:51.14 | 20 | 07/03/2013 | Swedish Championships |
+| 8 | Shannyn Hultin | 4:51.14 | 20 | 07/03/2013 | Swedish Championships |
 | 9 | Hannah Cox | 4:51.59 | 20 | 07/27/2018 | 2018 Summer Nationals |
 | 10 | Carley Beaudreau | 4:54.05 | 20 | 07/09/2009 | 2009 AZ Long Course Senior State |
 
 ---
 
-*Generated: October 06, 2025 at 03:56 PM*
+*Generated: October 06, 2025 at 04:35 PM*
 *International swim policy: During-Ford-Year*

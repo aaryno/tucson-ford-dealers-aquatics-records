@@ -44,7 +44,7 @@
 | 13-14 | 2:00.50 | Aidan Reagan | 07/28/2017 | 2017 AZ Senior LC Champs |
 | 15-16 | 1:54.42 | Aidan Reagan | 06/13/2019 | 2019 Pro Series - Clovis |
 | 17-18 | 1:50.52 | Brooks Fail | 07/26/2018 | 2018 Summer Nationals |
-| Open | 1:45.67 | Jean Basson † | 07/26/2009 | 2009 World Champs  |
+| Open | 1:45.67 | Jean Basson | 07/26/2009 | 2009 World Champs  |
 
 ### 400 Freestyle
 
@@ -55,7 +55,7 @@
 | 13-14 | 4:12.48 | Aidan Reagan | 08/05/2017 | 2017 Futures - Santa Clara |
 | 15-16 | 4:01.06 | Aidan Reagan | 08/04/2018 | 2018 Futures - Santa Clara |
 | 17-18 | 3:52.24 | Brooks Fail | 07/28/2018 | 2018 Summer Nationals |
-| Open | 3:46.64 | Jean Basson † | 07/26/2009 | 2009 World Champs  |
+| Open | 3:46.64 | Jean Basson | 07/26/2009 | 2009 World Champs  |
 
 ### 800 Freestyle
 
@@ -87,7 +87,7 @@
 | 11-12 | 31.86 | Aleks Wolert | 08/04/2023 | 2023 SR Western Zone Age Group Championships |
 | 13-14 | 30.34 | Trey Cashion | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
 | 15-16 | 28.82 | Sam Stuckey | 06/01/2018 | 2018 AZ Cactus Classic |
-| 17-18 | 26.6 | Simon Burnett ‡ | 04/10/2002 | 2002 British National (CW Gm Trials) |
+| 17-18 | 28.85 | Matt Lujan | 06/19/2015 | 2015 Pro Series - Santa Clara |
 | Open | 23.16 | Matt Grevers ◊ | 2019-10-26 | ISL 2019 Season |
 
 ### 100 Backstroke
@@ -97,7 +97,7 @@
 | 10U | 1:26.65 | Nathan Kim | 06/16/2018 | 2018 AZ AZAC June Summer Sizzler |
 | 11-12 | 1:09.87 | Aleks Wolert | 08/02/2023 | 2023 SR Western Zone Age Group Championships |
 | 13-14 | 1:02.60 | Matt Lujan | 02/17/2012 | 2012 AZ Phoenix Winter Invitation |
-| 15-16 | 58.81 | Dave Rollins | 06/28/2001 | Phoenix Internat |
+| 15-16 | 58.81 | Dave Rollins | 08/02/2001 | 2001 US Sectionals - Aug |
 | 17-18 | 56.59 | Jake Tapp | 07/31/2007 | 2007 Summer Nationals |
 | Open | 48.92 | Matt Grevers ◊ | 2015-12-12 | Mutual of Omaha Duel in the Pool 2015 |
 
@@ -108,7 +108,7 @@
 | 10U | 3:15.81 | Tristan Daniels | 06/26/2010 | 2010 AZ June Meet |
 | 11-12 | 2:29.39 | Aleks Wolert | 08/03/2023 | 2023 SR Western Zone Age Group Championships |
 | 13-14 | 2:17.36 | Matt Lujan | 05/25/2012 | 2012 AZ Arizona Invitational |
-| 15-16 | 2:07.68 | Brooks Fail ‡ | 05/30/2016 | 2016 Speedo Arizona Invitation |
+| 15-16 | 2:08.50 | Matt Lujan | 08/05/2013 | 2013 Summer Junior Nats  |
 | 17-18 | 2:02.81 | Brooks Fail | 07/26/2018 | 2018 Summer Nationals |
 | Open | 1:48.97 | Matt Grevers ◊ | 2015-12-11 | Mutual of Omaha Duel in the Pool 2015 |
 
@@ -131,14 +131,14 @@
 | 11-12 | 1:16.51 | Max Cook | 08/04/2023 | 2023 SR Western Zone Age Group Championships |
 | 13-14 | 1:09.72 | Max Cook | 07/20/2025 | 2025 AZ AZSI LC Age Group State Championsh... |
 | 15-16 | 1:05.89 | Dave Rollins | 06/28/2001 | Phoenix Internat |
-| 17-18 | 1:03.02 | Matt Salerno ‡ | 07/30/2015 | 2015 Summer Junior Nats |
+| 17-18 | 1:03.69 | Andrew Sovero | 06/25/2013 | 2013 Summer Nationals |
 | Open | 57.81 | Mike Alexandrov ◊ | 2011-12-16 | Mutual of Omaha Duel in the Pool 2011 |
 
 ### 200 Breaststroke
 
 | Age Group | Time | Athlete | Date | Meet |
 |-----------|------|---------|------|------|
-| 10U | 3:32.16 | Mayson Lodge ‡ | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Borendame |
+| 10U | 3:41.76 | Tim Nikolaev | 07/03/2015 | 2015 AZ Ford Intrasquad |
 | 11-12 | 2:47.99 | Max Cook | 08/05/2023 | 2023 SR Western Zone Age Group Championships |
 | 13-14 | 2:30.25 | Colin Cosgrove | 11/11/2019 | 2019 AZ RIO Senior Long Course TT |
 | 15-16 | 2:23.84 | Colin Cosgrove | 08/04/2021 | 2021 Speedo Summer Championships West |
@@ -175,7 +175,7 @@
 | 11-12 | 2:34.50 | Jackson Dubreuil | 06/04/2016 | 2016 AZ FORD TYR Quest for the Rings Meet |
 | 13-14 | 2:14.49 | Benjamin Garcia | 07/16/2017 | 2017 AZ LC Age Group State |
 | 15-16 | 2:03.39 | Aidan Reagan | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
-| 17-18 | 2:01.78 | Juan Veloz ‡ | 06/28/2001 | 2001 US Santa Clara Xxxi |
+| 17-18 | 2:02.36 | Brooks Fail | 06/09/2018 | 2018 Pro Series - Santa Clara  |
 | Open | 1:54.63 | Justin Wright | 07/25/2018 | 2018 Summer Nationals |
 
 ### 200 Individual Medley
@@ -184,7 +184,7 @@
 |-----------|------|---------|------|------|
 | 10U | 2:50.43 | Zack Taylor | 05/25/2002 | 2002 US Tigr Lcm Age Grp |
 | 11-12 | 2:28.32 | Caden Castillo | 07/20/2025 | 2025 AZ AZSI LC Age Group State Championsh... |
-| 13-14 | 2:18.01 | Benjamin Garcia | 06/03/2017 | 2017 AZ FORD SW Classic Meet |
+| 13-14 | 2:18.01 | Colin Cosgrove | 07/21/2019 | 2019 AZ LC Age Group State Cha |
 | 15-16 | 2:09.97 | Dave Rollins | 08/02/2001 | 2001 US Sectionals - Aug |
 | 17-18 | 2:04.44 | Grant Sanders | 06/30/2016 | 2016 Olympic Trials  |
 | Open | 1:57.77 | Jack Brown | 07/07/2009 | 2009 Summer Nationals |
@@ -195,12 +195,12 @@
 |-----------|------|---------|------|------|
 | 10U | — | — | — | — |
 | 11-12 | 5:35.96 | Caden Castillo | 05/30/2025 | 2025 AZ FORD Southwest Classic |
-| 13-14 | 4:51.68 | Scott Pekarske ‡ | 05/27/2016 | 2016 Speedo Arizona Invitation |
+| 13-14 | 4:55.67 | Benjamin Garcia | 07/14/2017 | 2017 AZ LC Age Group State |
 | 15-16 | 4:39.26 | Colin Cosgrove | 07/29/2021 | 2021 Futures Championships - West Fargo |
 | 17-18 | 4:27.21 | Austen Thompson | 06/11/2009 | 2009 Pro Swim - Santa Clara |
 | Open | 4:12.58 | Jack Brown | 08/04/2009 | 2009 U. S. Open |
 
 ---
 
-*Generated: October 06, 2025 at 03:56 PM*
+*Generated: October 06, 2025 at 04:35 PM*
 *International swim policy: During-Ford-Year*

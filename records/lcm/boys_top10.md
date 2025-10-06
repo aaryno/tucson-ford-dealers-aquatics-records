@@ -66,8 +66,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Herbie Behm | 24.22 | 16 | 08/06/2007 | 2007 Summer Junior Nats |
 | 2 | Trey Cashion | 24.24 | 16 | 08/05/2013 | 2013 Summer Junior Nats  |
-| 3 | Paul Rasoumoff | 24.63 | 16 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
-| 4 | Jordon Belton | 24.63 | 16 | 06/23/2011 | 2011 GU TWST Senior Invitational |
+| 3 | Jordon Belton | 24.63 | 16 | 06/23/2011 | 2011 GU TWST Senior Invitational |
+| 4 | Paul Rasoumoff | 24.63 | 16 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
 | 5 | Dane Patching | 24.68 | 16 | 07/23/2002 | 2002 US Speedo Champions |
 | 6 | Ben Aaberg | 24.68 | 16 | 06/23/2005 | 2005 CA NOVA AA 06/05 |
 | 7 | Miles Bottai | 24.81 | 16 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
@@ -84,11 +84,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Keegan Kelly | 23.88 | 17 | 07/16/2023 | 2023 SR Speedo LC Sectionals |
 | 4 | Barrett Miesfeld | 23.96 | 18 | 08/03/2010 | 2010 Summer Nationals |
 | 5 | Nick Hadinger | 24.0 | 18 | 08/04/2008 | 2008 Summer Junior Nats  |
-| 6 | Carson Brindle ‡ | 24.0 | 18 | 07/05/2013 | 2013 AZ Swimming LC Senior State |
-| 7 | Matt Salerno ‡ | 24.02 | 18 | 08/03/2015 | 2015 Summer Junior Nats |
-| 8 | Reilly Donnellan ‡ | 24.03 | 18 | 03/20/2016 | 2016 QU NCAA LC Time Trials |
-| 9 | David Guyer | 24.04 | 18 | 07/25/2015 | 2015 AZ Swimming LC Senior Cha |
-| 10 | Ben Aaberg | 24.15 | 17 | 03/28/2006 | 2006 Spring Nationals |
+| 6 | David Guyer | 24.04 | 18 | 07/25/2015 | 2015 AZ Swimming LC Senior Cha |
+| 7 | Ben Aaberg | 24.15 | 17 | 03/28/2006 | 2006 Spring Nationals |
+| 8 | Herbie Behm | 24.16 | 17 | 08/04/2008 | 2008 Summer Junior Nats  |
+| 9 | Byron Jeffers | 24.18 | 18 | 06/28/2001 | Phoenix Internat |
+| 10 | Matthew Barnard | 24.19 | 18 | 07/12/2005 | 2005 PN Speedo Sectionals |
 
 ### Open
 
@@ -96,13 +96,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Matt Grevers ◊ | 21.38 | nan | 2011-12-16 | Mutual of Omaha Duel in the Pool 2011 |
 | 2 | Roland Schoeman | 21.69 | 25.0 | 07/24/2005 | 2005 World Champs |
-| 3 | Bradley Tandy † | 21.79 | 25.0 | 08/12/2016 | 2016 Olympic Games |
-| 4 | Masayuki Kishida | 22.11 | 24.0 | 03/01/2010 | Top Times (personal best) |
-| 5 | Simon Burnett | 22.12 | 22.0 | 08/04/2005 | 2005 British Youth Nationals |
-| 6 | Adam Small | 22.31 | 21.0 | 08/14/2011 | 2011 WUGS |
-| 7 | Lyndon Ferns | 22.32 | 20.0 | 12/04/2003 | 2003  ST Univ. of Texas Invi LCM |
-| 8 | Jordan Smith | 22.39 | 21.0 | 08/04/2009 | 2009 U. S. Open |
-| 9 | Ryk Neethling | 22.44 | 29.0 | 07/31/2007 | 2007 Summer Nationals |
+| 3 | Bradley Tandy | 21.79 | 25.0 | 08/12/2016 | 2016 Olympic Games |
+| 4 | Masayuki Kishida | 22.11 | 24.0 | 04/15/2010 | 2010 JPN Invite |
+| 5 | Simon Burnett | 22.12 | 22.0 | 08/04/2005 | 2005 British Commonwealth Gm Trls |
+| 6 | Lyndon Ferns | 22.22 | 24.0 | 04/01/2008 | 2008 RSA Olympic Trials |
+| 7 | Ryk Neethling | 22.26 | 30.0 | 04/01/2008 | 2008 RSA Olympic Trials |
+| 8 | Adam Small | 22.31 | 21.0 | 08/14/2011 | 2011 WUGS |
+| 9 | Jordan Smith | 22.39 | 21.0 | 08/04/2009 | 2009 U. S. Open |
 | 10 | Tomas LUKMINAS | 22.50 | 20.0 | 05/03/2025 | 2025 TYR Pro Swim Series - Fort Laude... |
 
 ---
@@ -163,23 +163,23 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Paul Rasoumoff | 53.48 | 16 | 07/28/2019 | 2019 AZ LC Senior Open @ FORD |
 | 4 | Herbie Behm | 53.56 | 16 | 08/06/2007 | 2007 Speedo Junior Nats TT |
 | 5 | Adrian Kirkpatrick | 53.59 | 16 | 07/12/2005 | 2005 PN Speedo Sectionals |
-| 6 | Brooks Fail ‡ | 53.68 | 16 | 05/30/2016 | 2016 Speedo Arizona Invitation |
-| 7 | Miles Bottai | 53.70 | 16 | 07/28/2019 | 2019 AZ LC Senior Open @ FORD |
-| 8 | Matthew Barnard | 54.02 | 16 | 07/17/2003 | 2003 ST Texas Senior Circuit Long |
-| 9 | Cole Puchi | 54.11 | 16 | 07/21/2009 | 2009 OR Speedo Western Section LC |
-| 10 | Keegan Kelly | 54.37 | 16 | 07/14/2022 | 2022 OR Speedo Sectionals - Mt Hood |
+| 6 | Miles Bottai | 53.70 | 16 | 07/28/2019 | 2019 AZ LC Senior Open @ FORD |
+| 7 | Matthew Barnard | 54.02 | 16 | 07/17/2003 | 2003 ST Texas Senior Circuit Long Champs |
+| 8 | Cole Puchi | 54.11 | 16 | 07/21/2009 | 2009 OR Speedo Western Section LC |
+| 9 | Keegan Kelly | 54.37 | 16 | 07/14/2022 | 2022 OR Speedo Sectionals - Mt Hood |
+| 10 | Benjamin Garcia | 54.39 | 16 | 07/28/2019 | 2019 AZ LC Senior Open @ FORD |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Aldan Johnston | 50.91 | 18 | 07/31/2019 | 2019 Summer Nationals |
-| 2 | Trey Cashion | 52.05 | 17 | 07/15/2014 | 2014 OR Speedo Western Section LC |
-| 3 | Chad Idensohn ‡ | 52.13 | 18 | 12/10/2014 | African Union Sports-Region 5 |
-| 4 | Adrian Kirkpatrick | 52.24 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
-| 5 | Matthew Barnard | 52.26 | 17 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
-| 6 | Kurt Denninghoff | 52.38 | 18 | 08/06/2007 | 2007 Summer Junior Nats |
-| 7 | Ben Aaberg | 52.44 | 18 | 08/06/2007 | 2007 Summer Junior Nats |
+| 2 | Trey Cashion | 52.05 | 17 | 07/16/2014 | 2014 Speedo Western Section LC |
+| 3 | Adrian Kirkpatrick | 52.24 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
+| 4 | Matthew Barnard | 52.26 | 17 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
+| 5 | Kurt Denninghoff | 52.38 | 18 | 08/06/2007 | 2007 Summer Junior Nats |
+| 6 | Ben Aaberg | 52.44 | 18 | 08/06/2007 | 2007 Summer Junior Nats |
+| 7 | Chad Idensohn | 52.45 | 18 | 06/05/2015 | 2015 AZ Southwest Classic |
 | 8 | Brooks Fail | 52.50 | 18 | 07/30/2017 | 2017 AZ Senior LC Champs |
 | 9 | Cole Puchi | 52.52 | 17 | 07/20/2010 | 2010 OR Speedo Western Section LC |
 | 10 | Keegan Kelly | 52.55 | 17 | 08/01/2023 | 2023 Speedo Junior National Champions... |
@@ -189,15 +189,15 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Matt Grevers ◊ | 47.08 | nan | 2011-12-16 | Mutual of Omaha Duel in the Pool 2011 |
-| 2 | Roland Schoeman | 48.28 | 25.0 | 07/24/2005 | 2005 World Champs |
-| 3 | Lyndon Ferns | 48.77 | 24.0 | 07/15/2008 | 2008 OR Speedo Western Section LC |
-| 4 | Ryk Neethling | 48.81 | 29.0 | 03/25/2007 | 2007 World Champs |
-| 5 | Darian Townsend | 48.87 | 27.0 | 12/01/2011 | 2011 Winter Nationals |
-| 6 | Tomas LUKMINAS | 48.96 | 20.0 | 05/01/2025 | 2025 TYR Pro Swim Series - Fort Laude... |
-| 7 | Nicolas Nilo | 49.09 | 24.0 | 04/24/2012 | Maria Lenk Trophy |
-| 8 | Simon Burnett | 49.13 | 23.0 | 03/25/2007 | 2007 World Champs |
-| 9 | Jorge Iga | 49.23 | 24.0 | 05/13/2021 | 2021 TYR Pro Swim Series - Ind |
-| 10 | Albert Subirats | 49.29 | 22.0 | 07/07/2009 | 2009 USAS National Champs TT |
+| 2 | Nicolas Nilo | 47.78 | 21.0 | 07/26/2009 | 2009 World Champs  |
+| 3 | Roland Schoeman | 48.28 | 25.0 | 07/24/2005 | 2005 World Champs |
+| 4 | Simon Burnett | 48.54 | 27.0 | 10/04/2010 | 2010 Commonwealth Games |
+| 5 | Lyndon Ferns | 48.77 | 24.0 | 07/15/2008 | 2008 OR Speedo Western Section LC |
+| 6 | Ryk Neethling | 48.81 | 29.0 | 03/25/2007 | 2007 World Champs |
+| 7 | Darian Townsend ◊ | 48.87 | nan | 2011-12-01 | US Winter National Championships (50m) |
+| 8 | Tomas LUKMINAS | 48.96 | 20.0 | 05/01/2025 | 2025 TYR Pro Swim Series - Fort Laude... |
+| 9 | Albert Subirats | 49.17 | 20.0 | 03/25/2007 | 2007 World Champs |
+| 10 | Jorge Iga | 49.23 | 24.0 | 05/13/2021 | 2021 TYR Pro Swim Series - Ind |
 
 ---
 
@@ -253,15 +253,15 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Aidan Reagan | 1:54.42 | 16 | 06/13/2019 | 2019 Pro Series - Clovis |
-| 2 | Brooks Fail ‡ | 1:55.44 | 16 | 05/29/2016 | 2016 Speedo Arizona Invitation |
-| 3 | Tyler Deberry | 1:55.54 | 16 | 08/01/2000 | 2000 US Speedo Jr. Champ |
-| 4 | Trey Cashion | 1:56.51 | 16 | 07/16/2013 | 2013 OR Speedo Western Section LC |
-| 5 | Scott Pekarske | 1:57.39 | 16 | 07/28/2017 | 2017 AZ Senior LC Champs |
-| 6 | Adrian Kirkpatrick | 1:57.78 | 16 | 07/12/2005 | 2005 PN Speedo Sectionals |
-| 7 | Phil Mercier | 1:57.81 | 16 | 07/15/1999 | 1999 US Az Sr Lc State |
-| 8 | Paul Oman | 1:57.88 | 16 | 08/01/2000 | Jun |
-| 9 | Riley Babson | 1:58.00 | 16 | 07/28/2017 | 2017 AZ Senior LC Champs |
-| 10 | Keegan Kelly | 1:58.21 | 16 | 07/15/2022 | 2022 OR Speedo Sectionals - Mt Hood |
+| 2 | Tyler Deberry | 1:55.54 | 16 | 08/01/2000 | 2000 US Speedo Jr. Champ |
+| 3 | Trey Cashion | 1:56.51 | 16 | 07/16/2013 | 2013 OR Speedo Western Section LC |
+| 4 | Scott Pekarske | 1:57.39 | 16 | 07/28/2017 | 2017 AZ Senior LC Champs |
+| 5 | Adrian Kirkpatrick | 1:57.78 | 16 | 07/12/2005 | 2005 PN Speedo Sectionals |
+| 6 | Phil Mercier | 1:57.81 | 16 | 07/15/1999 | 1999 US Az Sr Lc State |
+| 7 | Paul Oman | 1:57.88 | 16 | 08/01/2000 | Jun |
+| 8 | Riley Babson | 1:58.00 | 16 | 07/28/2017 | 2017 AZ Senior LC Champs |
+| 9 | Keegan Kelly | 1:58.21 | 16 | 07/15/2022 | 2022 OR Speedo Sectionals - Mt Hood |
+| 10 | Bobby Koubratoff | 1:58.35 | 16 | 07/18/2006 | 2006 PN Speedo Sectionals |
 
 ### 17-18
 
@@ -282,16 +282,16 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Jean Basson † | 1:45.67 | 21.0 | 07/26/2009 | 2009 World Champs  |
+| 1 | Jean Basson | 1:45.67 | 21.0 | 07/26/2009 | 2009 World Champs  |
 | 2 | Simon Burnett | 1:46.59 | 22.0 | 07/25/2002 | 2005 British Youth Nationals |
 | 3 | Adam Ritter | 1:47.42 | 22.0 | 08/09/2007 | 2007 WUGS |
 | 4 | Darian Townsend ◊ | 1:47.46 | nan | 2012-03-29 | Indianapolis Grand Prix 2012 |
-| 5 | Nicolas Nilo † | 1:47.55 | 21.0 | 07/26/2009 | 2009 World Champs  |
+| 5 | Nicolas Nilo | 1:47.55 | 21.0 | 07/26/2009 | 2009 World Champs  |
 | 6 | Jorge Iga | 1:47.65 | 24.0 | 06/27/2021 | 2021 CA Dolfin Fran Crippen SMOC |
 | 7 | Tomas LUKMINAS | 1:47.81 | 20.0 | 05/02/2025 | 2025 TYR Pro Swim Series - Fort Laude... |
-| 8 | Bobby Hurley ‡ | 1:48.28 | 23.0 | 03/15/2012 | 2012 EnergyAustralia Swimming |
-| 9 | Matt Grevers | 1:48.41 | 22.0 | 03/06/2008 | 2008 ST All-American LC Champions |
-| 10 | Ugur Taner | 1:48.54 | 23.0 | 01/12/1998 | 1998 World Championship |
+| 8 | Matt Grevers | 1:48.41 | 22.0 | 03/06/2008 | 2008 ST All-American LC Champions |
+| 9 | Ugur Taner | 1:48.54 | 23.0 | 01/12/1998 | 1998 World Championship |
+| 10 | Bobby Hurley | 1:49.21 | 24.0 | 05/30/2013 | 2013 Pro Series - Santa Clara  |
 
 ---
 
@@ -310,7 +310,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Tristan Daniels | 6:15.73 | 9 | 06/04/2009 | 2009 AZ Southwest "BB" Meet |
 | 8 | Eli Laney | 6:20.37 | 9 | 06/10/2017 | 2017 AZ Oro Valley Jon Borendame Invite |
 | 9 | Benjamin Garcia | 6:24.02 | 10 | 06/28/2013 | 2013 AZ Oro Valley Open June 2013 |
-| 10 | Matt Lujan ‡ | 6:24.63 | 10 | 05/23/2008 | 2008 AZ Swimming World Cactus Classic |
+| 10 | Nash Yarosz | 6:28.06 | 10 | 05/03/2024 | 2024 AZ FAST Mayflower Invitational |
 
 ### 11-12
 
@@ -376,16 +376,16 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Jean Basson † | 3:46.64 | 21.0 | 07/26/2009 | 2009 World Champs  |
-| 2 | Bobby Hurley ‡ | 3:48.60 | 23.0 | 03/15/2012 | 2012 EnergyAustralia Swimming |
-| 3 | Brooks Fail | 3:50.72 | 20.0 | 08/03/2019 | 2019 Summer Nationals |
-| 4 | Chris Wieser | 3:51.83 | 20.0 | 06/26/2016 | 2016 Olympic Trials  |
-| 5 | Daniel Namir † | 3:53.24 | 21.0 | 07/31/2019 | 2019 Israel Summer Champs |
-| 6 | Ugur Taner | 3:53.65 | 24.0 | 08/11/1998 | 1998 US Summer Nationals |
-| 7 | Isaac Stump | 3:54.45 | 19.0 | 07/28/2018 | 2018 Summer Nationals |
-| 8 | Nick Hogsed | 3:55.12 | 20.0 | 06/26/2016 | 2016 Olympic Trials  |
-| 9 | Ty Fowler | 3:55.19 | 20.0 | 08/06/2015 | 2015 Summer Nationals |
-| 10 | Tyler Deberry | 3:55.20 | 22.0 | 08/01/2006 | 2006 Summer Nationals |
+| 1 | Jean Basson | 3:46.64 | 21.0 | 07/26/2009 | 2009 World Champs  |
+| 2 | Brooks Fail | 3:50.72 | 20.0 | 08/03/2019 | 2019 Summer Nationals |
+| 3 | Chris Wieser | 3:51.83 | 20.0 | 06/26/2016 | 2016 Olympic Trials  |
+| 4 | Daniel Namir | 3:53.24 | 21.0 | 07/31/2019 | 2019 Israel Summer Champs |
+| 5 | Ugur Taner | 3:53.65 | 24.0 | 08/11/1998 | 1998 US Summer Nationals |
+| 6 | Isaac Stump | 3:54.45 | 19.0 | 07/28/2018 | 2018 Summer Nationals |
+| 7 | Nick Hogsed | 3:55.12 | 20.0 | 06/26/2016 | 2016 Olympic Trials  |
+| 8 | Ty Fowler | 3:55.19 | 20.0 | 08/06/2015 | 2015 Summer Nationals |
+| 9 | Tyler Deberry | 3:55.20 | 22.0 | 08/01/2006 | 2006 Summer Nationals |
+| 10 | Matt Biel | 3:55.44 | 21.0 | 05/23/2008 | 2008 AZ Swimming World Cactus Classic |
 
 ---
 
@@ -422,8 +422,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Sylas Cole | 9:17.31 | 14 | 05/25/2012 | 2012 AZ Arizona Invitational |
 | 7 | Braden Hess | 9:17.49 | 14 | 07/26/2018 | 2018 AZ Senior Open LC Champio |
 | 8 | Tyler Shao | 9:25.04 | 14 | 06/15/2025 | 2025 AZ MAC Narwhal Invite |
-| 9 | Simon Lam ‡ | 9:25.21 | 13 | 02/28/2015 | Divison 1 Age LC Competition  (Part3) |
-| 10 | Connor Homes | 9:31.05 | 14 | 07/17/2022 | 2022 AZ LC Age Group State Championship |
+| 9 | Connor Homes | 9:31.05 | 14 | 07/17/2022 | 2022 AZ LC Age Group State Championship |
+| 10 | Bobby Koubratoff | 9:37.45 | 14 | 07/22/2004 | 2004 AZ Age Group LC State  |
 
 ### 15-16
 
@@ -462,13 +462,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Brooks Fail | 7:59.19 | 20 | 08/04/2019 | 2019 Summer Nationals |
 | 2 | Tyler Deberry | 8:05.38 | 21 | 08/03/2005 | 2005 Summer Nationals |
 | 3 | Matt Biel | 8:07.17 | 21 | 06/05/2008 | 2008 Pro Swim - Omaha |
-| 4 | Bobby Hurley ‡ | 8:09.39 | 23 | 03/15/2012 | 2012 EnergyAustralia Swimming |
-| 5 | Isaac Stump | 8:09.71 | 19 | 07/29/2018 | 2018 Summer Nationals |
-| 6 | Jerad Kaskawal | 8:11.91 | 21 | 07/01/2017 | 2017 Summer Nationals |
-| 7 | Mason Nyboer | 8:12.11 | 24 | 07/13/2025 | 2025 CA Los Angeles Invite |
-| 8 | Nick Hogsed | 8:12.57 | 20 | 07/14/2016 | 2016 CA  Los Angeles Invite |
-| 9 | Christian Imbus | 8:12.75 | 20 | 07/14/2019 | 2019 CA  Los Angeles Invite |
-| 10 | Ty Fowler | 8:12.95 | 20 | 07/12/2015 | 2015 CA  Los Angeles Invite |
+| 4 | Isaac Stump | 8:09.71 | 19 | 07/29/2018 | 2018 Summer Nationals |
+| 5 | Jerad Kaskawal | 8:11.91 | 21 | 07/01/2017 | 2017 Summer Nationals |
+| 6 | Mason Nyboer | 8:12.11 | 24 | 07/13/2025 | 2025 CA Los Angeles Invite |
+| 7 | Nick Hogsed | 8:12.57 | 20 | 07/14/2016 | 2016 CA  Los Angeles Invite |
+| 8 | Christian Imbus | 8:12.75 | 20 | 07/14/2019 | 2019 CA  Los Angeles Invite |
+| 9 | Ty Fowler | 8:12.95 | 20 | 07/12/2015 | 2015 CA  Los Angeles Invite |
+| 10 | Aidan Reagan | 8:16.05 | 16 | 08/10/2019 | 2019 Summer Junior Nats |
 
 ---
 
@@ -498,15 +498,15 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Aidan Reagan | 16:07.21 | 14 | 08/03/2017 | 2017 Futures - Santa Clara |
-| 2 | Scott Pekarske ‡ | 16:27.85 | 14 | 07/23/2016 | 2016 Sectionals - Gresham |
-| 3 | Thomas Helms ‡ | 17:13.05 | 14 | 06/22/2006 | 2006 CA NOVA Summer AG  |
-| 4 | Colin Cosgrove | 17:25.18 | 14 | 07/18/2019 | 2019 AZ LC Age Group State Cha |
-| 5 | Tyler Shao | 17:43.66 | 14 | 06/15/2025 | 2025 AZ MAC Narwhal Invite |
-| 6 | Sylas Cole | 17:44.40 | 14 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
-| 7 | Connor Homes | 18:02.40 | 14 | 07/14/2022 | 2022 AZ LC Age Group State Championship |
-| 8 | Sam Stuckey | 18:02.60 | 14 | 06/01/2017 | 2017 AZ FORD SW Classic Meet |
-| 9 | Jackson Dubreuil | 18:15.98 | 14 | 05/04/2018 | 2018 AZ FAST Mayflower Invitational |
-| 10 | Bobby Koubratoff | 18:16.46 | 14 | 07/22/2004 | 2004 AZ Age Group LC State  |
+| 2 | Colin Cosgrove | 17:25.18 | 14 | 07/18/2019 | 2019 AZ LC Age Group State Cha |
+| 3 | Thomas Helms | 17:36.71 | 14 | 07/20/2006 | 2006 AZ LC AG State Champs |
+| 4 | Tyler Shao | 17:43.66 | 14 | 06/15/2025 | 2025 AZ MAC Narwhal Invite |
+| 5 | Sylas Cole | 17:44.40 | 14 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
+| 6 | Connor Homes | 18:02.40 | 14 | 07/14/2022 | 2022 AZ LC Age Group State Championship |
+| 7 | Sam Stuckey | 18:02.60 | 14 | 06/01/2017 | 2017 AZ FORD SW Classic Meet |
+| 8 | Jackson Dubreuil | 18:15.98 | 14 | 05/04/2018 | 2018 AZ FAST Mayflower Invitational |
+| 9 | Bobby Koubratoff | 18:16.46 | 14 | 07/22/2004 | 2004 AZ Age Group LC State  |
+| 10 | Andy Duffield | 18:17.44 | 14 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
 
 ### 15-16
 
@@ -521,7 +521,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Bobby Koubratoff | 16:42.81 | 16 | 07/18/2006 | 2006 PN Speedo Sectionals |
 | 8 | Alex Nikolaev | 16:49.74 | 16 | 04/03/2016 | 2016 Sectionals - Austin |
 | 9 | Brent Zang | 16:49.96 | 16 | 07/18/2015 | 2015 OR Speedo Western Section LC |
-| 10 | Grant Nations ‡ | 16:51.17 | 15 | 07/23/2016 | 2016 Sectionals - Gresham |
+| 10 | Brad Defoor | 16:59.23 | 16 | 07/30/2017 | 2017 AZ Senior LC Champs |
 
 ### 17-18
 
@@ -532,7 +532,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Tyler Deberry | 15:45.35 | 17 | 08/14/2001 | 2001 Summer Nationals |
 | 4 | Miles Smyczek | 15:49.42 | 17 | 05/26/2024 | 2024 AZ FORD Southwest Classic |
 | 5 | Christian Imbus | 15:55.93 | 18 | 06/21/2018 | 2018 CA MVN Fran Crippen SMOC |
-| 6 | Nick Hogsed † | 15:58.85 | 18 | 04/18/2015 | 2015 Pro Series - Mesa |
+| 6 | Nick Hogsed | 15:58.85 | 18 | 04/18/2015 | 2015 Pro Series - Mesa |
 | 7 | Riley Babson | 16:03.92 | 18 | 07/28/2019 | 2019 AZ LC Senior Open @ FORD |
 | 8 | Alex Nikolaev | 16:06.46 | 18 | 07/31/2018 | 2018 Summer Junior Nats |
 | 9 | Brent Zang | 16:08.04 | 18 | 08/03/2017 | 2017 Futures - Santa Clara |
@@ -545,13 +545,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Chris Wieser | 15:09.70 | 20 | 07/03/2016 | 2016 Olympic Trials  |
 | 2 | Ty Fowler | 15:24.70 | 20 | 08/09/2015 | 2015 Summer Nationals |
 | 3 | Brooks Fail | 15:28.36 | 18 | 07/25/2018 | 2018 Summer Nationals |
-| 4 | Bobby Hurley ‡ | 15:30.49 | 23 | 03/15/2012 | 2012 EnergyAustralia Swimming |
-| 5 | Scott Pekarske | 15:33.86 | 18 | 08/06/2019 | 2019 Summer Junior Nats |
-| 6 | Christian Imbus | 15:35.03 | 20 | 07/11/2019 | 2019 CA  Los Angeles Invite |
-| 7 | Aidan Reagan | 15:35.35 | 16 | 08/06/2019 | 2019 Summer Junior Nats |
-| 8 | Mason Nyboer | 15:38.59 | 24 | 07/11/2025 | 2025 CA Los Angeles Invite |
-| 9 | Matt Biel | 15:41.20 | 21 | 06/29/2008 | 2008 Olympic Trials |
-| 10 | Nick Hogsed † | 15:41.44 | 19 | 12/06/2015 | Texas Swimming & Diving Hall o |
+| 4 | Scott Pekarske | 15:33.86 | 18 | 08/06/2019 | 2019 Summer Junior Nats |
+| 5 | Christian Imbus | 15:35.03 | 20 | 07/11/2019 | 2019 CA  Los Angeles Invite |
+| 6 | Aidan Reagan | 15:35.35 | 16 | 08/06/2019 | 2019 Summer Junior Nats |
+| 7 | Mason Nyboer | 15:38.59 | 24 | 07/11/2025 | 2025 CA Los Angeles Invite |
+| 8 | Matt Biel | 15:41.20 | 21 | 06/29/2008 | 2008 Olympic Trials |
+| 9 | Nick Hogsed | 15:41.44 | 19 | 12/06/2015 | Texas Swimming & Diving Hall o |
+| 10 | Tyler Deberry | 15:42.57 | 19 | 08/05/2003 | 2003 Summer Nationals |
 
 ---
 
@@ -570,7 +570,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Eli Wolert | 41.13 | 10 | 07/21/2024 | 2024 AZ AZSI LC Age Group State Champ... |
 | 8 | Theodore Lowell | 41.42 | 10 | 04/21/2013 | 2013 AZ FORD April Meet |
 | 9 | Levi Cindrich | 41.84 | 10 | 06/17/2018 | 2018 AZ AZAC June Summer Sizzler |
-| 10 | Matt Lujan ‡ | 42.02 | 10 | 05/23/2008 | 2008 AZ Swimming World Cactus Classic |
+| 10 | Nash Yarosz | 42.10 | 10 | 05/26/2024 | 2024 AZ FORD Southwest Classic |
 
 ### 11-12
 
@@ -595,12 +595,12 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 2 | Sam Stuckey | 30.53 | 14 | 06/02/2017 | 2017 AZ FORD SW Classic Meet |
 | 3 | Tristan Daniels | 30.8 | 14 | 05/23/2014 | 2014 AZ SAC Cactus Classic |
 | 4 | Michael Hess | 31.02 | 14 | 06/01/2025 | 2025 AZ FORD Southwest Classic |
-| 5 | Dalton Pakkala ‡ | 31.13 | 14 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 6 | Braden Hess | 31.78 | 14 | 06/29/2018 | 2018 AZ Oro Valley Jon Borendame |
-| 7 | Aleks Wolert | 31.81 | 14 | 06/01/2025 | 2025 AZ FORD Southwest Classic |
+| 5 | Braden Hess | 31.78 | 14 | 06/29/2018 | 2018 AZ Oro Valley Jon Borendame |
+| 6 | Aleks Wolert | 31.81 | 14 | 06/01/2025 | 2025 AZ FORD Southwest Classic |
+| 7 | Terry Yang | 31.89 | 13 | 05/02/2014 | 2014 AZ FAST Mayflower Invitational  |
 | 8 | Diego Torres | 31.89 | 13 | 06/16/2023 | 2023 AZ FAST Oro Valley Open |
-| 9 | Terry Yang | 31.89 | 13 | 05/02/2014 | 2014 AZ FAST Mayflower Invitational  |
-| 10 | Sylas Cole | 31.91 | 14 | 05/04/2012 | 2012 AZ Southwest Classic Invitational |
+| 9 | Sylas Cole | 31.91 | 14 | 05/04/2012 | 2012 AZ Southwest Classic Invitational |
+| 10 | Matt Lujan | 32.11 | 13 | 07/22/2010 | 2010 AZ Long Course Age Group  |
 
 ### 15-16
 
@@ -612,25 +612,25 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Samuel Sarok | 29.82 | 15 | 06/01/2025 | 2025 AZ FORD Southwest Classic |
 | 5 | Diego Torres | 30.15 | 15 | 06/01/2025 | 2025 AZ FORD Southwest Classic |
 | 6 | Cole Puchi | 30.21 | 15 | 07/24/2008 | 2008 AZ  Senior State |
-| 7 | Herbie Behm ‡ | 30.4 | 15 | 05/13/2006 | 2006 NM Spring Stroke Sprints Invite |
-| 8 | Ryan Cook | 30.76 | 15 | 06/28/2013 | 2013 AZ Oro Valley Open June 2013 |
-| 9 | Francisco Vazquez | 31.35 | 15 | 05/02/2014 | 2014 AZ FAST Mayflower Invitational  |
-| 10 | Jason Alentado | 31.54 | 16 | 04/30/2011 | 2011 AZ Ford April Intrasquad |
+| 7 | Ryan Cook | 30.76 | 15 | 06/28/2013 | 2013 AZ Oro Valley Open June 2013 |
+| 8 | Francisco Vazquez | 31.35 | 15 | 05/02/2014 | 2014 AZ FAST Mayflower Invitational  |
+| 9 | Jason Alentado | 31.54 | 16 | 04/30/2011 | 2011 AZ Ford April Intrasquad |
+| 10 | Wade Olsson | 31.58 | 15 | 06/01/2025 | 2025 AZ FORD Southwest Classic |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Simon Burnett ‡ | 26.6 | 18 | 04/10/2002 | 2002 British National (CW Gm Trials) |
-| 2 | Matt Lujan | 28.85 | 18 | 06/19/2015 | 2015 Pro Series - Santa Clara |
-| 3 | Dane Patching | 29.1 | 18 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
-| 4 | Cole Puchi | 29.16 | 18 | 07/07/2011 | 2011 AZ Long Course Senior Sta |
-| 5 | Sam Stuckey | 29.48 | 17 | 02/15/2020 | 2020 AZ FORD Old Pueblo Senior Meet |
-| 6 | Trey Cashion | 29.65 | 17 | 05/23/2014 | 2014 AZ SAC Cactus Classic |
-| 7 | Brad Defoor | 30.77 | 18 | 06/21/2019 | 2019 CA MVN SMOC |
-| 8 | Nick Hadinger | 30.9 | 17 | 05/05/2007 | 2007 AZ RIO May Senior Meet |
-| 9 | Kevin Marquez | 31.25 | 18 | 07/12/2012 | 2012 AZ LC Senior State Champions |
-| 10 | Sevi Multin | 31.3 | 17 | 05/07/2017 | 2017 AZ FAST Mayflower Invite |
+| 1 | Matt Lujan | 28.85 | 18 | 06/19/2015 | 2015 Pro Series - Santa Clara |
+| 2 | Dane Patching | 29.1 | 18 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
+| 3 | Cole Puchi | 29.16 | 18 | 07/07/2011 | 2011 AZ Long Course Senior Sta |
+| 4 | Sam Stuckey | 29.48 | 17 | 02/15/2020 | 2020 AZ FORD Old Pueblo Senior Meet |
+| 5 | Trey Cashion | 29.65 | 17 | 05/23/2014 | 2014 AZ SAC Cactus Classic |
+| 6 | Brad Defoor | 30.77 | 18 | 06/21/2019 | 2019 CA MVN SMOC |
+| 7 | Nick Hadinger | 30.9 | 17 | 05/05/2007 | 2007 AZ RIO May Senior Meet |
+| 8 | Kevin Marquez | 31.25 | 18 | 07/12/2012 | 2012 AZ LC Senior State Champions |
+| 9 | Sevi Multin | 31.3 | 17 | 05/07/2017 | 2017 AZ FAST Mayflower Invite |
+| 10 | Jeff Gluck | 34.8 | 17 | 07/24/2008 | 2008 AZ  Senior State |
 
 ### Open
 
@@ -640,12 +640,12 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 2 | Nick Thoman | 25.12 | 29.0 | 08/08/2015 | 2015 U.S. Nats Time Trials |
 | 3 | Bryce Bohman | 25.57 | 24.0 | 08/06/2014 | 2014 Summer Nationals |
 | 4 | Bobby Hurley | 25.58 | 24.0 | 04/26/2013 | 2013 EnergyAustralia Swimming |
-| 5 | Darian Townsend ◊ | 26.05 | nan | 2011-11-16 | 2011 MI CW Pro Meet |
-| 6 | Jack Anderson ‡ | 26.23 | 21.0 | 06/20/2019 | 2019  Aon NZ Open Championship |
-| 7 | Will Meyers | 26.39 | 20.0 | 06/05/2025 | 2025 Toyota National Championships |
-| 8 | Michael Sheppard | 26.43 | 21.0 | 06/25/2013 | 2013 Summer Nationals |
-| 9 | Ryan Hardy | 26.48 | 20.0 | 06/05/2025 | 2025 Toyota National Championships |
-| 10 | Albert Subirats | 26.62 | 24.0 | 05/17/2011 | National Championships |
+| 5 | Darian Townsend | 26.05 | 27.0 | 11/16/2011 | 2011 MI CW Pro Meet |
+| 6 | Will Meyers | 26.39 | 20.0 | 06/05/2025 | 2025 Toyota National Championships |
+| 7 | Michael Sheppard | 26.43 | 21.0 | 06/25/2013 | 2013 Summer Nationals |
+| 8 | Ryan Hardy | 26.48 | 20.0 | 06/05/2025 | 2025 Toyota National Championships |
+| 9 | Albert Subirats | 26.62 | 24.0 | 05/17/2011 | National Championships |
+| 10 | Thomas Anderson | 26.83 | 21.0 | 06/21/2019 | 2019 CA MVN SMOC |
 
 ---
 
@@ -700,38 +700,38 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Dave Rollins | 58.81 | 16 | 06/28/2001 | Phoenix Internat |
+| 1 | Dave Rollins | 58.81 | 16 | 08/02/2001 | 2001 US Sectionals - Aug |
 | 2 | Matt Lujan | 58.82 | 16 | 08/05/2013 | 2013 Summer Junior Nats  |
 | 3 | Bryan O'Connor | 1:00.91 | 16 | 07/12/2005 | 2005 PN Speedo Sectionals |
-| 4 | Brooks Fail ‡ | 1:01.13 | 16 | 05/29/2016 | 2016 Speedo Arizona Invitation |
-| 5 | Isaac Badowski | 1:01.23 | 16 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
-| 6 | Sam Stuckey | 1:01.43 | 16 | 07/28/2018 | 2018 AZ Senior Open LC Champio |
-| 7 | Liam Blair | 1:01.44 | 16 | 07/30/2016 | 2016 AZ LC Senior State Championship |
-| 8 | Trey Cashion | 1:01.98 | 16 | 05/24/2013 | 2013 AZ Invitational |
-| 9 | Cole Puchi | 1:02.20 | 16 | 07/21/2009 | 2009 OR Speedo Western Section LC |
-| 10 | Aaron Weintraub | 1:02.90 | 16 | 03/05/2008 | 2008 PN Speedo Sectionals |
+| 4 | Isaac Badowski | 1:01.23 | 16 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
+| 5 | Sam Stuckey | 1:01.43 | 16 | 07/28/2018 | 2018 AZ Senior Open LC Champio |
+| 6 | Liam Blair | 1:01.44 | 16 | 07/30/2016 | 2016 AZ LC Senior State Championship |
+| 7 | Trey Cashion | 1:01.98 | 16 | 05/24/2013 | 2013 AZ Invitational |
+| 8 | Cole Puchi | 1:02.20 | 16 | 07/21/2009 | 2009 OR Speedo Western Section LC |
+| 9 | Aaron Weintraub | 1:02.90 | 16 | 03/05/2008 | 2008 PN Speedo Sectionals |
+| 10 | Keegan Kelly | 1:03.01 | 16 | 07/15/2022 | 2022 OR Speedo Sectionals - Mt Hood |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Jake Tapp | 56.59 | 18 | 07/31/2007 | 2007 Summer Nationals |
-| 2 | Simon Burnett ‡ | 56.8 | 18 | 04/10/2002 | 2002 British National (CW Gm Trials) |
-| 3 | Matt Lujan | 57.12 | 18 | 05/30/2016 | 2016 Speedo Arizona Invitation |
-| 4 | Dave Rollins | 57.17 | 18 | 08/05/2003 | 2003 Summer Nationals |
+| 2 | Matt Lujan | 57.12 | 18 | 05/30/2016 | 2016 Speedo Arizona Invitation |
+| 3 | Dave Rollins | 57.17 | 18 | 08/05/2003 | 2003 Summer Nationals |
+| 4 | Steven Medvedev | 57.97 | 18 | 07/16/2017 | 2017 CA  Los Angeles Invite  |
 | 5 | Grant Sanders | 57.97 | 18 | 06/05/2016 | 2016 FL CAT Escape The Heat |
-| 6 | Steven Medvedev | 57.97 | 18 | 07/16/2017 | 2017 CA  Los Angeles Invite  |
-| 7 | Bryan O'Connor | 58.20 | 18 | 07/12/2007 | 2007 CA Janet Evans Inv |
-| 8 | Austen Thompson | 58.33 | 18 | 07/09/2009 | 2009 AZ Long Course Senior State |
-| 9 | Pete Stacy | 59.07 | 18 | 06/11/2009 | 2009 Pro Swim - Santa Clara |
-| 10 | Nick Hadinger | 59.30 | 18 | 08/04/2008 | 2008 Summer Junior Nats  |
+| 6 | Bryan O'Connor | 58.20 | 18 | 07/12/2007 | 2007 CA Janet Evans Inv |
+| 7 | Austen Thompson | 58.33 | 18 | 07/09/2009 | 2009 AZ Long Course Senior State |
+| 8 | Pete Stacy | 59.07 | 18 | 06/11/2009 | 2009 Pro Swim - Santa Clara |
+| 9 | Nick Hadinger | 59.30 | 18 | 08/04/2008 | 2008 Summer Junior Nats  |
+| 10 | Sam Stuckey | 59.50 | 17 | 02/17/2020 | 2020 AZ FORD Old Pueblo Senior Meet |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Matt Grevers ◊ | 48.92 | nan | 2015-12-12 | Mutual of Omaha Duel in the Pool 2015 |
-| 2 | Nick Thoman † | 53.20 | 29.0 | 07/17/2015 | 2015 Pan American Games |
+| 2 | Nick Thoman | 53.20 | 29.0 | 07/17/2015 | 2015 Pan American Games |
 | 3 | Bobby Hurley | 54.02 | 24.0 | 04/26/2013 | 2013 EnergyAustralia Swimming |
 | 4 | Cory Chitwood | 55.11 | 21.0 | 08/03/2010 | 2010 Summer Nationals |
 | 5 | Albert Subirats | 55.26 | 22.0 | 03/05/2009 | 2009 Pro Swim - Austin  |
@@ -788,16 +788,16 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Brooks Fail ‡ | 2:07.68 | 16 | 05/30/2016 | 2016 Speedo Arizona Invitation |
-| 2 | Matt Lujan | 2:08.50 | 16 | 08/05/2013 | 2013 Summer Junior Nats  |
-| 3 | Bryan O'Connor | 2:09.69 | 16 | 07/12/2005 | 2005 PN Speedo Sectionals |
-| 4 | Dave Rollins | 2:10.01 | 16 | 06/28/2001 | Phoenix Internat |
-| 5 | Cole Puchi | 2:13.24 | 16 | 07/21/2009 | 2009 OR Speedo Western Section LC |
-| 6 | Sam Stuckey | 2:14.97 | 16 | 07/29/2018 | 2018 AZ Senior Open LC Champio |
-| 7 | Isaac Badowski | 2:15.19 | 16 | 07/28/2019 | 2019 AZ LC Senior Open @ FORD |
-| 8 | Keegan Kelly | 2:15.70 | 16 | 07/16/2022 | 2022 OR Speedo Sectionals - Mt Hood |
-| 9 | Francisco Vazquez | 2:16.07 | 16 | 05/23/2015 | 2015 AZ Cactus Classic |
-| 10 | Tristan Daniels | 2:16.19 | 15 | 07/03/2014 | 2014 AZ LC Senior State Championship |
+| 1 | Matt Lujan | 2:08.50 | 16 | 08/05/2013 | 2013 Summer Junior Nats  |
+| 2 | Bryan O'Connor | 2:09.69 | 16 | 07/12/2005 | 2005 PN Speedo Sectionals |
+| 3 | Dave Rollins | 2:10.01 | 16 | 06/28/2001 | Phoenix Internat |
+| 4 | Cole Puchi | 2:13.24 | 16 | 07/21/2009 | 2009 OR Speedo Western Section LC |
+| 5 | Sam Stuckey | 2:14.97 | 16 | 07/29/2018 | 2018 AZ Senior Open LC Champio |
+| 6 | Isaac Badowski | 2:15.19 | 16 | 07/28/2019 | 2019 AZ LC Senior Open @ FORD |
+| 7 | Keegan Kelly | 2:15.70 | 16 | 07/16/2022 | 2022 OR Speedo Sectionals - Mt Hood |
+| 8 | Francisco Vazquez | 2:16.07 | 16 | 05/23/2015 | 2015 AZ Cactus Classic |
+| 9 | Tristan Daniels | 2:16.19 | 15 | 07/03/2014 | 2014 AZ LC Senior State Championship |
+| 10 | Christopher Zeches | 2:16.89 | 16 | 08/02/2001 | 2001 US Sectionals - Aug |
 
 ### 17-18
 
@@ -859,8 +859,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Matt Lujan | 39.06 | 12 | 05/28/2010 | 2010 AZ United Healthcare Cactus |
 | 6 | Alex Edquid | 39.08 | 12 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
 | 7 | Alex Nikolaev | 39.6 | 12 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
-| 8 | Rudy Saffer | 39.65 | 12 | 07/18/2025 | 2025 AZ AZSI LC Age Group State Champ... |
-| 9 | Isaac Thompson | 39.65 | 12 | 06/03/2017 | 2017 AZ FORD SW Classic Meet |
+| 8 | Isaac Thompson | 39.65 | 12 | 06/03/2017 | 2017 AZ FORD SW Classic Meet |
+| 9 | Rudy Saffer | 39.65 | 12 | 07/18/2025 | 2025 AZ AZSI LC Age Group State Champ... |
 | 10 | Matthew Jeffries | 40.37 | 12 | 07/23/2009 | 2009 AZ LC Age Group State |
 
 ### 13-14
@@ -870,13 +870,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Max Cook | 31.81 | 14 | 07/18/2025 | 2025 AZ AZSI LC Age Group State Champ... |
 | 2 | Colin Cosgrove | 32.16 | 14 | 06/14/2019 | 2019 SI Splash and Dash Meet |
 | 3 | Keenan Johnson | 34.05 | 14 | 06/21/2019 | 2019 AZ FAST Oro Valley Jon Borendame |
-| 4 | Dalton Pakkala ‡ | 34.49 | 14 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 5 | Sam Teegarden | 35.16 | 14 | 07/21/2005 | 2005 AZ LC Age Group Cham |
-| 6 | Brent Lee | 35.64 | 14 | 06/06/2015 | 2015 AZ Southwest Classic |
-| 7 | Haru Kazui | 36.06 | 13 | 07/18/2025 | 2025 AZ AZSI LC Age Group State Champ... |
-| 8 | Alex Nikolaev | 36.26 | 14 | 05/02/2014 | 2014 AZ FAST Mayflower Invitational  |
-| 9 | Reed Patterson ‡ | 36.7 | 13 | 05/02/2008 | 2008 AZ Southwest ClassicInvitational |
-| 10 | John Oliver | 36.82 | 14 | 07/17/2008 | 2008 AZ AG LC State Champs |
+| 4 | Sam Teegarden | 35.16 | 14 | 07/21/2005 | 2005 AZ LC Age Group Cham |
+| 5 | Brent Lee | 35.64 | 14 | 06/06/2015 | 2015 AZ Southwest Classic |
+| 6 | Haru Kazui | 36.06 | 13 | 07/18/2025 | 2025 AZ AZSI LC Age Group State Champ... |
+| 7 | Alex Nikolaev | 36.26 | 14 | 05/02/2014 | 2014 AZ FAST Mayflower Invitational  |
+| 8 | John Oliver | 36.82 | 14 | 07/17/2008 | 2008 AZ AG LC State Champs |
+| 9 | Sylas Cole | 36.83 | 14 | 05/04/2012 | 2012 AZ Southwest Classic Invitational |
+| 10 | Tim Nikolaev | 36.94 | 14 | 06/21/2019 | 2019 AZ FAST Oro Valley Jon Borendame |
 
 ### 15-16
 
@@ -887,11 +887,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Wade Olsson | 32.68 | 15 | 05/04/2025 | 2025 AZ FAST Mayflower Invite |
 | 4 | Barrett Miesfeld | 32.84 | 16 | 07/24/2008 | 2008 AZ  Senior State |
 | 5 | Yakov Cerros | 32.87 | 16 | 05/30/2025 | 2025 AZ FORD Southwest Classic |
-| 6 | Herbie Behm ‡ | 33.29 | 15 | 05/13/2006 | 2006 NM Spring Stroke Sprints Invite |
-| 7 | David Guyer | 33.3 | 16 | 05/23/2014 | 2014 AZ SAC Cactus Classic |
-| 8 | Andy Duffield | 33.63 | 16 | 05/22/2015 | 2015 AZ Cactus Classic |
-| 9 | Tim Nikolaev | 34.47 | 16 | 05/28/2021 | 2021 AZ SAC Cactus Classic |
-| 10 | Tristan Schrader | 35.22 | 16 | 07/12/2012 | 2012 AZ LC Senior State Champions |
+| 6 | David Guyer | 33.3 | 16 | 05/23/2014 | 2014 AZ SAC Cactus Classic |
+| 7 | Andy Duffield | 33.63 | 16 | 05/22/2015 | 2015 AZ Cactus Classic |
+| 8 | Tim Nikolaev | 34.47 | 16 | 05/28/2021 | 2021 AZ SAC Cactus Classic |
+| 9 | Tristan Schrader | 35.22 | 16 | 07/12/2012 | 2012 AZ LC Senior State Champions |
+| 10 | Minh Le | 35.42 | 15 | 04/29/2018 | 2018 AZ AZAC 2018 May Dayz Beach Party |
 
 ### 17-18
 
@@ -913,9 +913,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Matt Grevers ◊ | 26.7 | nan | 2019-10-26 | ISL 2019 Season |
-| 2 | Kevin Cordes † | 26.76 | 21.0 | 08/04/2015 | 2015 World Champs |
+| 2 | Kevin Cordes | 26.76 | 21.0 | 08/04/2015 | 2015 World Champs |
 | 3 | Kevin Steel | 27.26 | 21.0 | 06/25/2013 | 2013 Summer Nationals |
-| 4 | Mike Alexandrov ◊ | 27.7 | nan | 2010-08-20 | 11th Pan Pacific Championships 2010 |
+| 4 | Mike Alexandrov | 27.70 | 25.0 | 08/18/2010 | 2010 Pan Pacific Champs |
 | 5 | Marcus Titus | 27.76 | 28.0 | 08/06/2014 | 2014 Summer Nationals |
 | 6 | Andrew Sovero | 28.25 | 19.0 | 08/06/2014 | 2014 Summer Nationals |
 | 7 | Carl Mickelson | 28.35 | 22.0 | 06/25/2013 | 2013 Summer Nationals |
@@ -969,8 +969,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Brent Lee | 1:13.09 | 14 | 05/21/2016 | 2016 AZ FORD SW Classic Meet |
 | 7 | Keenan Johnson | 1:13.24 | 14 | 08/07/2019 | 2019 Zone AG Champs - Gresham |
 | 8 | Wade Olsson | 1:13.77 | 14 | 06/28/2024 | 2024 AZ AZSI LC Senior State Champion... |
-| 9 | Dalton Pakkala ‡ | 1:15.89 | 14 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 10 | Henry Bonomolo | 1:16.23 | 14 | 07/18/2021 | 2021 AZ  LC Age Group State @ YWSF |
+| 9 | Henry Bonomolo | 1:16.23 | 14 | 07/18/2021 | 2021 AZ  LC Age Group State @ YWSF |
+| 10 | Benjamin Garcia | 1:16.64 | 14 | 06/04/2017 | 2017 AZ FORD SW Classic Meet |
 
 ### 15-16
 
@@ -981,26 +981,26 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Joshua Arreguin | 1:06.87 | 16 | 03/10/2004 | 2004 PN Western Sect Spring Champs |
 | 4 | Tj Lundstrom | 1:07.33 | 16 | 07/21/2009 | 2009 OR Speedo Western Section LC |
 | 5 | Paul Oman | 1:07.88 | 16 | 07/13/2000 | 2000 US Az Sr Lc State |
-| 6 | Sam Mulay ‡ | 1:08.52 | 16 | 07/22/2016 | 2016 Sectionals - Gresham |
-| 7 | Grant Nations | 1:08.88 | 16 | 07/30/2017 | 2017 AZ Senior LC Champs |
-| 8 | Reed Patterson | 1:09.30 | 16 | 08/08/2011 | 2011 Summer Junior Nats |
-| 9 | Wade Olsson | 1:09.53 | 15 | 06/29/2025 | 2025 AZ AZSI LC Senior State Champion... |
-| 10 | Andy Duffield | 1:09.63 | 16 | 04/02/2016 | 2016 Sectionals - Austin |
+| 6 | Grant Nations | 1:08.88 | 16 | 07/30/2017 | 2017 AZ Senior LC Champs |
+| 7 | Reed Patterson | 1:09.30 | 16 | 08/08/2011 | 2011 Summer Junior Nats |
+| 8 | Wade Olsson | 1:09.53 | 15 | 06/29/2025 | 2025 AZ AZSI LC Senior State Champion... |
+| 9 | Andy Duffield | 1:09.63 | 16 | 04/02/2016 | 2016 Sectionals - Austin |
+| 10 | William Weeks | 1:11.04 | 16 | 07/23/2002 | 2002 US Speedo Champions |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Matt Salerno ‡ | 1:03.02 | 18 | 07/30/2015 | 2015 Summer Junior Nats |
-| 2 | Andrew Sovero | 1:03.69 | 18 | 06/25/2013 | 2013 Summer Nationals |
-| 3 | Steven Medvedev | 1:04.70 | 18 | 07/28/2017 | 2017 AZ Senior LC Champs |
-| 4 | Carl Mickelson ‡ | 1:04.82 | 18 | 08/10/2009 | 2009 Summer Junior Nats |
-| 5 | Brandon Young | 1:04.97 | 17 | 08/08/2011 | 2011 Summer Junior Nats |
-| 6 | Joshua Arreguin | 1:05.05 | 18 | 08/09/2005 | 2005 Summer Junior Nats |
-| 7 | Zac Hojnacki | 1:05.25 | 18 | 08/09/2010 | 2010 Summer Junior Nats |
-| 8 | Grant Nations | 1:05.81 | 18 | 07/26/2019 | 2019 AZ LC Senior Open @ FORD |
-| 9 | Carson Brindle ‡ | 1:06.06 | 18 | 07/05/2013 | 2013 AZ Swimming LC Senior State |
-| 10 | Colin Cosgrove | 1:06.13 | 17 | 04/06/2022 |  2022 Bell Canadian Swimming Trials |
+| 1 | Andrew Sovero | 1:03.69 | 18 | 06/25/2013 | 2013 Summer Nationals |
+| 2 | Steven Medvedev | 1:04.70 | 18 | 07/28/2017 | 2017 AZ Senior LC Champs |
+| 3 | Brandon Young | 1:04.97 | 17 | 08/08/2011 | 2011 Summer Junior Nats |
+| 4 | Joshua Arreguin | 1:05.05 | 18 | 08/09/2005 | 2005 Summer Junior Nats |
+| 5 | Zac Hojnacki | 1:05.25 | 18 | 08/09/2010 | 2010 Summer Junior Nats |
+| 6 | Grant Nations | 1:05.81 | 18 | 07/26/2019 | 2019 AZ LC Senior Open @ FORD |
+| 7 | Colin Cosgrove | 1:06.13 | 17 | 04/06/2022 |  2022 Bell Canadian Swimming Trials |
+| 8 | Alan Lam | 1:06.56 | 18 | 07/24/2015 | 2015 AZ Swimming LC Senior Cha |
+| 9 | Dave Rollins | 1:06.75 | 18 | 08/05/2003 | 2003 ConocoPhillips Nationals TT |
+| 10 | David Guyer | 1:07.35 | 18 | 04/02/2016 | 2016 Sectionals - Austin |
 
 ### Open
 
@@ -1025,9 +1025,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Mayson Lodge ‡ | 3:32.16 | 10 | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Bore... |
-| 2 | Tim Nikolaev | 3:41.76 | 10 | 07/03/2015 | 2015 AZ Ford Intrasquad |
-| 3 | Kevin Nguyen | 4:11.10 | 9 | 05/17/2015 | 2015 AZ AZAC May Dayz Beach Party |
+| 1 | Tim Nikolaev | 3:41.76 | 10 | 07/03/2015 | 2015 AZ Ford Intrasquad |
+| 2 | Kevin Nguyen | 4:11.10 | 9 | 05/17/2015 | 2015 AZ AZAC May Dayz Beach Party |
 
 ### 11-12
 
@@ -1070,9 +1069,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Dave Rollins | 2:28.31 | 16 | 07/19/2001 | Jei 2001 |
 | 6 | Wade Olsson | 2:28.32 | 16 | 07/17/2025 | 2025 OR SPEEDO SECTIONALS - MT HOOD |
 | 7 | Tj Lundstrom | 2:29.46 | 16 | 07/21/2009 | 2009 OR Speedo Western Section LC |
-| 8 | Sam Mulay ‡ | 2:30.10 | 16 | 07/20/2016 | 2016 Sectionals - Gresham |
-| 9 | William Weeks | 2:30.77 | 16 | 07/23/2002 | 2002 US Speedo Champions |
-| 10 | Andy Duffield | 2:31.44 | 16 | 07/25/2015 | 2015 AZ Swimming LC Senior Cha |
+| 8 | William Weeks | 2:30.77 | 16 | 07/23/2002 | 2002 US Speedo Champions |
+| 9 | Andy Duffield | 2:31.44 | 16 | 07/25/2015 | 2015 AZ Swimming LC Senior Cha |
+| 10 | Grant Nations | 2:34.41 | 16 | 07/29/2017 | 2017 AZ Senior LC Champs |
 
 ### 17-18
 
@@ -1080,14 +1079,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Andrew Sovero | 2:19.02 | 18 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
 | 2 | Zac Hojnacki | 2:19.41 | 18 | 08/09/2010 | 2010 Summer Junior Nats |
-| 3 | Carl Mickelson ‡ | 2:19.74 | 18 | 08/10/2009 | 2009 Summer Junior Nats |
-| 4 | Steven Medvedev | 2:20.21 | 18 | 07/15/2017 | 2017 CA  Los Angeles Invite  |
-| 5 | Brandon Young | 2:20.22 | 17 | 08/08/2011 | 2011 Summer Junior Nats |
-| 6 | Austen Thompson | 2:20.32 | 18 | 08/04/2009 | 2009 U. S. Open |
-| 7 | Matt Salerno ‡ | 2:20.37 | 18 | 08/02/2015 | 2015 Summer Junior Nats |
-| 8 | Joshua Arreguin | 2:21.42 | 18 | 08/09/2005 | 2005 Summer Junior Nats |
-| 9 | Grant Nations | 2:26.43 | 18 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
-| 10 | Reed Patterson | 2:27.05 | 18 | 07/16/2013 | 2013 OR Speedo Western Section LC |
+| 3 | Steven Medvedev | 2:20.21 | 18 | 07/15/2017 | 2017 CA  Los Angeles Invite  |
+| 4 | Brandon Young | 2:20.22 | 17 | 08/08/2011 | 2011 Summer Junior Nats |
+| 5 | Austen Thompson | 2:20.32 | 18 | 08/04/2009 | 2009 U. S. Open |
+| 6 | Joshua Arreguin | 2:21.42 | 18 | 08/09/2005 | 2005 Summer Junior Nats |
+| 7 | Grant Nations | 2:26.43 | 18 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
+| 8 | Reed Patterson | 2:27.05 | 18 | 07/16/2013 | 2013 OR Speedo Western Section LC |
+| 9 | Paul Oman | 2:27.23 | 17 | 07/13/2001 | 2001 US Arizona Sen |
+| 10 | Alan Lam | 2:28.47 | 18 | 07/25/2015 | 2015 AZ Swimming LC Senior Cha |
 
 ### Open
 
@@ -1096,7 +1095,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Mike Alexandrov ◊ | 2:05.08 | nan | 2011-12-16 | Mutual of Omaha Duel in the Pool 2011 |
 | 2 | Kevin Cordes | 2:07.86 | 20.0 | 08/06/2014 | 2014 Summer Nationals |
 | 3 | Clark Burckle | 2:09.11 | 24.0 | 07/28/2012 | 2012 Olympic Games |
-| 4 | Ricky Barbosa † | 2:12.21 | 30.0 | 04/07/2015 | Maria Lenk Trophy |
+| 4 | Ricky Barbosa | 2:12.21 | 30.0 | 04/07/2015 | Maria Lenk Trophy |
 | 5 | Jack Brown | 2:13.05 | 21.0 | 08/04/2009 | 2009 U. S. Open |
 | 6 | Bart Steninger | 2:13.14 | 23.0 | 07/07/2009 | 2009 Summer Nationals |
 | 7 | Ed Moses | 2:14.32 | 32.0 | 06/25/2012 | 2012 Olympic Trials |
@@ -1150,7 +1149,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Sylas Cole | 28.64 | 14 | 05/04/2012 | 2012 AZ Southwest Classic Invitational |
 | 7 | Jason Alentado | 28.82 | 14 | 05/22/2009 | 2009 AZ Swimming World Cactus Classic |
 | 8 | Nate Schwarz | 28.82 | 14 | 07/19/2025 | 2025 AZ AZSI LC Age Group State Champ... |
-| 9 | Charles Huang ‡ | 29.25 | 14 | 06/09/2011 | 2011 AZ Southwest "BB" Meet |
+| 9 | Charles Huang | 29.48 | 14 | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
 | 10 | Sam Stott | 29.77 | 14 | 06/21/2019 | 2019 AZ FAST Oro Valley Jon Borendame |
 
 ### 15-16
@@ -1188,10 +1187,10 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Roland Schoeman | 22.96 | 25.0 | 07/25/2005 | 2005 World Champs |
-| 2 | Matt Grevers † | 23.29 | 28.0 | 07/28/2013 | 2013 World Champs |
+| 2 | Matt Grevers | 23.29 | 28.0 | 07/28/2013 | 2013 World Champs |
 | 3 | Chatham Dobbs | 23.38 | 21.0 | 07/26/2018 | 2018 Summer Nationals |
 | 4 | Masayuki Kishida | 23.46 | 29.0 | 08/07/2015 | 2015 U.S. Nats Time Trials |
-| 5 | Albert Subirats † | 23.57 | 20.0 | 03/25/2007 | 2007 World Champs |
+| 5 | Albert Subirats | 23.57 | 20.0 | 03/25/2007 | 2007 World Champs |
 | 6 | Haakon Naughton | 23.78 | 21.0 | 06/04/2025 | 2025 Toyota National Championships |
 | 7 | Giles Smith | 23.96 | 21.0 | 06/25/2013 | 2013 Summer Nationals |
 | 8 | Lyndon Ferns | 23.99 | 23.0 | 03/25/2007 | 2007 World Champs |
@@ -1208,14 +1207,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Levi Cindrich | 1:30.17 | 10 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
 | 2 | Reese Cindrich | 1:30.56 | 10 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
-| 3 | Eli Cindrich ‡ | 1:31.10 | 10 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 4 | Chase Schnell | 1:32.29 | 10 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
-| 5 | Isaiah Siress | 1:33.14 | 9 | 07/18/2025 | 2025 AZ AZSI LC Age Group State Champ... |
-| 6 | Braden Hess | 1:34.20 | 10 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 7 | Nathan Kim | 1:36.04 | 10 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
-| 8 | Daniel Sutherland | 1:36.18 | 10 | 07/17/2015 | 2015 AZ Swimming LC AG State C |
-| 9 | Beri Yang | 1:37.48 | 9 | 05/23/2014 | 2014 AZ SAC Cactus Classic |
-| 10 | Zach Byars | 1:39.20 | 10 | 05/02/2014 | 2014 AZ FAST Mayflower Invitational  |
+| 3 | Chase Schnell | 1:32.29 | 10 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
+| 4 | Isaiah Siress | 1:33.14 | 9 | 07/18/2025 | 2025 AZ AZSI LC Age Group State Champ... |
+| 5 | Braden Hess | 1:34.20 | 10 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
+| 6 | Nathan Kim | 1:36.04 | 10 | 07/20/2018 | 2018 AZ LC Age Group State Cha |
+| 7 | Daniel Sutherland | 1:36.18 | 10 | 07/17/2015 | 2015 AZ Swimming LC AG State C |
+| 8 | Beri Yang | 1:37.48 | 9 | 05/23/2014 | 2014 AZ SAC Cactus Classic |
+| 9 | Zach Byars | 1:39.20 | 10 | 05/02/2014 | 2014 AZ FAST Mayflower Invitational  |
+| 10 | Benjamin Garcia | 1:39.26 | 10 | 06/28/2013 | 2013 AZ Oro Valley Open June 2013 |
 
 ### 11-12
 
@@ -1255,12 +1254,12 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 2 | Drake Barberii | 56.67 | 16 | 07/28/2017 | 2017 AZ Senior LC Champs |
 | 3 | Jason Alentado | 57.12 | 16 | 06/23/2011 | 2011 GU TWST Senior Invitational |
 | 4 | Reed Patterson | 57.30 | 16 | 07/19/2011 | 2011 OR Speedo Western Section LC |
-| 5 | Benjamin Garcia | 57.75 | 16 | 07/26/2019 | 2019 AZ LC Senior Open @ FORD |
-| 6 | Jackson Dubreuil | 57.75 | 16 | 02/15/2020 | 2020 AZ FORD Old Pueblo Senior Meet |
+| 5 | Jackson Dubreuil | 57.75 | 16 | 02/15/2020 | 2020 AZ FORD Old Pueblo Senior Meet |
+| 6 | Benjamin Garcia | 57.75 | 16 | 07/26/2019 | 2019 AZ LC Senior Open @ FORD |
 | 7 | Alex Leighton | 57.75 | 16 | 07/20/2010 | 2010 OR Speedo Western Section LC |
 | 8 | Barrett Miesfeld | 58.38 | 16 | 07/15/2008 | 2008 OR Speedo Western Section LC |
-| 9 | Brooks Fail ‡ | 58.89 | 16 | 05/30/2016 | 2016 Speedo Arizona Invitation |
-| 10 | Ben Aaberg | 59.25 | 16 | 06/23/2005 | 2005 CA NOVA AA 06/05 |
+| 9 | Ben Aaberg | 59.25 | 16 | 06/23/2005 | 2005 CA NOVA AA 06/05 |
+| 10 | Scott Pekarske | 59.56 | 16 | 07/28/2017 | 2017 AZ Senior LC Champs |
 
 ### 17-18
 
@@ -1272,24 +1271,24 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Grant Sanders | 56.11 | 18 | 06/03/2016 | 2016 FL CAT Escape The Heat |
 | 5 | Reed Patterson | 56.16 | 18 | 07/16/2013 | 2013 OR Speedo Western Section LC |
 | 6 | Drake Barberii | 56.23 | 18 | 11/22/2019 | Art Adamson Invitational |
-| 7 | Juan Veloz ‡ | 56.64 | 18 | 06/28/2001 | 2001 US Santa Clara Xxxi |
-| 8 | Brooks Fail | 56.67 | 18 | 07/28/2017 | 2017 AZ Senior LC Champs |
-| 9 | Jason Alentado | 56.68 | 18 | 04/11/2013 | 2013 Pro Series - Mesa |
-| 10 | Pete Stacy | 57.19 | 18 | 06/04/2009 | 2009 AZ Southwest Classic Sr. Invite |
+| 7 | Brooks Fail | 56.67 | 18 | 07/28/2017 | 2017 AZ Senior LC Champs |
+| 8 | Jason Alentado | 56.68 | 18 | 04/11/2013 | 2013 Pro Series - Mesa |
+| 9 | Pete Stacy | 57.19 | 18 | 06/04/2009 | 2009 AZ Southwest Classic Sr. Invite |
+| 10 | Tyler Kybartas | 57.30 | 18 | 08/04/2008 | 2008 Summer Junior Nats  |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Matt Grevers ◊ | 50.54 | nan | 2011-12-16 | Mutual of Omaha Duel in the Pool 2011 |
-| 2 | Albert Subirats † | 51.81 | 20.0 | 03/25/2007 | 2007 World Champs |
-| 3 | Masayuki Kishida † | 51.83 | 22.0 | 03/15/2008 | 2008 Olympic Invite |
+| 2 | Albert Subirats | 51.81 | 20.0 | 03/25/2007 | 2007 World Champs |
+| 3 | Masayuki Kishida | 51.83 | 22.0 | 03/15/2008 | 2008 Olympic Invite |
 | 4 | Lyndon Ferns | 51.90 | 23.0 | 03/25/2007 | 2007 World Champs |
 | 5 | Justin Wright | 52.51 | 23.0 | 12/06/2019 | 2019 U.S. Open |
 | 6 | Giles Smith | 52.72 | 21.0 | 06/25/2013 | 2013 Summer Nationals |
 | 7 | Darian Townsend ◊ | 53.00 | nan | 2011-04-11 | SA National and Youth Open Championships |
 | 8 | Haakon Naughton | 53.01 | 21.0 | 06/05/2025 | 2025 Toyota National Championships |
-| 9 | Simon Burnett † | 53.04 | 28.0 | 06/14/2011 | British Gas ASA National Championships |
+| 9 | Simon Burnett | 53.04 | 28.0 | 06/14/2011 | British Gas ASA National Championships |
 | 10 | Roland Schoeman | 53.08 | 25.0 | 08/03/2005 | 2005 Summer Nationals |
 
 ---
@@ -1336,29 +1335,29 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Aidan Reagan | 2:03.39 | 16 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
 | 2 | Scott Pekarske | 2:04.84 | 16 | 06/22/2018 | 2018 CA MVN Fran Crippen SMOC |
-| 3 | Brooks Fail ‡ | 2:05.36 | 16 | 05/29/2016 | 2016 Speedo Arizona Invitation |
-| 4 | Jason Alentado | 2:07.71 | 16 | 06/23/2011 | 2011 GU TWST Senior Invitational |
-| 5 | Jackson Dubreuil | 2:08.51 | 16 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
-| 6 | Miles Smyczek | 2:09.69 | 16 | 07/01/2023 | 2023 AZ Long Course Senior State Cham... |
-| 7 | Barrett Miesfeld | 2:10.96 | 16 | 07/15/2008 | 2008 OR Speedo Western Section LC |
-| 8 | Sylas Cole | 2:12.66 | 15 | 05/24/2013 | 2013 AZ Invitational |
-| 9 | Benjamin Garcia | 2:12.97 | 16 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
-| 10 | Drake Barberii | 2:13.33 | 16 | 07/29/2017 | 2017 AZ Senior LC Champs |
+| 3 | Jason Alentado | 2:07.71 | 16 | 06/23/2011 | 2011 GU TWST Senior Invitational |
+| 4 | Jackson Dubreuil | 2:08.51 | 16 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
+| 5 | Miles Smyczek | 2:09.69 | 16 | 07/01/2023 | 2023 AZ Long Course Senior State Cham... |
+| 6 | Barrett Miesfeld | 2:10.96 | 16 | 07/15/2008 | 2008 OR Speedo Western Section LC |
+| 7 | Sylas Cole | 2:12.66 | 15 | 05/24/2013 | 2013 AZ Invitational |
+| 8 | Benjamin Garcia | 2:12.97 | 16 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
+| 9 | Drake Barberii | 2:13.33 | 16 | 07/29/2017 | 2017 AZ Senior LC Champs |
+| 10 | Anthony Chiaro | 2:14.22 | 16 | 07/19/2007 | 2007 AZ Senior ST |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Juan Veloz ‡ | 2:01.78 | 18 | 06/28/2001 | 2001 US Santa Clara Xxxi |
-| 2 | Brooks Fail | 2:02.36 | 18 | 06/09/2018 | 2018 Pro Series - Santa Clara  |
-| 3 | Jason Alentado | 2:03.81 | 17 | 08/13/2012 | 2012 Summer Junior Nats |
-| 4 | Barrett Miesfeld | 2:05.98 | 18 | 08/03/2010 | 2010 Summer Nationals |
-| 5 | Scott Pekarske | 2:06.21 | 18 | 08/06/2019 | 2019 Summer Junior Nats |
-| 6 | Tyler Kybartas | 2:06.64 | 18 | 08/04/2008 | 2008 Summer Junior Nats  |
-| 7 | Grant Sanders | 2:07.50 | 18 | 05/29/2016 | 2016 FL T2 Aquatics Norris Founda |
-| 8 | Phil Mercier | 2:07.64 | 17 | 08/01/2000 | 2000 US Speedo Jr. Champ |
-| 9 | Andrea Longo | 2:07.84 | 17 | 06/10/2017 | 2017 AZ Oro Valley Jon Borendame Invite |
-| 10 | Miles Smyczek | 2:08.55 | 18 | 07/17/2025 | 2025 OR SPEEDO SECTIONALS - MT HOOD |
+| 1 | Brooks Fail | 2:02.36 | 18 | 06/09/2018 | 2018 Pro Series - Santa Clara  |
+| 2 | Jason Alentado | 2:03.81 | 17 | 08/13/2012 | 2012 Summer Junior Nats |
+| 3 | Barrett Miesfeld | 2:05.98 | 18 | 08/03/2010 | 2010 Summer Nationals |
+| 4 | Scott Pekarske | 2:06.21 | 18 | 08/06/2019 | 2019 Summer Junior Nats |
+| 5 | Tyler Kybartas | 2:06.64 | 18 | 08/04/2008 | 2008 Summer Junior Nats  |
+| 6 | Grant Sanders | 2:07.50 | 18 | 05/29/2016 | 2016 FL T2 Aquatics Norris Founda |
+| 7 | Phil Mercier | 2:07.64 | 17 | 08/01/2000 | 2000 US Speedo Jr. Champ |
+| 8 | Andrea Longo | 2:07.84 | 17 | 06/10/2017 | 2017 AZ Oro Valley Jon Borendame Invite |
+| 9 | Miles Smyczek | 2:08.55 | 18 | 07/17/2025 | 2025 OR SPEEDO SECTIONALS - MT HOOD |
+| 10 | Bobby Koubratoff | 2:10.06 | 18 | 07/15/2008 | 2008 OR Speedo Western Section LC |
 
 ### Open
 
@@ -1371,7 +1370,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Juan Veloz | 1:57.83 | 24 | 03/25/2007 | 2007 World Champs |
 | 6 | Michael Meyer | 1:58.33 | 21 | 08/21/2014 | 2014 Pan Pacific Champs |
 | 7 | Aj Tipton | 1:58.83 | 20 | 08/03/2010 | 2010 Summer Nationals |
-| 8 | Etay Gurevich † | 1:59.54 | 23 | 08/01/2019 | 2019 Israel Summer Champs |
+| 8 | Etay Gurevich | 1:59.54 | 23 | 08/01/2019 | 2019 Israel Summer Champs |
 | 9 | Nick Thorne | 1:59.92 | 21 | 07/14/2017 | 2017 CA  Los Angeles Invite  |
 | 10 | Haakon Naughton | 2:00.56 | 21 | 06/03/2025 | 2025 Toyota National Championships |
 
@@ -1388,11 +1387,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Reese Cindrich | 3:06.83 | 10 | 07/22/2018 | 2018 AZ LC Age Group State Cha |
 | 4 | Braden Hess | 3:14.37 | 10 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
 | 5 | Sam McCarrell | 3:15.29 | 10 | 05/06/2023 | 2023 AZ FAST Mayflower Invite |
-| 6 | Matt Lujan ‡ | 3:15.92 | 10 | 05/23/2008 | 2008 AZ Swimming World Cactus Classic |
-| 7 | Levi Cindrich | 3:16.27 | 10 | 07/22/2018 | 2018 AZ LC Age Group State Cha |
-| 8 | Chase Schnell | 3:17.36 | 10 | 05/04/2012 | 2012 AZ Southwest Classic Invitational |
-| 9 | Mateo Valdivia | 3:19.12 | 10 | 05/04/2024 | 2024 AZ FAST Mayflower Invitational |
-| 10 | Benjamin Garcia | 3:19.66 | 10 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
+| 6 | Levi Cindrich | 3:16.27 | 10 | 07/22/2018 | 2018 AZ LC Age Group State Cha |
+| 7 | Chase Schnell | 3:17.36 | 10 | 05/04/2012 | 2012 AZ Southwest Classic Invitational |
+| 8 | Mateo Valdivia | 3:19.12 | 10 | 05/04/2024 | 2024 AZ FAST Mayflower Invitational |
+| 9 | Benjamin Garcia | 3:19.66 | 10 | 07/18/2013 | 2013 AZ Swimming LC Age Group State C... |
+| 10 | Sam Stuckey | 3:21.05 | 10 | 05/24/2013 | 2013 AZ Invitational |
 
 ### 11-12
 
@@ -1413,8 +1412,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Benjamin Garcia | 2:18.01 | 14 | 06/03/2017 | 2017 AZ FORD SW Classic Meet |
-| 2 | Colin Cosgrove | 2:18.01 | 14 | 07/21/2019 | 2019 AZ LC Age Group State Cha |
+| 1 | Colin Cosgrove | 2:18.01 | 14 | 07/21/2019 | 2019 AZ LC Age Group State Cha |
+| 2 | Benjamin Garcia | 2:18.01 | 14 | 06/03/2017 | 2017 AZ FORD SW Classic Meet |
 | 3 | Matt Lujan | 2:19.36 | 14 | 08/09/2011 | 2011 CC Western Zone Age Group |
 | 4 | Alex Nikolaev | 2:20.26 | 14 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
 | 5 | Reed Patterson | 2:20.30 | 14 | 07/23/2009 | 2009 AZ LC Age Group State |
@@ -1437,7 +1436,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Bryan O'Connor | 2:13.24 | 16 | 07/12/2005 | 2005 PN Speedo Sectionals |
 | 8 | Scott Pekarske | 2:13.59 | 16 | 06/03/2018 | 2018 AZ Cactus Classic |
 | 9 | Herbie Behm | 2:14.59 | 15 | 07/18/2006 | 2006 PN Speedo Sectionals |
-| 10 | Brooks Fail ‡ | 2:14.93 | 16 | 06/19/2016 | 2016 AZ Oro Valley Jon Borendame  |
+| 10 | Benjamin Garcia | 2:15.30 | 16 | 07/28/2019 | 2019 AZ LC Senior Open @ FORD |
 
 ### 17-18
 
@@ -1459,13 +1458,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Jack Brown | 1:57.77 | 21 | 07/07/2009 | 2009 Summer Nationals |
-| 2 | Darian Townsend † | 1:58.50 | 24 | 07/26/2009 | 2009 World Champs  |
+| 2 | Darian Townsend | 1:58.50 | 24 | 07/26/2009 | 2009 World Champs  |
 | 3 | Cory Chitwood | 2:00.46 | 22 | 08/02/2011 | 2011 Summer Nationals |
 | 4 | Clark Burckle | 2:00.94 | 23 | 08/02/2011 | 2011 Summer Nationals |
 | 5 | Nick Thorne | 2:01.61 | 20 | 06/30/2016 | 2016 Olympic Trials  |
 | 6 | Michael Meyer | 2:01.78 | 21 | 08/21/2014 | 2014 Pan Pacific Champs |
 | 7 | Bryan O'Connor | 2:01.82 | 21 | 08/04/2009 | 2009 U. S. Open |
-| 8 | Etay Gurevich † | 2:01.91 | 23 | 08/02/2019 | 2019 Israel Summer Champs |
+| 8 | Etay Gurevich | 2:01.91 | 23 | 08/02/2019 | 2019 Israel Summer Champs |
 | 9 | Adam Ritter | 2:02.27 | 23 | 06/29/2008 | 2008 Olympic Trials |
 | 10 | Austen Thompson | 2:02.40 | 20 | 08/02/2011 | 2011 Summer Nationals |
 
@@ -1486,26 +1485,26 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Aidan Reagan | 5:40.37 | 12 | 06/20/2015 | 2015 GU TWST Senior Invitational |
 | 4 | Aleks Wolert | 5:41.66 | 12 | 06/11/2023 | 2023 AZ FORD Southwest Classic |
 | 5 | Jackson Dubreuil | 5:44.13 | 12 | 06/18/2016 | 2016 AZ Oro Valley Jon Borendame  |
-| 6 | Alex Nikolaev ‡ | 5:50.05 | 12 | 07/06/2012 | 2012 AZ Arizona Age LC Region One |
-| 7 | Matt Lujan | 5:54.72 | 12 | 05/01/2010 | 2010 AZ Ford Age Group Intersquad |
-| 8 | Nick Rothe | 5:55.34 | 12 | 05/23/2014 | 2014 AZ MAC Speedo Arizona Invitational |
-| 9 | Ricky Helmboldt | 5:57.03 | 12 | 06/07/2015 | 2015 AZ Southwest Classic |
-| 10 | Benjamin Garcia | 5:59.04 | 12 | 06/07/2015 | 2015 AZ Southwest Classic |
+| 6 | Matt Lujan | 5:54.72 | 12 | 05/01/2010 | 2010 AZ Ford Age Group Intersquad |
+| 7 | Nick Rothe | 5:55.34 | 12 | 05/23/2014 | 2014 AZ MAC Speedo Arizona Invitational |
+| 8 | Ricky Helmboldt | 5:57.03 | 12 | 06/07/2015 | 2015 AZ Southwest Classic |
+| 9 | Benjamin Garcia | 5:59.04 | 12 | 06/07/2015 | 2015 AZ Southwest Classic |
+| 10 | Eli Cindrich | 6:02.08 | 12 | 07/15/2016 | 2016 AZ LC Age Group State Championsh... |
 
 ### 13-14
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Scott Pekarske ‡ | 4:51.68 | 14 | 05/27/2016 | 2016 Speedo Arizona Invitation |
-| 2 | Benjamin Garcia | 4:55.67 | 14 | 07/14/2017 | 2017 AZ LC Age Group State |
-| 3 | Sylas Cole | 4:56.75 | 14 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
-| 4 | Matt Lujan | 4:56.83 | 14 | 05/25/2012 | 2012 AZ Arizona Invitational |
-| 5 | Colin Cosgrove | 4:57.31 | 14 | 07/25/2019 | 2019 Canadian Junior Champs |
-| 6 | Alex Nikolaev | 5:00.24 | 14 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
-| 7 | Miles Smyczek | 5:01.79 | 14 | 08/05/2021 | 2021 SN Western Zone Age Group Champs |
-| 8 | Tyler Shao | 5:06.68 | 14 | 05/30/2025 | 2025 AZ FORD Southwest Classic |
-| 9 | Reed Patterson | 5:06.94 | 14 | 07/29/2009 | 2009 PC  LCM FAR WEST CHM |
-| 10 | Aidan Reagan | 5:07.89 | 14 | 06/02/2017 | 2017 AZ FORD SW Classic Meet |
+| 1 | Benjamin Garcia | 4:55.67 | 14 | 07/14/2017 | 2017 AZ LC Age Group State |
+| 2 | Sylas Cole | 4:56.75 | 14 | 07/19/2012 | 2012 AZ Long Course Age Group Sta |
+| 3 | Matt Lujan | 4:56.83 | 14 | 05/25/2012 | 2012 AZ Arizona Invitational |
+| 4 | Colin Cosgrove | 4:57.31 | 14 | 07/25/2019 | 2019 Canadian Junior Champs |
+| 5 | Alex Nikolaev | 5:00.24 | 14 | 07/17/2014 | 2014 AZ LC Age Group State Championship |
+| 6 | Miles Smyczek | 5:01.79 | 14 | 08/05/2021 | 2021 SN Western Zone Age Group Champs |
+| 7 | Tyler Shao | 5:06.68 | 14 | 05/30/2025 | 2025 AZ FORD Southwest Classic |
+| 8 | Reed Patterson | 5:06.94 | 14 | 07/29/2009 | 2009 PC  LCM FAR WEST CHM |
+| 9 | Aidan Reagan | 5:07.89 | 14 | 06/02/2017 | 2017 AZ FORD SW Classic Meet |
+| 10 | Aleks Wolert | 5:09.21 | 14 | 08/07/2025 | 2025 WESTERN ZONE AGE GROUP CHAMPIONS... |
 
 ### 15-16
 
@@ -1514,13 +1513,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Colin Cosgrove | 4:39.26 | 16 | 07/29/2021 | 2021 Futures Championships - West Fargo |
 | 2 | Scott Pekarske | 4:43.86 | 16 | 06/23/2018 | 2018 CA MVN Fran Crippen SMOC |
 | 3 | Matt Lujan | 4:44.64 | 16 | 07/16/2013 | 2013 OR Speedo Western Section LC |
-| 4 | Brooks Fail ‡ | 4:45.30 | 16 | 06/18/2016 | 2016 AZ Oro Valley Jon Borendame  |
-| 5 | Bryan O'Connor | 4:46.21 | 16 | 07/12/2005 | 2005 PN Speedo Sectionals |
-| 6 | Sam Richie | 4:46.51 | 16 | 07/27/2018 | 2018 AZ Senior Open LC Champio |
-| 7 | Miles Smyczek | 4:48.22 | 16 | 06/30/2023 | 2023 AZ Long Course Senior State Cham... |
-| 8 | Bobby Koubratoff | 4:49.08 | 16 | 07/18/2006 | 2006 PN Speedo Sectionals |
-| 9 | Jackson Dubreuil | 4:49.22 | 16 | 07/26/2019 | 2019 AZ LC Senior Open @ FORD |
-| 10 | Herbie Behm | 4:49.24 | 15 | 07/18/2006 | 2006 PN Speedo Sectionals |
+| 4 | Bryan O'Connor | 4:46.21 | 16 | 07/12/2005 | 2005 PN Speedo Sectionals |
+| 5 | Sam Richie | 4:46.51 | 16 | 07/27/2018 | 2018 AZ Senior Open LC Champio |
+| 6 | Miles Smyczek | 4:48.22 | 16 | 06/30/2023 | 2023 AZ Long Course Senior State Cham... |
+| 7 | Bobby Koubratoff | 4:49.08 | 16 | 07/18/2006 | 2006 PN Speedo Sectionals |
+| 8 | Jackson Dubreuil | 4:49.22 | 16 | 07/26/2019 | 2019 AZ LC Senior Open @ FORD |
+| 9 | Herbie Behm | 4:49.24 | 15 | 07/18/2006 | 2006 PN Speedo Sectionals |
+| 10 | Riley Babson | 4:49.51 | 16 | 07/28/2017 | 2017 AZ Senior LC Champs |
 
 ### 17-18
 
@@ -1535,7 +1534,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Miles Smyczek | 4:41.37 | 17 | 07/12/2024 | 2024 OR SPEEDO SECTIONALS - MT HOOD |
 | 8 | Matt Lujan | 4:42.75 | 18 | 05/27/2016 | 2016 Speedo Arizona Invitation |
 | 9 | Phil Mercier | 4:45.28 | 18 | 07/19/2001 | Jei 2001 |
-| 10 | Ty Fowler ‡ | 4:45.55 | 18 | 07/05/2013 | 2013 AZ Swimming LC Senior State |
+| 10 | Riley Babson | 4:47.68 | 18 | 06/22/2019 | 2019 CA MVN SMOC |
 
 ### Open
 
@@ -1545,7 +1544,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 2 | Michael Meyer | 4:17.62 | 21 | 08/21/2014 | 2014 Pan Pacific Champs |
 | 3 | Austen Thompson | 4:19.88 | 20 | 08/02/2011 | 2011 Summer Nationals |
 | 4 | Nick Thorne | 4:20.95 | 21 | 06/29/2017 | 2017 Summer Nationals |
-| 5 | Etay Gurevich † | 4:22.66 | 23 | 08/03/2019 | 2019 Israel Summer Champs |
+| 5 | Etay Gurevich | 4:22.66 | 23 | 08/03/2019 | 2019 Israel Summer Champs |
 | 6 | Sam Rowan | 4:24.71 | 22 | 07/30/2013 | 2013 U.S. Open  |
 | 7 | Isaac Stump | 4:25.48 | 19 | 07/27/2018 | 2018 Summer Nationals |
 | 8 | Eric Solis | 4:25.70 | 21 | 06/25/2013 | 2013 Summer Nationals |
@@ -1554,5 +1553,5 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 ---
 
-*Generated: October 06, 2025 at 03:56 PM*
+*Generated: October 06, 2025 at 04:35 PM*
 *International swim policy: During-Ford-Year*

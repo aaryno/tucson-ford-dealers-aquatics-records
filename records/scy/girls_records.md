@@ -21,8 +21,8 @@
 | 11-12 | 24.48 | Tori Dabney | 03/08/2015 | 2015 AZ Short Course Age Grou |
 | 13-14 | 23.93 | Ella Cosgrove | 03/27/2022 | 2022 AZ Spring Speedo Sectional |
 | 15-16 | 23.04 | Lacey Nymeyer | 11/02/2001 | 2001 US Az. High School |
-| 17-18 | 22.93 | Krista Duffield | 03/12/2014 | 2014 PN Speedo Champions Series Western Re... |
-| Open | 21.86 | Christine Magnuson | 11/29/2012 | 2012 Winter Nationals |
+| 17-18 | 22.49 | Emma Munsch | 02/27/2008 | 2008 PAC-10 Champs women  |
+| Open | 21.33 | Lara Jackson | 12/04/2008 | UT Invite |
 
 ### 100 Freestyle
 
@@ -32,8 +32,8 @@
 | 11-12 | 53.92 | Tori Dabney | 03/07/2015 | 2015 AZ Short Course Age Grou |
 | 13-14 | 51.21 | Ella Cosgrove | 03/24/2022 | 2022 AZ Spring Speedo Sectional |
 | 15-16 | 49.38 | Sarah Bennett | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 17-18 | 49.45 | Lindsey Farella | 03/19/1998 | 1997 US Women's NCAA Champs 3 |
-| Open | 47.47 | Margo Geer | 11/22/2014 | 2014 Pro Series - Minneapolis |
+| 17-18 | 48.59 | Sarah Bennett | 12/02/2010 | 2010 UT Invite |
+| Open | 47.35 | Margo Geer | 12/05/2013 | 2013 UT Invite |
 
 ### 200 Freestyle
 
@@ -43,8 +43,8 @@
 | 11-12 | 1:55.58 | Tori Dabney | 03/06/2015 | 2015 AZ Short Course Age Grou |
 | 13-14 | 1:48.87 | Ella Cosgrove | 03/25/2022 | 2022 AZ Spring Speedo Sectional |
 | 15-16 | 1:46.90 | Sarah Bennett | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 17-18 | 1:47.41 | Lindsey Farella | 02/26/1998 | 1998 US Womens Pac-10 Ch |
-| Open | 1:43.89 | Bonnie Brandon † | 12/05/2013 | 2013 UT Invite |
+| 17-18 | 1:45.63 | Sarah Bennett | 12/02/2010 | 2010 UT Invite |
+| Open | 1:43.89 | Bonnie Brandon | 12/05/2013 | 2013 UT Invite |
 
 ### 500 Freestyle
 
@@ -55,7 +55,7 @@
 | 13-14 | 4:47.77 | Ella Cosgrove | 03/26/2022 | 2022 AZ Spring Speedo Sectional |
 | 15-16 | 4:54.41 | Ellie Doran | 03/09/2005 | 2005 PN Speedo Sectionals |
 | 17-18 | 4:47.26 | Casslyn Treydte | 02/27/2020 | 2020 PAC-12 Champs women |
-| Open | 4:35.43 | Bonnie Brandon † | 12/05/2013 | 2013 UT Invite |
+| Open | 4:35.43 | Bonnie Brandon | 12/05/2013 | 2013 UT Invite |
 
 ### 1000 Freestyle
 
@@ -63,10 +63,10 @@
 |-----------|------|---------|------|------|
 | 10U | 12:19.08 | Teagan McGinnis | 01/30/2010 | 2010 AZ Winter Festival |
 | 11-12 | 10:37.37 | Natalie Ward | 03/10/2011 | 2011 AZ SC Age Group State  |
-| 13-14 | 10:12.85 | Molly Houlton ‡ | 02/27/2002 | 2002 US Usa Swimming |
+| 13-14 | 10:14.07 | Brianna Leverenz | 01/13/2012 | 2012 CA FAST SCS Senior Meet |
 | 15-16 | 9:58.67 | Natalie Ward | 03/12/2014 | 2014 PN Speedo Champions Series Western Re... |
 | 17-18 | 9:53.05 | Susana Helms | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| Open | 9:39.03 | Bonnie Brandon † | 01/30/2015 | UT vs Arizona vs SMU |
+| Open | 9:39.03 | Bonnie Brandon | 01/30/2015 | UT vs Arizona vs SMU |
 
 ### 1650 Freestyle
 
@@ -77,7 +77,7 @@
 | 13-14 | 16:50.68 | Brianna Leverenz | 03/20/2012 | 2012 NCSA Junior National Swim |
 | 15-16 | 16:38.99 | Susana Helms | 03/09/2005 | 2005 PN Speedo Sectionals |
 | 17-18 | 16:40.67 | Susana Helms | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| Open | 15:48.35 | Bonnie Brandon † | 12/06/2014 | Texas Swimming & Diving Hall o |
+| Open | 15:48.35 | Bonnie Brandon | 12/06/2014 | Texas Swimming & Diving Hall o |
 
 ### 50 Backstroke
 
@@ -98,8 +98,8 @@
 | 11-12 | 1:01.66 | Taylor Alicea-Jorgensen | 03/28/2015 | 2015 ST TXLA Speedo Champs Western Region |
 | 13-14 | 56.25 | Ella Cosgrove | 11/11/2021 | 2021 AZ Ford Intrasquad |
 | 15-16 | 55.06 | Sarah Bennett | 01/16/2009 | 2009 CA SO CAL GRAND PRIX OF S |
-| 17-18 | 53.31 | Stef Wells | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| Open | 51.87 | Bonnie Brandon ‡ | 03/21/2013 | 2013 NCAA DI - Women |
+| 17-18 | 53.00 | Sarah Bennett | 02/23/2011 | 2011 PAC 10 Champs women |
+| Open | 52.00 | Aria Bernal | 02/28/2020 | 2020 PAC-12 Champs women |
 
 ### 200 Backstroke
 
@@ -109,8 +109,8 @@
 | 11-12 | 2:12.61 | Ella Cosgrove | 03/08/2020 | 2020 AZ SC Age Group State Cha |
 | 13-14 | 1:58.35 | Molly Houlton | 04/07/2003 | 2003 FL NCSA Junior National C |
 | 15-16 | 1:55.15 | Sarah Bennett | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 17-18 | 1:55.07 | Caitlin Iversen ‡ | 03/08/2007 | 2007 NCAA DI - Women |
-| Open | 1:50.70 | Bonnie Brandon † | 12/05/2013 | 2013 UT Invite |
+| 17-18 | 1:53.67 | Sarah Bennett | 12/02/2010 | 2010 UT Invite |
+| Open | 1:50.70 | Bonnie Brandon | 12/05/2013 | 2013 UT Invite |
 
 ### 50 Breaststroke
 
@@ -142,8 +142,8 @@
 | 11-12 | 2:28.79 | Chloe Garcia | 10/26/2013 | 2013 AZ RIO October Fest |
 | 13-14 | 2:18.26 | Chloe Garcia | 03/26/2015 | 2015 ST TXLA Speedo Champs Western Region |
 | 15-16 | 2:17.37 | Sara Borendame | 03/20/2012 | 2012 NCSA Junior National Swim |
-| 17-18 | 2:12.59 | Sara Borendame † | 02/26/2014 | 2014 PAC-12 Champs women |
-| Open | 2:09.09 | Amanda Beard | 03/15/2001 | 2001 Women's NCAA Champs |
+| 17-18 | 2:12.81 | Sara Borendame | 12/05/2013 | 2013 UT Invite |
+| Open | 2:08.44 | Emma Simonson | 12/05/2013 | 2013 UT Invite |
 
 ### 50 Butterfly
 
@@ -164,8 +164,8 @@
 | 11-12 | 57.93 | Taylor Alicea-Jorgensen | 03/28/2015 | 2015 ST TXLA Speedo Champs Western Region |
 | 13-14 | 55.41 | Avery Spade | 03/22/2019 | 2019 NCSA Spring Championship |
 | 15-16 | 55.44 | Sarah Bennett | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 17-18 | 54.95 | Sydney Even | 03/26/2022 | 2022 AZ Spring Speedo Sectional |
-| Open | 51.82 | Christine Magnuson | 03/04/2010 | 2010 Austin Grand |
+| 17-18 | 54.84 | Emma Munsch | 02/27/2008 | 2008 PAC-10 Champs women  |
+| Open | 51.12 | Lara Jackson | 12/04/2008 | UT Invite |
 
 ### 200 Butterfly
 
@@ -176,7 +176,7 @@
 | 13-14 | 2:04.32 | Molly Houlton | 02/28/2003 | 2003 AZ Short Course Sen |
 | 15-16 | 2:01.09 | Lauren Baker | 03/05/2009 | 2009 GU AGS Sectional Champs |
 | 17-18 | 2:02.04 | Emily Thompson | 04/07/2003 | 2003 FL NCSA Junior National C |
-| Open | 1:57.49 | Whitney Lopus ‡ | 03/18/2010 | 2010 NCAA D1 - Women |
+| Open | 1:54.91 | Alyssa Anderson | 12/02/2010 | 2010 UT Invite |
 
 ### 100 Individual Medley
 
@@ -196,9 +196,9 @@
 | 10U | 2:25.51 | Eleora Bailey | 12/03/2009 | 2009 AZ Holiday Fest 2009 |
 | 11-12 | 2:15.16 | Tori Dabney | 02/14/2015 | 2015 AZ Lost Dutchman  |
 | 13-14 | 2:02.57 | Molly Houlton | 04/07/2003 | 2003 FL NCSA Junior National C |
-| 15-16 | 2:03.68 | Ellie Doran † | 10/28/2005 | 2005 AZ 4A HS State |
-| 17-18 | 1:59.09 | Caitlin Iversen ‡ | 03/08/2007 | 2007 NCAA DI - Women |
-| Open | 1:58.01 | Whitney Burnett | 03/05/2009 | 2009 Pro Swim - Austin  |
+| 15-16 | 2:03.68 | Ellie Doran | 10/28/2005 | 2005 AZ 4A HS State |
+| 17-18 | 2:03.29 | Ellie Jew | 02/27/2020 | 2020 PAC-12 Champs women |
+| Open | 1:55.27 | Jenny Forster | 02/25/2009 | 2009 PAC 10 Champs women |
 
 ### 400 Individual Medley
 
@@ -208,10 +208,10 @@
 | 11-12 | 4:52.54 | Eleora Bailey | 12/01/2011 | Holiday Festival 2011 |
 | 13-14 | 4:12.43 | Molly Houlton | 04/07/2003 | 2003 FL NCSA Junior National C |
 | 15-16 | 4:22.01 | Lauren Baker | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 17-18 | 4:12.30 | Caitlin Iversen ‡ | 03/08/2007 | 2007 NCAA DI - Women |
-| Open | 4:10.64 | Caitlin Iversen † | 12/04/2008 | UT Invite |
+| 17-18 | 4:23.94 | Lauren Baker | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
+| Open | 4:07.20 | Jenny Forster | 12/04/2008 | UT Invite |
 
 ---
 
-*Generated: October 06, 2025 at 03:56 PM*
+*Generated: October 06, 2025 at 04:35 PM*
 *International swim policy: During-Ford-Year*
