@@ -18,7 +18,7 @@
 | Age Group | Time | Athlete | Date | Meet |
 |-----------|------|---------|------|------|
 | 10U | 31.58 | Ella Cosgrove | 07/22/2018 | 2018 AZ LC Age Group State Cha |
-| 11-12 | 28.88 | Natalie Ward | 05/27/2011 | 2011 AZ Arizona Invite |
+| 11-12 | 28.29 | Tori Dabney ‡ | 07/17/2014 | 2014 AZ LC Age Group State Championship |
 | 13-14 | 27.12 | Sarah Bennett | 07/27/2006 | 2006 AZ BEST Season Finale |
 | 15-16 | 26.21 | Lacey Nymeyer | 07/23/2002 | 2002 US Speedo Champions |
 | 17-18 | 25.67 | Paige Kremer | 04/01/2015 | 2015 Canadian Swimming Trials |
@@ -29,7 +29,7 @@
 | Age Group | Time | Athlete | Date | Meet |
 |-----------|------|---------|------|------|
 | 10U | 1:09.06 | Eleora Bailey | 07/23/2009 | 2009 AZ LC Age Group State |
-| 11-12 | 1:02.38 | Natalie Ward | 05/27/2011 | 2011 AZ Arizona Invite |
+| 11-12 | 1:01.94 | Tori Dabney ‡ | 07/17/2014 | 2014 AZ LC Age Group State Championship |
 | 13-14 | 58.64 | Sarah Bennett | 07/27/2006 | 2006 AZ BEST Season Finale |
 | 15-16 | 57.05 | Lacey Nymeyer | 08/12/2002 | 2002 Summer Nationals |
 | 17-18 | 56.26 | Lacey Nymeyer | 02/10/2004 | 2004 Spring Nationals |
@@ -76,7 +76,7 @@
 | 11-12 | 18:09.17 | Natalie Ward | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
 | 13-14 | 17:33.00 | Natalie Ward | 07/24/2012 | 2012 Speedo Western Section LC |
 | 15-16 | 17:14.77 | Karima Chuk | 08/04/2008 | 2008 Summer Junior Nats  |
-| 17-18 | 17:09.33 | Claire Lockridge | 08/06/2015 | 2015 Canadian Swimming Championships |
+| 17-18 | 16:41.34 | Rory Schmidt ‡ | 08/05/2003 | 2003 Summer Nationals |
 | Open | 16:11.80 | Leah Smith | 03/03/2021 | 2021 TYR Pro Swim Series - San |
 
 ### 50 Backstroke
@@ -106,7 +106,7 @@
 | Age Group | Time | Athlete | Date | Meet |
 |-----------|------|---------|------|------|
 | 10U | 2:56.15 | Mandy Rothe | 07/03/2015 | 2015 AZ Ford Intrasquad |
-| 11-12 | 2:39.88 | Hannah McIver | 07/15/2016 | 2016 AZ LC Age Group State Championship @ ... |
+| 11-12 | 2:38.83 | Alyssa Anderson | 06/07/2003 | 2003 PC AIA  LCM B/A+ |
 | 13-14 | 2:16.42 | Molly Houlton | 01/09/2003 | 2003 US Junior National Team Trip |
 | 15-16 | 2:15.82 | Sarah Bennett | 06/29/2008 | 2008 Olympic Trials |
 | 17-18 | 2:14.53 | Skylar Dikeman | 08/07/2019 | 2019 Summer Junior Nats |
@@ -195,12 +195,12 @@
 |-----------|------|---------|------|------|
 | 10U | 6:11.73 | Stephanie Flores | 05/17/2015 | 2015 AZ AZAC May Dayz Beach Party |
 | 11-12 | 5:21.28 | Natalie Ward | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
-| 13-14 | 4:55.86 | Molly Houlton | 01/09/2003 | 2003 US Junior National Team Trip |
+| 13-14 | 4:52.20 | Molly Houlton ‡ | 08/12/2002 | 2002 Summer Nationals |
 | 15-16 | 4:58.24 | Molly Houlton | 02/10/2004 | 2004 Spring Nationals |
 | 17-18 | 4:52.61 | Alyssa Anderson | 06/04/2009 | 2009 AZ Southwest Classic Sr. Invite |
 | Open | 4:35.68 | Leah Smith | 07/27/2018 | 2018 Summer Nationals |
 
 ---
 
-*Generated: October 06, 2025 at 04:35 PM*
+*Generated: October 06, 2025 at 04:41 PM*
 *International swim policy: During-Ford-Year*

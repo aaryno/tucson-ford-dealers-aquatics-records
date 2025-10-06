@@ -17,34 +17,34 @@
 
 | Age Group | Time | Athlete | Date | Meet |
 |-----------|------|---------|------|------|
-| 10U | 28.81 | Ethan Hoefferle | 03/22/2025 | 2025 SN Southwestern Age Group Regional Ch... |
+| 10U | 28.7 | Devyn Caples | 10/16/2016 | 2016 PC AIA C/B/BB+ |
 | 11-12 | 25.49 | Mateo Valdivia | 09/06/2025 | 2025 AZ FAST Patriot Meet |
-| 13-14 | 22.38 | Miles Bottai | 11/19/2017 | 2017 NM CAQ 11th Annual High D |
-| 15-16 | 21.0 | Keegan Kelly | 12/04/2022 | 2022 AZ FAST Winter Lights |
-| 17-18 | 20.32 | Herbie Behm | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 13-14 | 21.76 | Adam Small | 11/05/2004 | 2004 AZ AIA 5A Swim Champs |
+| 15-16 | 20.35 | Herbie Behm | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
+| 17-18 | 19.84 | Herbie Behm | 10/31/2008 | 2008 AZ 4A High School Champs |
 | Open | 18.88 | Matt Grevers | 11/29/2012 | 2012 Winter Nationals |
 
 ### 100 Freestyle
 
 | Age Group | Time | Athlete | Date | Meet |
 |-----------|------|---------|------|------|
-| 10U | 1:03.69 | Ethan Hoefferle | 03/23/2025 | 2025 SN Southwestern Age Group Regional Ch... |
+| 10U | 1:02.59 | Devyn Caples | 10/15/2016 | 2016 PC AIA C/B/BB+ |
 | 11-12 | 53.34 | Caden Castillo | 03/23/2025 | 2025 SN Southwestern Age Group Regional Ch... |
-| 13-14 | 48.22 | Miles Bottai | 11/03/2017 | 2017 AZ HS Swim & Div I & II  |
-| 15-16 | 45.97 | Keegan Kelly | 12/03/2022 | 2022 AZ FAST Winter Lights |
-| 17-18 | 44.40 | Byron Jeffers | 03/07/2002 | 2002 Pac-10 Champs |
+| 13-14 | 47.02 | Joen Brynnel | 11/04/2010 | 2010 AZ High School Swimming Champ |
+| 15-16 | 45.59 | Herbie Behm | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
+| 17-18 | 44.16 | Joel Greenshields ‡ | 02/21/2007 | 2007 PAC-10 Champs men |
 | Open | 41.35 | Matt Grevers | 12/02/2010 | 2010 Winter Nationals |
 
 ### 200 Freestyle
 
 | Age Group | Time | Athlete | Date | Meet |
 |-----------|------|---------|------|------|
-| 10U | 2:20.50 | Sam McCarrell | 03/24/2023 | 2023 SN Southwestern Age Group Regional Ch... |
+| 10U | 2:12.99 | Devyn Caples | 10/16/2016 | 2016 PC AIA C/B/BB+ |
 | 11-12 | 1:53.43 | Caden Castillo | 03/21/2025 | 2025 SN Southwestern Age Group Regional Ch... |
-| 13-14 | 1:45.60 | Miles Bottai | 11/03/2017 | 2017 AZ HS Swim & Div I & II  |
-| 15-16 | 1:40.16 | Keegan Kelly | 11/04/2022 | 2022  AZ AIA Division 3 |
+| 13-14 | 1:42.53 | Brian Stevens | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
+| 15-16 | 1:39.11 | Brian Stevens | 11/06/2009 | 2009 AZ 5A Division I High School Champs |
 | 17-18 | 1:36.69 | Brooks Fail | 03/17/2017 | 2017 Sectionals - Lewisville |
-| Open | 1:33.23 | Adam Ritter | 11/29/2007 | UT Invite |
+| Open | 1:32.22 | Tomas LUKMINAS ‡ | 11/22/2024 | Wolfpack Elite GAC Invitational |
 
 ### 500 Freestyle
 
@@ -52,7 +52,7 @@
 |-----------|------|---------|------|------|
 | 10U | 6:15.45 | Sam McCarrell | 03/09/2023 | 2023 AZ SC Age Group State Championship |
 | 11-12 | 4:59.65 | Caden Castillo | 03/22/2025 | 2025 SN Southwestern Age Group Regional Ch... |
-| 13-14 | 4:44.58 | Aidan Reagan | 03/18/2017 | 2017 Sectionals - Lewisville |
+| 13-14 | 4:44.29 | Scott Pekarske | 11/06/2015 | 2015 AZ High School Swim & Div |
 | 15-16 | 4:26.65 | Aidan Reagan | 03/20/2019 | 2019 NCSA Spring Championship |
 | 17-18 | 4:14.82 | Brooks Fail | 03/03/2018 | 2018 PAC12 Champs men TT |
 | Open | 4:11.29 | Brooks Fail | 03/01/2021 | 2021 MEN'S PAC12 SWIMMING/DIVI |
@@ -87,14 +87,14 @@
 | 11-12 | 28.85 | Aleks Wolert | 03/10/2023 | 2023 AZ SC Age Group State Championship |
 | 13-14 | 25.48 | Matt Lujan | 03/20/2012 | 2012 NCSA Junior National Swim |
 | 15-16 | 23.12 | Trey Cashion | 03/12/2013 | 2013 NCSA Junior Swim |
-| 17-18 | 23.15 | Bryan O'Connor | 02/21/2007 | 2007 PAC-10 Champs men |
+| 17-18 | 23.05 | Adam Small | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
 | Open | 22.12 | Albert Subirats | 02/21/2007 | 2007 PAC-10 Champs men |
 
 ### 100 Backstroke
 
 | Age Group | Time | Athlete | Date | Meet |
 |-----------|------|---------|------|------|
-| 10U | 1:13.43 | Zach Byars | 03/06/2015 | 2015 AZ Short Course Age Grou |
+| 10U | 1:11.31 | Devyn Caples | 10/15/2016 | 2016 PC AIA C/B/BB+ |
 | 11-12 | 1:02.44 | Aleks Wolert | 03/11/2023 | 2023 AZ SC Age Group State Championship |
 | 13-14 | 52.78 | Matt Lujan | 03/08/2012 | 2012 AZ Age Group State Champs |
 | 15-16 | 49.84 | Matt Lujan | 12/12/2013 | 2013 Speedo Winter Jr Nats Time Trials |
@@ -109,7 +109,7 @@
 | 11-12 | 2:12.28 | Aleks Wolert | 03/12/2023 | 2023 AZ SC Age Group State Championship |
 | 13-14 | 1:52.59 | Matt Lujan | 03/20/2012 | 2012 NCSA Junior National Swim |
 | 15-16 | 1:48.97 | Matt Lujan | 12/12/2013 | 2013 Winter Junior Nats |
-| 17-18 | 1:45.23 | Bryan O'Connor | 02/21/2007 | 2007 PAC-10 Champs men |
+| 17-18 | 1:44.07 | Jake Tapp ‡ | 11/30/2006 | 2006 ST Texas Invite |
 | Open | 1:39.99 | Matt Grevers | 01/18/2008 | 2008 Pro Swim SoCal |
 
 ### 50 Breaststroke
@@ -120,18 +120,18 @@
 | 11-12 | 31.19 | Mateo Valdivia | 09/07/2025 | 2025 AZ FAST Patriot Meet |
 | 13-14 | 29.73 | Andy Duffield | 12/05/2013 | 2013 AZ Holiday Festival 2013 |
 | 15-16 | 27.22 | Colin Cosgrove | 09/12/2021 | 2021 AZ FAST Patriot Meet |
-| 17-18 | 26.85 | Marcus Titus | 02/18/2005 | 2005 AZ Lost Dutchman Invite |
+| 17-18 | 26.84 | Brandon Young ‡ | 02/22/2013 | UtahvsUSC |
 | Open | 24.83 | Kevin Cordes | 08/29/2015 | 2015 MI Aqua SCY Sprint Challe |
 
 ### 100 Breaststroke
 
 | Age Group | Time | Athlete | Date | Meet |
 |-----------|------|---------|------|------|
-| 10U | 1:21.34 | Mateo Valdivia | 03/08/2024 | 2024 AZ AZSI SC Age Group State Championsh... |
+| 10U | 1:18.17 | Devyn Caples | 10/16/2016 | 2016 PC AIA C/B/BB+ |
 | 11-12 | 1:08.34 | Mateo Valdivia | 09/06/2025 | 2025 AZ FAST Patriot Meet |
-| 13-14 | 1:00.94 | Max Cook | 03/29/2025 | 2025 ST TXLA Four Corners Spring Speedo Se... |
+| 13-14 | 1:00.27 | Tj Lundstrom | 10/27/2006 | 2006 AZ 4A High School Champs |
 | 15-16 | 56.68 | Dave Rollins | 03/15/2001 | 2001 US Az Short Course |
-| 17-18 | 56.29 | Colin Cosgrove | 12/18/2021 | 2021 SI Winter Age Group Champ |
+| 17-18 | 53.63 | Andrew Sovero ‡ | 02/01/2013 | UT vs Arizona vs SMU |
 | Open | 50.70 | Kevin Cordes | 12/05/2013 | 2013 UT Invite |
 
 ### 200 Breaststroke
@@ -142,7 +142,7 @@
 | 11-12 | 2:27.83 | Max Cook | 12/02/2023 | 2023 AZ FAST Winter Lights |
 | 13-14 | 2:12.62 | Max Cook | 03/21/2025 | 2025 SN Southwestern Age Group Regional Ch... |
 | 15-16 | 2:02.65 | Colin Cosgrove | 03/25/2021 | 2021 AZ Spring Speedo Sectionals-2 @ PSC |
-| 17-18 | 2:01.62 | Colin Cosgrove | 12/19/2021 | 2021 SI Winter Age Group Champ |
+| 17-18 | 1:57.33 | Andrew Sovero ‡ | 11/29/2012 | 2012 Winter Nationals |
 | Open | 1:49.38 | Kevin Cordes | 12/05/2013 | 2013 UT Invite |
 
 ### 50 Butterfly
@@ -182,7 +182,7 @@
 
 | Age Group | Time | Athlete | Date | Meet |
 |-----------|------|---------|------|------|
-| 10U | 1:13.34 | Beri Yang | 10/12/2014 | 2014 AZ Sahuarita (SAQ) NTS Meet |
+| 10U | 1:09.80 | Devyn Caples | 10/15/2016 | 2016 PC AIA C/B/BB+ |
 | 11-12 | 1:00.49 | Benjamin Garcia | 03/20/2016 | 2016 CC SWAGR |
 | 13-14 | 1:04.07 | Aleks Wolert | 11/04/2023 | 2023 AZ NEP Harvest Splash |
 | 15-16 | 54.64 | Colin Cosgrove | 02/15/2021 | 2021 AZ RIO Lost Dutchman Invite |
@@ -196,7 +196,7 @@
 | 10U | 2:38.95 | Zach Byars | 03/07/2015 | 2015 AZ Short Course Age Grou |
 | 11-12 | 2:13.17 | Benjamin Garcia | 03/13/2016 | 2016 AZ Short Course AG Championship |
 | 13-14 | 1:58.50 | Matt Lujan | 03/08/2012 | 2012 AZ Age Group State Champs |
-| 15-16 | 1:52.95 | Dave Rollins | 03/15/2001 | 2001 US Az Short Course |
+| 15-16 | 1:52.87 | Chris Webb | 11/04/2010 | 2010 AZ High School Swimming Champ |
 | 17-18 | 1:48.05 | Dave Rollins | 03/06/2003 | 2003 US Mens's Pac-10  |
 | Open | 1:42.13 | Darian Townsend | 03/19/2009 | 2009 AZ Short Course Senior St |
 
@@ -208,10 +208,10 @@
 | 11-12 | 4:41.24 | Benjamin Garcia | 03/11/2016 | 2016 AZ Short Course AG Championship |
 | 13-14 | 4:14.77 | Benjamin Garcia | 03/23/2018 | 2018 Sectionals - Paradise Valley |
 | 15-16 | 4:02.59 | Colin Cosgrove | 03/26/2021 | 2021 AZ Spring Speedo Sectionals-2 @ PSC |
-| 17-18 | 3:47.00 | Brooks Fail | 12/01/2017 | Texas Hall of Fame Swimming In |
-| Open | 3:42.59 | Nick Thorne | 12/02/2016 | Texas Hall of Fame Swimming In |
+| 17-18 | 3:46.43 | Austen Thompson ‡ | 12/04/2008 | UT Invite |
+| Open | 3:41.73 | Michael Meyer ‡ | 12/05/2013 | 2013 UT Invite |
 
 ---
 
-*Generated: October 06, 2025 at 04:35 PM*
+*Generated: October 06, 2025 at 04:41 PM*
 *International swim policy: During-Ford-Year*

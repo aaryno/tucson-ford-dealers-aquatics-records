@@ -49,16 +49,16 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Ella Cosgrove | 23.93 | 14 | 03/27/2022 | 2022 AZ Spring Speedo Sectional |
-| 2 | Tori Dabney | 24.22 | 13 | 03/29/2015 | 2015 ST TXLA Speedo Champs Western Re... |
-| 3 | Krista Duffield | 24.44 | 14 | 03/31/2011 | 2011 PC ALMA Far Westerns |
-| 4 | Sarah Bennett | 24.72 | 14 | 01/12/2007 | 2007 Long Beach Grand Prix |
+| 1 | Sarah Bennett | 23.92 | 14 | 10/27/2006 | 2006 AZ 4A High School Champs |
+| 2 | Ella Cosgrove | 23.93 | 14 | 03/27/2022 | 2022 AZ Spring Speedo Sectional |
+| 3 | Tori Dabney | 24.22 | 13 | 03/29/2015 | 2015 ST TXLA Speedo Champs Western Re... |
+| 4 | Krista Duffield | 24.44 | 14 | 03/31/2011 | 2011 PC ALMA Far Westerns |
 | 5 | Avery Spade | 24.75 | 13 | 03/25/2018 | 2018 Sectionals - Paradise Valley |
 | 6 | Mandy Farnum | 24.8 | 14 | 03/12/2017 | 2017 AZ SC Age Group Champs |
-| 7 | Natalie Ward | 24.89 | 14 | 02/15/2013 | 2013 AZ Phoenix Winter Invitation |
-| 8 | Emma Munsch | 24.94 | 14 | 03/18/2004 | 2004 AZ Arizona Age Group State C |
-| 9 | Esther Sarok | 24.99 | 13 | 03/22/2025 | 2025 SN Southwestern Age Group Region... |
-| 10 | Kristen Alicea-Jorgensen | 25.03 | 14 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
+| 7 | Kristen Covello | 24.84 | 14 | 11/08/2013 | 2013 AZ Arizona High School Swim  |
+| 8 | Natalie Ward | 24.89 | 14 | 02/15/2013 | 2013 AZ Phoenix Winter Invitation |
+| 9 | Emma Munsch | 24.94 | 14 | 03/18/2004 | 2004 AZ Arizona Age Group State C |
+| 10 | Esther Sarok | 24.99 | 13 | 03/22/2025 | 2025 SN Southwestern Age Group Region... |
 
 ### 15-16
 
@@ -66,14 +66,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Lacey Nymeyer | 23.04 | 16 | 11/02/2001 | 2001 US Az. High School |
 | 2 | Emma Munsch | 23.05 | 16 | 11/04/2005 | 2005 AZ 5A HS State Champs |
-| 3 | Sarah Bennett | 23.25 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 4 | Hannah Houlton | 23.69 | 16 | 11/06/2016 | 2016 AZ FAST High School Time Trial 2016 |
-| 5 | Emily Thompson | 23.91 | 16 | 11/02/2001 | 2001 US Az. High School |
-| 6 | Krista Duffield | 24.17 | 16 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 7 | Mandy Farnum | 24.18 | 16 | 11/09/2019 | 2019 AZ AIA Swim & Dive Meet of C |
-| 8 | Kristen Alicea-Jorgensen | 24.19 | 16 | 03/06/2016 | 2016 AZ SCY Senior State Championship |
-| 9 | Kaylin Farnum | 24.21 | 16 | 03/17/2018 | 2018 NCSA Spring Championship |
-| 10 | Skylar Dikeman | 24.22 | 16 | 03/25/2018 | 2018 Sectionals - Paradise Valley |
+| 3 | Kayla Filipek | 23.15 | 16 | 11/20/2015 | 2015 ILOB Girls High School State |
+| 4 | Sarah Bennett | 23.25 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 5 | Tyler Driscoll | 23.36 | 16 | 11/05/2021 | 2021 AZ AIA Division 2 State Cham |
+| 6 | Madison Blakesley | 23.55 | 16 | 02/04/2016 | 2016 OBS IN South Bend Riley High Sch... |
+| 7 | Hannah Houlton | 23.69 | 16 | 11/06/2016 | 2016 AZ FAST High School Time Trial 2016 |
+| 8 | Krista Duffield | 23.85 | 16 | 11/02/2012 | 2012 AZ High School Swim & Dive |
+| 9 | Whitley Taylor | 23.91 | 16 | 02/17/2006 | 2006 OK High School State Championships |
+| 10 | Emily Thompson | 23.91 | 16 | 11/02/2001 | 2001 US 4a High School S |
 
 ### 17-18
 
@@ -81,14 +81,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Emma Munsch | 22.49 | 18 | 02/27/2008 | 2008 PAC-10 Champs women  |
 | 2 | Krista Duffield | 22.93 | 17 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
-| 3 | Sarah Bennett | 23.02 | 18 | 02/23/2011 | 2011 PAC 10 Champs women |
-| 4 | Maggie McCord | 23.23 | 18 | 03/20/2012 | 2012 NCSA Junior National Swim |
-| 5 | Lindsey Farella | 23.4 | 18 | 03/19/1998 | 1997 US Women's NCAA Champs 3 |
-| 6 | Lacey Nymeyer | 23.4 | 17 | 01/17/2003 | 2003 CA Q |
-| 7 | Hannah Houlton | 23.43 | 18 | 03/23/2019 | 2019 NCSA Spring Championship |
-| 8 | Briana Wilford | 23.46 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 9 | Kristen Covello | 23.56 | 17 | 03/19/2017 | 2017 Sectionals - Lewisville |
-| 10 | Katherine McCoy | 23.64 | 18 | 02/26/2004 | 2004 GU Conf. USA Women's Champs |
+| 3 | Paige Kremer ‡ | 22.99 | 18 | 02/07/2015 | Arizona Vs ASU |
+| 4 | Sarah Bennett | 23.02 | 18 | 02/23/2011 | 2011 PAC 10 Champs women |
+| 5 | Tyler Driscoll | 23.08 | 17 | 11/04/2022 | 2022  AZ AIA Division 3 |
+| 6 | Maggie McCord | 23.09 | 18 | 11/04/2011 | 2011 AZ High School State |
+| 7 | Taylor Baughman | 23.15 | 17 | 02/13/2004 | 2004 IN Girls High School State C |
+| 8 | Lindsey Farella | 23.4 | 18 | 03/19/1998 | 1997 US Women's NCAA Champs 3 |
+| 9 | Lacey Nymeyer | 23.4 | 17 | 01/17/2003 | 2003 CA Q |
+| 10 | Hannah Houlton | 23.43 | 18 | 03/23/2019 | 2019 NCSA Spring Championship |
 
 ### Open
 
@@ -99,11 +99,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Christine Magnuson | 21.86 | 27 | 11/29/2012 | 2012 Winter Nationals |
 | 4 | Lacey Nymeyer | 22.13 | 21 | 11/30/2006 | 2006 ST Texas Invite |
 | 5 | Ann Ochitwa | 22.28 | 19 | 12/01/2016 | Texas Hall of Fame Swimming In |
-| 6 | Justine Schluntz | 22.30 | 21 | 02/25/2009 | 2009 PAC 10 Champs women |
-| 7 | Alayna Connor | 22.36 | 20 | 02/27/2020 | 2020 PAC-12 Champs women |
-| 8 | Courtney Kuehl | 22.41 | 21 | 11/29/2007 | UT Invite |
-| 9 | Kayla Filipek | 22.44 | 21 | 02/27/2020 | 2020 PAC-12 Champs women |
-| 10 | Jamie Stone | 22.53 | 20 | 11/29/2018 | Texas Hall of Fame Swimming In |
+| 6 | Riley Botton ‡ | 22.28 | 20 | 02/26/2025 | 2025 Big 12 Conference Championships |
+| 7 | Justine Schluntz | 22.30 | 21 | 02/25/2009 | 2009 PAC 10 Champs women |
+| 8 | Alayna Connor | 22.36 | 20 | 02/27/2020 | 2020 PAC-12 Champs women |
+| 9 | Courtney Kuehl | 22.41 | 21 | 11/29/2007 | UT Invite |
+| 10 | Kayla Filipek | 22.44 | 21 | 02/27/2020 | 2020 PAC-12 Champs women |
 
 ---
 
@@ -144,15 +144,15 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Ella Cosgrove | 51.21 | 14 | 03/24/2022 | 2022 AZ Spring Speedo Sectional |
-| 2 | Sydney Even | 52.53 | 14 | 03/22/2018 | 2018 Sectionals - Paradise Valley |
-| 3 | Brianna Leverenz | 52.67 | 14 | 03/08/2012 | 2012 AZ Age Group State Champs |
-| 4 | Sarah Bennett | 52.90 | 14 | 01/12/2007 | 2007 Long Beach Grand Prix |
-| 5 | Natalie Ward | 53.03 | 14 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 6 | Molly Houlton | 53.05 | 14 | 02/28/2003 | 2003 AZ Short Course Sen |
-| 7 | Tori Dabney | 53.14 | 13 | 03/26/2015 | 2015 ST TXLA Speedo Champs Western Re... |
-| 8 | Razilee Luker | 53.43 | 14 | 03/04/2010 | 2010 AZ Short Course Age Champ |
-| 9 | Stef Wells | 53.55 | 14 | 03/08/2006 | 2006 AZ Speedo Sectionals |
-| 10 | Kristen Alicea-Jorgensen | 53.90 | 14 | 03/06/2014 | 2014 AZ SC Age Group State Championship |
+| 2 | Sarah Bennett | 51.96 | 14 | 10/27/2006 | 2006 AZ 4A High School Champs |
+| 3 | Whitney Lopus | 52.09 | 14 | 11/05/2004 | 2004 AZ AIA 5A Swim Champs |
+| 4 | Sydney Even | 52.53 | 14 | 03/22/2018 | 2018 Sectionals - Paradise Valley |
+| 5 | Leila Stafford | 52.61 | 14 | 11/03/2023 | 2023 AZ AIA Division 2 |
+| 6 | Brianna Leverenz | 52.67 | 14 | 03/08/2012 | 2012 AZ Age Group State Champs |
+| 7 | Natalie Ward | 53.03 | 14 | 03/12/2013 | 2013 NCSA Junior Swim |
+| 8 | Molly Houlton | 53.05 | 14 | 02/28/2003 | 2003 AZ Short Course Sen |
+| 9 | Teagan McGinnis | 53.11 | 14 | 11/08/2013 | 2013 AZ Arizona High School Swim  |
+| 10 | Tori Dabney | 53.14 | 13 | 03/26/2015 | 2015 ST TXLA Speedo Champs Western Re... |
 
 ### 15-16
 
@@ -161,13 +161,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Sarah Bennett | 49.38 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
 | 2 | Lacey Nymeyer | 50.41 | 16 | 11/02/2001 | 2001 US 5a High School S |
 | 3 | Emma Munsch | 50.73 | 16 | 11/04/2005 | 2005 AZ 5A HS State Champs |
-| 4 | Emily Thompson | 51.29 | 16 | 03/08/2002 | 2002 US Az. Senior Champ |
-| 5 | Kaylin Farnum | 52.02 | 16 | 03/14/2018 | 2018 NCSA Spring Championship |
-| 6 | Kaci Kelaher | 52.36 | 16 | 03/23/2023 | 2023 ST Spring Speedo Sectionals |
-| 7 | Brianna Leverenz | 52.37 | 15 | 02/28/2013 | 2013 AZ SR State SC |
-| 8 | Amelia Talkington | 52.68 | 16 | 02/19/2017 | 2017 AZ Lost Dutchman  |
-| 9 | Krista Duffield | 52.90 | 16 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 10 | Hannah Houlton | 52.93 | 16 | 03/03/2017 | 2017 AZ SC Senior Open |
+| 4 | Kayla Filipek | 50.98 | 16 | 11/20/2015 | 2015 ILOB Girls High School State |
+| 5 | Emily Thompson | 51.29 | 16 | 03/08/2002 | 2002 US Az. Senior Champ |
+| 6 | Kaitlyn Flederbach | 51.59 | 16 | 02/08/2008 | 2008 IN Girls High School State C |
+| 7 | Hannah Houlton | 51.87 | 16 | 11/04/2016 | 2016 AZ AIA HS Championship |
+| 8 | Stef Wells | 51.87 | 16 | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
+| 9 | Kaylin Farnum | 52.02 | 16 | 03/14/2018 | 2018 NCSA Spring Championship |
+| 10 | Ruby Bottai | 52.30 | 15 | 11/04/2016 | 2016 AZ AIA HS Championship |
 
 ### 17-18
 
@@ -175,14 +175,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Sarah Bennett | 48.59 | 18 | 12/02/2010 | 2010 UT Invite |
 | 2 | Lindsey Farella | 49.45 | 18 | 03/19/1998 | 1997 US Women's NCAA Champs 3 |
-| 3 | Emma Munsch | 49.75 | 18 | 11/29/2007 | UT Invite |
-| 4 | Casslyn Treydte | 50.02 | 18 | 02/29/2020 | 2020 PAC-12 Champs women |
-| 5 | Krista Duffield | 50.07 | 17 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
-| 6 | Lacey Nymeyer | 50.74 | 17 | 01/17/2003 | 2003 CA Q |
-| 7 | Hannah Houlton | 50.83 | 18 | 03/20/2019 | 2019 NCSA Spring Championship |
-| 8 | Kirsten Jamison | 51.20 | 18 | 12/05/2013 | 2013 UT Invite |
-| 9 | Mac Stump | 51.46 | 18 | 03/22/2018 | 2018 Sectionals - Paradise Valley |
-| 10 | Kathryn Elofson | 51.49 | 18 | 03/12/2003 | 2003 PN USA Swimming Speedo Champions... |
+| 3 | Paige Kremer ‡ | 49.53 | 18 | 02/07/2015 | Arizona Vs ASU |
+| 4 | Emma Munsch | 49.75 | 18 | 11/29/2007 | UT Invite |
+| 5 | Casslyn Treydte | 50.02 | 18 | 02/29/2020 | 2020 PAC-12 Champs women |
+| 6 | Krista Duffield | 50.07 | 17 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
+| 7 | Taylor Baughman | 50.33 | 17 | 02/13/2004 | 2004 IN Girls High School State C |
+| 8 | Kaitlyn Flederbach | 50.38 | 17 | 02/13/2009 | 2009 IN IHSAA Girls High School State C |
+| 9 | Lacey Nymeyer | 50.74 | 17 | 01/17/2003 | 2003 CA Q |
+| 10 | Hannah Houlton | 50.83 | 18 | 03/20/2019 | 2019 NCSA Spring Championship |
 
 ### Open
 
@@ -193,11 +193,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Lara Jackson | 48.19 | 22 | 02/25/2009 | 2009 PAC 10 Champs women |
 | 4 | Lacey Nymeyer | 48.20 | 22 | 02/27/2008 | 2008 PAC-10 Champs women  |
 | 5 | Courtney Kuehl | 48.59 | 20 | 02/22/2006 | 2006 PAC-10 Champs women |
-| 6 | Christine Magnuson | 48.8 | 27 | 11/29/2012 | 2012 Winter Nationals |
-| 7 | Taylor Baughman | 49.13 | 20 | 11/29/2007 | UT Invite |
-| 8 | Leone Vorster | 49.17 | 20 | 12/04/2008 | UT Invite |
-| 9 | Anna Turner | 49.20 | 20 | 11/29/2007 | UT Invite |
-| 10 | Kayla Filipek | 49.24 | 21 | 02/29/2020 | 2020 PAC-12 Champs women |
+| 6 | Riley Botton ‡ | 48.77 | 20 | 03/01/2025 | 2025 Big 12 Conference Championships |
+| 7 | Christine Magnuson | 48.8 | 27 | 11/29/2012 | 2012 Winter Nationals |
+| 8 | Taylor Baughman | 49.13 | 20 | 11/29/2007 | UT Invite |
+| 9 | Leone Vorster | 49.17 | 20 | 12/04/2008 | UT Invite |
+| 10 | Anna Turner | 49.20 | 20 | 11/29/2007 | UT Invite |
 
 ---
 
@@ -238,45 +238,45 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Ella Cosgrove | 1:48.87 | 14 | 03/25/2022 | 2022 AZ Spring Speedo Sectional |
-| 2 | Sarah Bennett | 1:52.05 | 14 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 3 | Brianna Leverenz | 1:52.10 | 14 | 01/13/2012 | 2012 CA FAST SCS Senior Meet |
-| 4 | Sydney Even | 1:53.33 | 14 | 03/23/2018 | 2018 Sectionals - Paradise Valley |
-| 5 | Natalie Ward | 1:53.72 | 14 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 6 | Razilee Luker | 1:54.49 | 14 | 03/04/2010 | 2010 AZ Short Course Age Champ |
-| 7 | Tori Dabney | 1:54.62 | 13 | 11/07/2015 | 2015 CA Kevin Perry Senior Inv |
-| 8 | Susana Helms | 1:56.91 | 14 | 12/04/2003 | 2003 AZ Holiday Fest |
-| 9 | Kristen Alicea-Jorgensen | 1:57.23 | 14 | 03/06/2014 | 2014 AZ SC Age Group State Championship |
-| 10 | Samantha Covello | 1:57.48 | 14 | 03/11/2016 | 2016 AZ Short Course AG Championship |
+| 2 | Whitney Lopus | 1:50.56 | 14 | 11/05/2004 | 2004 AZ AIA 5A Swim Champs |
+| 3 | Leticia Lelli | 1:51.12 | 14 | 10/31/2008 | 2008 AZ 4A High School Champs |
+| 4 | Brianna Leverenz | 1:51.24 | 14 | 11/04/2011 | 2011 AZ High School State |
+| 5 | Ashley Evans | 1:51.63 | 14 | 10/27/2006 | 2006 AZ 4A High School Champs |
+| 6 | Sarah Bennett | 1:52.05 | 14 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 7 | Sydney Even | 1:53.33 | 14 | 03/23/2018 | 2018 Sectionals - Paradise Valley |
+| 8 | Leila Stafford | 1:53.35 | 14 | 11/03/2023 | 2023 AZ AIA Division 2 |
+| 9 | Natalie Ward | 1:53.72 | 14 | 03/12/2013 | 2013 NCSA Junior Swim |
+| 10 | Razilee Luker | 1:54.49 | 14 | 03/04/2010 | 2010 AZ Short Course Age Champ |
 
 ### 15-16
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Sarah Bennett | 1:46.90 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 2 | Lacey Nymeyer | 1:50.74 | 16 | 01/16/2002 | Martin Inkmann S |
-| 3 | Brianna Leverenz | 1:51.55 | 15 | 02/28/2013 | 2013 AZ SR State SC |
-| 4 | Natalie Ward | 1:51.77 | 15 | 11/16/2013 | 2013 AZ SAC Senior Circuit Meet #1 |
-| 5 | Sydney Even | 1:52.42 | 16 | 02/29/2020 | 2020 AZ SC Senior Open Champs @ MAC |
-| 6 | Samantha Covello | 1:52.55 | 15 | 03/17/2017 | 2017 Sectionals - Lewisville |
-| 7 | Emily Thompson | 1:52.67 | 16 | 02/27/2002 | 2002 US Usa Swimming |
-| 8 | Kaci Kelaher | 1:52.94 | 16 | 03/24/2023 | 2023 ST Spring Speedo Sectionals |
-| 9 | Kaylin Farnum | 1:53.15 | 16 | 11/03/2017 | 2017 AZ HS Swim & Dive Champs III  |
-| 10 | Ellie Doran | 1:53.45 | 15 | 02/18/2005 | 2005 AZ Lost Dutchman Invite |
+| 2 | Ashley Evans | 1:48.13 | 15 | 11/02/2007 | 2007 AZ 5A High School Champs |
+| 3 | Brianna Leverenz | 1:50.48 | 16 | 11/08/2013 | 2013 AZ Arizona High School Swim  |
+| 4 | Lacey Nymeyer | 1:50.74 | 16 | 01/16/2002 | Martin Inkmann S |
+| 5 | Sydney Even | 1:51.18 | 16 | 11/07/2019 | 2019 AIA Division 2 State Cham |
+| 6 | Natalie Ward | 1:51.48 | 15 | 11/08/2013 | 2013 AZ Arizona High School Swim  |
+| 7 | Samantha Covello | 1:52.55 | 15 | 03/17/2017 | 2017 Sectionals - Lewisville |
+| 8 | Emily Thompson | 1:52.67 | 16 | 02/27/2002 | 2002 US Usa Swimming |
+| 9 | Kaci Kelaher | 1:52.94 | 16 | 03/24/2023 | 2023 ST Spring Speedo Sectionals |
+| 10 | Taylor Alicea-Jorgensen | 1:53.09 | 16 | 11/02/2018 | 2018 AZ Arizona High School Swim & Div |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Sarah Bennett | 1:45.63 | 18 | 12/02/2010 | 2010 UT Invite |
-| 2 | Lindsey Farella | 1:47.41 | 18 | 02/26/1998 | 1998 US Womens Pac-10 Ch |
-| 3 | Casslyn Treydte | 1:47.55 | 18 | 02/28/2020 | 2020 PAC-12 Champs women |
-| 4 | Ellie Doran | 1:48.67 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 5 | Susana Helms | 1:49.82 | 18 | 11/29/2007 | UT Invite |
-| 6 | Lacey Nymeyer | 1:49.87 | 17 | 02/14/2003 | 2003 AZ Lost Dutchman Invitati |
-| 7 | Sydney Even | 1:50.06 | 18 | 03/25/2022 | 2022 AZ Spring Speedo Sectional |
-| 8 | Bonnie Diamond | 1:50.21 | 18 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
-| 9 | Daniela Liera | 1:51.23 | 18 | 02/03/2018 | Women's Harvard-Yale-Princeton |
-| 10 | Emma Munsch | 1:51.25 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 2 | Whitney Lopus | 1:47.39 | 17 | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
+| 3 | Lindsey Farella | 1:47.41 | 18 | 02/26/1998 | 1998 US Womens Pac-10 Ch |
+| 4 | Casslyn Treydte | 1:47.55 | 18 | 02/28/2020 | 2020 PAC-12 Champs women |
+| 5 | Ellie Doran | 1:48.67 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 6 | Ashley Evans | 1:49.23 | 17 | 11/06/2009 | 2009 AZ 5A Division II High School Ch... |
+| 7 | Susana Helms | 1:49.82 | 18 | 11/29/2007 | UT Invite |
+| 8 | Lacey Nymeyer | 1:49.87 | 17 | 02/14/2003 | 2003 AZ Lost Dutchman Invitati |
+| 9 | Sydney Even | 1:50.06 | 18 | 03/25/2022 | 2022 AZ Spring Speedo Sectional |
+| 10 | Kaitlyn Flederbach | 1:50.16 | 17 | 02/13/2009 | 2009 IN IHSAA Girls High School State C |
 
 ### Open
 
@@ -289,9 +289,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Alyssa Anderson | 1:44.86 | 20 | 12/02/2010 | 2010 UT Invite |
 | 6 | Sarah Tolar | 1:45.21 | 20 | 03/15/2001 | 2001 Women's NCAA Champs |
 | 7 | Kirsten Jacobsen | 1:45.58 | 20 | 11/30/2018 | Texas Hall of Fame Swimming In |
-| 8 | Leone Vorster | 1:45.76 | 20 | 12/04/2008 | UT Invite |
-| 9 | Whitney Burnett | 1:46.00 | 22 | 11/30/2006 | 2006 ST Texas Invite |
-| 10 | Jenny Forster | 1:46.36 | 20 | 02/25/2009 | 2009 PAC 10 Champs women |
+| 8 | Taylor Schick ‡ | 1:45.72 | 21 | 12/04/2015 | Texas Swimming & Diving Hall  |
+| 9 | Leone Vorster | 1:45.76 | 20 | 12/04/2008 | UT Invite |
+| 10 | Daniela Georges ‡ | 1:45.80 | 21 | 02/09/2019 | Arizona vs Arizona State |
 
 ---
 
@@ -325,7 +325,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Taylor Alicea-Jorgensen | 5:33.42 | 12 | 09/21/2014 | 2014 AZ FAST Patriot Meet  |
 | 8 | Dillon Nye | 5:34.57 | 12 | 03/09/2024 | 2024 AZ AZSI SC Age Group State Champ... |
 | 9 | Wren Smith | 5:34.79 | 12 | 03/20/2021 | 2021 AZ Southwest Territorial Spring ... |
-| 10 | Maggie Oliver | 5:35.57 | 12 | 10/13/2012 | 2012 AZ FORD October Meet |
+| 10 | Joely Ciasca ‡ | 5:35.51 | 12 | 09/22/2017 | 2017 AZ FAST Patriot Meet |
 
 ### 13-14
 
@@ -333,44 +333,44 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Ella Cosgrove | 4:47.77 | 14 | 03/26/2022 | 2022 AZ Spring Speedo Sectional |
 | 2 | Brianna Leverenz | 4:52.54 | 14 | 03/20/2012 | 2012 NCSA Junior National Swim |
-| 3 | Molly Houlton | 4:54.22 | 14 | 04/07/2003 | 2003 FL NCSA Junior National C |
-| 4 | Natalie Ward | 4:59.45 | 14 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 5 | Sydney Even | 5:04.71 | 14 | 02/18/2018 | 2018 AZ RIO Lost Dutchman  |
-| 6 | Susana Helms | 5:05.12 | 14 | 12/04/2003 | 2003 AZ Holiday Fest |
-| 7 | Samantha Covello | 5:05.99 | 14 | 03/12/2016 | 2016 AZ Short Course AG Championship |
-| 8 | Sarah Bennett | 5:07.14 | 14 | 01/12/2007 | 2007 Long Beach Grand Prix |
-| 9 | Lauren Baker | 5:11.79 | 14 | 11/18/2006 | 2006 AZ Tucson Turkey Meet |
-| 10 | Dalen Hinderaker | 5:12.70 | 14 | 03/07/2015 | 2015 AZ Short Course Age Grou |
+| 3 | Ashley Evans | 4:52.91 | 14 | 10/27/2006 | 2006 AZ 4A High School Champs |
+| 4 | Molly Houlton | 4:54.22 | 14 | 04/07/2003 | 2003 FL NCSA Junior National C |
+| 5 | Natalie Ward | 4:59.45 | 14 | 03/12/2013 | 2013 NCSA Junior Swim |
+| 6 | Sydney Even | 5:04.71 | 14 | 02/18/2018 | 2018 AZ RIO Lost Dutchman  |
+| 7 | Susana Helms | 5:05.12 | 14 | 12/04/2003 | 2003 AZ Holiday Fest |
+| 8 | Samantha Covello | 5:05.99 | 14 | 03/12/2016 | 2016 AZ Short Course AG Championship |
+| 9 | Sarah Bennett | 5:07.14 | 14 | 01/12/2007 | 2007 Long Beach Grand Prix |
+| 10 | Kathleen Mulligan | 5:10.83 | 14 | 11/06/2009 | 2009 AZ 5A Division I High School Champs |
 
 ### 15-16
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Ellie Doran | 4:54.41 | 15 | 03/09/2005 | 2005 PN Speedo Sectionals |
-| 2 | Susana Helms | 4:54.72 | 16 | 03/09/2005 | 2005 PN Speedo Sectionals |
-| 3 | Natalie Ward | 4:55.57 | 15 | 11/16/2013 | 2013 AZ SAC Senior Circuit Meet #1 |
-| 4 | Brianna Leverenz | 4:57.82 | 15 | 02/28/2013 | 2013 AZ SR State SC |
-| 5 | Lacey Nymeyer | 5:00.46 | 16 | 01/18/2002 | Q 2002 |
-| 6 | Molly Houlton | 5:00.93 | 15 | 11/02/2003 | 2003 AZ Nov. 2nd Senior Time Tria |
-| 7 | Abbey McIntosh | 5:01.24 | 16 | 02/27/2002 | 2002 US Usa Swimming |
-| 8 | Samantha Covello | 5:01.85 | 15 | 03/18/2017 | 2017 Sectionals - Lewisville |
-| 9 | Kiki Hocheder | 5:02.12 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 10 | Sydney Even | 5:02.91 | 16 | 02/28/2020 | 2020 AZ SC Senior Open Champs @ MAC |
+| 1 | Ashley Evans | 4:42.61 | 15 | 11/02/2007 | 2007 AZ 5A High School Champs |
+| 2 | Ellie Doran | 4:54.41 | 15 | 03/09/2005 | 2005 PN Speedo Sectionals |
+| 3 | Susana Helms | 4:54.72 | 16 | 03/09/2005 | 2005 PN Speedo Sectionals |
+| 4 | Natalie Ward | 4:55.57 | 15 | 11/16/2013 | 2013 AZ SAC Senior Circuit Meet #1 |
+| 5 | Brianna Leverenz | 4:57.36 | 16 | 11/08/2013 | 2013 AZ Arizona High School Swim  |
+| 6 | Karima Chuk | 4:59.44 | 16 | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
+| 7 | Lacey Nymeyer | 5:00.46 | 16 | 01/18/2002 | Q 2002 |
+| 8 | Molly Houlton | 5:00.93 | 15 | 11/02/2003 | 2003 AZ Nov. 2nd Senior Time Tria |
+| 9 | Abbey McIntosh | 5:01.24 | 16 | 02/27/2002 | 2002 US Usa Swimming |
+| 10 | Samantha Covello | 5:01.85 | 15 | 03/18/2017 | 2017 Sectionals - Lewisville |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Casslyn Treydte | 4:47.26 | 18 | 02/27/2020 | 2020 PAC-12 Champs women |
-| 2 | Susana Helms | 4:49.12 | 18 | 11/29/2007 | UT Invite |
-| 3 | Ellie Doran | 4:52.24 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 4 | Karima Chuk | 4:52.47 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 5 | Bonnie Diamond | 4:54.66 | 18 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
-| 6 | Daniela Liera | 4:55.31 | 17 | 03/18/2017 | 2017 Sectionals - Lewisville |
-| 7 | Lauren Baker | 4:58.23 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
-| 8 | Kristen Covello | 4:58.32 | 17 | 03/18/2017 | 2017 Sectionals - Lewisville |
-| 9 | Leighanne Oliver | 4:59.34 | 18 | 03/15/2011 | 2011 NCSA Jr National Swimming |
-| 10 | Kelsey Wuoti | 5:01.19 | 18 | 02/28/2013 | 2013 AZ SR State SC |
+| 2 | Ellie Doran | 4:48.50 | 17 | 10/27/2006 | 2006 AZ 4A High School Champs |
+| 3 | Susana Helms | 4:49.12 | 18 | 11/29/2007 | UT Invite |
+| 4 | Ashley Evans | 4:49.59 | 17 | 11/06/2009 | 2009 AZ 5A Division II High School Ch... |
+| 5 | Claire Lockridge ‡ | 4:52.39 | 18 | 12/04/2014 | Texas Swimming & Diving Hall o |
+| 6 | Karima Chuk | 4:52.47 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 7 | Bonnie Diamond | 4:54.66 | 18 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
+| 8 | Daniela Liera | 4:55.31 | 17 | 03/18/2017 | 2017 Sectionals - Lewisville |
+| 9 | Lauren Baker | 4:58.23 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
+| 10 | Kristen Covello | 4:58.32 | 17 | 03/18/2017 | 2017 Sectionals - Lewisville |
 
 ### Open
 
@@ -379,13 +379,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Bonnie Brandon | 4:35.43 | 19 | 12/05/2013 | 2013 UT Invite |
 | 2 | Kirsten Jacobsen | 4:36.81 | 20 | 11/29/2018 | Texas Hall of Fame Swimming In |
 | 3 | Alyssa Anderson | 4:37.94 | 20 | 12/02/2010 | 2010 UT Invite |
-| 4 | Leone Vorster | 4:39.83 | 20 | 12/04/2008 | UT Invite |
-| 5 | Emily Mason-Milak | 4:41.21 | 22 | 02/23/2005 | 2005 PN Pac 10 Conference |
-| 6 | Lacey Nymeyer | 4:42.68 | 21 | 11/30/2006 | 2006 ST Texas Invite |
-| 7 | Emma McCarthy | 4:42.72 | 19 | 12/01/2016 | Texas Hall of Fame Swimming In |
-| 8 | Sarah Tolar | 4:42.86 | 19 | 02/24/2000 | Pac 10 |
-| 9 | Susana Helms | 4:43.31 | 20 | 12/03/2009 | UT Invite |
-| 10 | Monica Drake | 4:43.50 | 20 | 12/02/2010 | 2010 UT Invite |
+| 4 | Hannah Cox ‡ | 4:38.18 | 20 | 11/29/2018 | Texas Hall of Fame Swimming In |
+| 5 | Leone Vorster | 4:39.83 | 20 | 12/04/2008 | UT Invite |
+| 6 | Tjasa Oder ‡ | 4:40.71 | 20 | 12/04/2014 | Texas Swimming & Diving Hall o |
+| 7 | Emily Mason-Milak | 4:41.21 | 22 | 02/23/2005 | 2005 PN Pac 10 Conference |
+| 8 | Lacey Nymeyer | 4:42.68 | 21 | 11/30/2006 | 2006 ST Texas Invite |
+| 9 | Emma McCarthy | 4:42.72 | 19 | 12/01/2016 | Texas Hall of Fame Swimming In |
+| 10 | Sarah Tolar | 4:42.86 | 19 | 02/24/2000 | Pac 10 |
 
 ---
 
@@ -409,23 +409,23 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Mac Reagan | 11:25.37 | 12 | 04/04/2013 | 2013 PC Far Western Champs |
 | 7 | Hailey Palma | 11:37.97 | 12 | 12/02/2010 | 2010 AZ Holiday Festival  |
 | 8 | Maddie Hubbard | 11:46.29 | 12 | 03/05/2015 | 2015 AZ Short Course Age Grou |
-| 9 | Claire Croman | 12:09.18 | 12 | 12/01/2011 | Holiday Festival 2011 |
-| 10 | Delainey Christensen | 12:16.90 | 12 | 02/03/2018 | 2018 AZ RAYS Last Chance Meet |
+| 9 | Alexis Weyker ‡ | 12:03.02 | 12 | 01/11/2009 | 2009 AZ Ford's January Age Group  |
+| 10 | Claire Croman | 12:09.18 | 12 | 12/01/2011 | Holiday Festival 2011 |
 
 ### 13-14
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Brianna Leverenz | 10:14.07 | 14 | 01/13/2012 | 2012 CA FAST SCS Senior Meet |
-| 2 | Lauren Baker | 10:19.69 | 14 | 02/22/2007 | 2007 GU Speedo SC Sectionals |
-| 3 | Natalie Ward | 10:20.62 | 13 | 01/13/2012 | 2012 CA FAST SCS Senior Meet |
-| 4 | Susana Helms | 10:21.41 | 14 | 12/04/2003 | 2003 AZ Holiday Fest |
-| 5 | Ellie Doran | 10:25.40 | 14 | 03/18/2004 | 2004 AZ Arizona Age Group State C |
-| 6 | Sydney Even | 10:28.79 | 14 | 03/08/2018 | 2018 AZ SC Age Group at FAST |
-| 7 | Samantha Covello | 10:31.46 | 14 | 03/13/2016 | 2016 AZ Short Course AG Championship |
-| 8 | Jenna Gamble | 10:38.69 | 14 | 02/15/2002 | 2002 US Lost Dutchm |
-| 9 | Kiki Hocheder | 10:47.61 | 14 | 01/26/2007 | 2007 AZ SAC Winter Invite |
-| 10 | Maggie Oliver | 10:54.66 | 14 | 03/06/2014 | 2014 AZ SC Age Group State Championship |
+| 1 | Molly Houlton ‡ | 10:12.85 | 13 | 02/27/2002 | 2002 US Usa Swimming |
+| 2 | Brianna Leverenz | 10:14.07 | 14 | 01/13/2012 | 2012 CA FAST SCS Senior Meet |
+| 3 | Lauren Baker | 10:19.69 | 14 | 02/22/2007 | 2007 GU Speedo SC Sectionals |
+| 4 | Natalie Ward | 10:20.62 | 13 | 01/13/2012 | 2012 CA FAST SCS Senior Meet |
+| 5 | Susana Helms | 10:21.41 | 14 | 12/04/2003 | 2003 AZ Holiday Fest |
+| 6 | Ellie Doran | 10:25.40 | 14 | 03/18/2004 | 2004 AZ Arizona Age Group State C |
+| 7 | Sydney Even | 10:28.79 | 14 | 03/08/2018 | 2018 AZ SC Age Group at FAST |
+| 8 | Samantha Covello | 10:31.46 | 14 | 03/13/2016 | 2016 AZ Short Course AG Championship |
+| 9 | Jenna Gamble | 10:38.69 | 14 | 02/15/2002 | 2002 US Lost Dutchm |
+| 10 | Kiki Hocheder | 10:47.61 | 14 | 01/26/2007 | 2007 AZ SAC Winter Invite |
 
 ### 15-16
 
@@ -451,26 +451,26 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Ellie Doran | 9:58.84 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
 | 4 | Lauren Baker | 10:09.28 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
 | 5 | Leighanne Oliver | 10:09.62 | 18 | 03/15/2011 | 2011 NCSA Jr National Swimming |
-| 6 | Daniela Liera | 10:14.82 | 17 | 03/02/2017 | 2017 AZ SC Senior Open |
-| 7 | Kristen Covello | 10:20.94 | 17 | 03/16/2017 | 2017 Sectionals - Lewisville |
-| 8 | Abbey McIntosh | 10:24.56 | 17 | 01/17/2003 | 2003 CA Q |
-| 9 | Kristie Fancher | 10:25.10 | 17 | 03/12/2003 | 2003 PN USA Swimming Speedo Champions... |
-| 10 | Caitlin Wright | 10:27.23 | 17 | 01/14/2011 | 2011 CA SCS Senior Meet |
+| 6 | Claire Lockridge ‡ | 10:14.32 | 18 | 01/30/2015 | UT vs Arizona vs SMU |
+| 7 | Daniela Liera | 10:14.82 | 17 | 03/02/2017 | 2017 AZ SC Senior Open |
+| 8 | Kristen Covello | 10:20.94 | 17 | 03/16/2017 | 2017 Sectionals - Lewisville |
+| 9 | Abbey McIntosh | 10:24.56 | 17 | 01/17/2003 | 2003 CA Q |
+| 10 | Kristie Fancher | 10:25.10 | 17 | 03/12/2003 | 2003 PN USA Swimming Speedo Champions... |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Bonnie Brandon | 9:39.03 | 21 | 01/30/2015 | UT vs Arizona vs SMU |
-| 2 | Susana Helms | 9:53.05 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 3 | Karima Chuk | 9:55.16 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 4 | Hannah Cox | 9:55.17 | 21 | 12/07/2019 | Minnesota Invite 2019 |
-| 5 | Alyssa Anderson | 9:55.20 | 20 | 11/05/2010 | Arizona vs Wisconsin 2010 |
-| 6 | Emma McCarthy | 9:55.75 | 19 | 02/04/2017 | Arizona vs Arizona State |
-| 7 | Natalie Ward | 9:58.67 | 15 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
-| 8 | Ellie Doran | 9:58.84 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 9 | Rory Schmidt | 10:03.20 | 19 | 10/09/2004 | 2005 VA NOVA UVA DUAL |
-| 10 | Jessica Wagner | 10:04.70 | 20 | 01/01/2002 | Unknown Record Meet 1336 |
+| 1 | Hannah Cox ‡ | 9:36.68 | 21 | 02/09/2019 | Arizona vs Arizona State |
+| 2 | Bonnie Brandon | 9:39.03 | 21 | 01/30/2015 | UT vs Arizona vs SMU |
+| 3 | Tjasa Oder ‡ | 9:49.22 | 20 | 01/30/2015 | UT vs Arizona vs SMU |
+| 4 | Susana Helms | 9:53.05 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 5 | Karima Chuk | 9:55.16 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 6 | Alyssa Anderson | 9:55.20 | 20 | 11/05/2010 | Arizona vs Wisconsin 2010 |
+| 7 | Emma McCarthy | 9:55.75 | 19 | 02/04/2017 | Arizona vs Arizona State |
+| 8 | Natalie Ward | 9:58.67 | 15 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
+| 9 | Ellie Doran | 9:58.84 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 10 | Rory Schmidt | 10:03.20 | 19 | 10/09/2004 | 2005 VA NOVA UVA DUAL |
 
 ---
 
@@ -490,10 +490,10 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Ruthie Beadle | 18:46.55 | 12 | 12/05/2013 | 2013 AZ Holiday Festival 2013 |
 | 5 | Mac Reagan | 18:59.68 | 12 | 04/04/2013 | 2013 PC Far Western Champs |
 | 6 | Stephanie Flores | 19:19.29 | 12 | 03/09/2017 | 2017 AZ SC Age Group Champs |
-| 7 | Maddie Hubbard | 19:28.92 | 12 | 03/05/2015 | 2015 AZ Short Course Age Grou |
-| 8 | Hailey Palma | 19:57.09 | 12 | 12/02/2010 | 2010 AZ Holiday Festival  |
-| 9 | Ella Cosgrove | 20:15.24 | 12 | 09/14/2019 | 2019 AZ FAST Patriot Meet |
-| 10 | Delainey Christensen | 20:34.34 | 12 | 11/30/2017 | 2017 AZ FAST Winter Lights |
+| 7 | Joely Ciasca ‡ | 19:24.79 | 12 | 09/23/2017 | 2017 AZ FAST Patriot Meet |
+| 8 | Maddie Hubbard | 19:28.92 | 12 | 03/05/2015 | 2015 AZ Short Course Age Grou |
+| 9 | Alexis Weyker ‡ | 19:45.48 | 12 | 12/04/2008 | 2008 AZ Holiday Fest  |
+| 10 | Hailey Palma | 19:57.09 | 12 | 12/02/2010 | 2010 AZ Holiday Festival  |
 
 ### 13-14
 
@@ -502,7 +502,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Brianna Leverenz | 16:50.68 | 14 | 03/20/2012 | 2012 NCSA Junior National Swim |
 | 2 | Natalie Ward | 16:57.12 | 14 | 03/12/2013 | 2013 NCSA Junior Swim |
 | 3 | Ellie Doran | 17:05.07 | 14 | 02/13/2004 | 2004 AZ Lost Dutchman Invit |
-| 4 | Susana Helms | 17:25.47 | 14 | 12/04/2003 | 2003 AZ Holiday Fest |
+| 4 | Susana Helms ‡ | 17:07.76 | 14 | 11/02/2003 | 2003 AZ Nov. 2nd Senior Time Tria |
 | 5 | Lauren Baker | 17:27.66 | 14 | 02/22/2007 | 2007 GU Speedo SC Sectionals |
 | 6 | Samantha Covello | 17:50.41 | 14 | 03/10/2016 | 2016 AZ Short Course AG Championship |
 | 7 | Eleora Bailey | 18:03.71 | 14 | 03/07/2013 | 2013 AZ Swimming SC AG State  |
@@ -531,14 +531,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Susana Helms | 16:40.67 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
 | 2 | Ellie Doran | 16:42.17 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 3 | Karima Chuk | 16:49.99 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 4 | Lauren Baker | 16:58.92 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
-| 5 | Daniela Liera | 17:05.34 | 17 | 03/05/2017 | 2017 AZ SC Senior Open |
-| 6 | Kristie Fancher | 17:12.36 | 18 | 11/20/2003 | 2003 NC Nike Cup |
-| 7 | Caitlin Wright | 17:13.37 | 17 | 03/10/2010 | 2010 PN Speedo Champions Series Weste... |
-| 8 | Leighanne Oliver | 17:15.00 | 18 | 01/14/2011 | 2011 CA SCS Senior Meet |
-| 9 | Jenna Gamble | 17:19.17 | 18 | 11/18/2005 | 2005 MN MINN Minnesota Invite  |
-| 10 | Abbey McIntosh | 17:26.69 | 17 | 03/12/2003 | 2003 PN USA Swimming Speedo Champions... |
+| 3 | Claire Lockridge ‡ | 16:46.93 | 18 | 12/06/2014 | Texas Swimming & Diving Hall o |
+| 4 | Karima Chuk | 16:49.99 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 5 | Lauren Baker | 16:58.92 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
+| 6 | Daniela Liera | 17:05.34 | 17 | 03/05/2017 | 2017 AZ SC Senior Open |
+| 7 | Kristie Fancher | 17:12.36 | 18 | 11/20/2003 | 2003 NC Nike Cup |
+| 8 | Caitlin Wright | 17:13.37 | 17 | 03/10/2010 | 2010 PN Speedo Champions Series Weste... |
+| 9 | Leighanne Oliver | 17:15.00 | 18 | 01/14/2011 | 2011 CA SCS Senior Meet |
+| 10 | Jenna Gamble | 17:19.17 | 18 | 11/18/2005 | 2005 MN MINN Minnesota Invite  |
 
 ### Open
 
@@ -597,57 +597,57 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 2 | Ella Cosgrove | 27.38 | 14 | 09/12/2021 | 2021 AZ FAST Patriot Meet |
 | 3 | Stef Wells | 27.38 | 14 | 03/16/2006 | 2006 AZ Age Group Champs |
 | 4 | Sarah Bennett | 27.97 | 14 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 5 | Veronica So | 28.74 | 14 | 03/19/2009 | 2009 AZ Swimming SC Age Group |
-| 6 | Emma Munsch | 28.85 | 14 | 03/18/2004 | 2004 AZ Arizona Age Group State C |
-| 7 | Brianna Schwanenberger | 29.9 | 14 | 03/13/2008 | 2008 AZ SC AG States |
-| 8 | Kelsey Newbold | 29.93 | 14 | 03/10/2011 | 2011 AZ SC Age Group State  |
-| 9 | Cecelia Croman | 29.95 | 14 | 12/02/2010 | 2010 AZ Holiday Festival  |
-| 10 | Krista Duffield | 29.99 | 14 | 12/02/2010 | 2010 AZ Holiday Festival  |
+| 5 | Claire Houlton | 28.31 | 14 | 10/31/2008 | 2008 AZ 4A High School Champs |
+| 6 | Veronica So | 28.74 | 14 | 03/19/2009 | 2009 AZ Swimming SC Age Group |
+| 7 | Emma Munsch | 28.85 | 14 | 03/18/2004 | 2004 AZ Arizona Age Group State C |
+| 8 | Alexis Souza Souza | 29.44 | 14 | 11/05/2010 | 2010 AZ High School Swimming Champ |
+| 9 | Brianna Schwanenberger | 29.9 | 14 | 03/13/2008 | 2008 AZ SC AG States |
+| 10 | Kelsey Newbold | 29.93 | 14 | 03/10/2011 | 2011 AZ SC Age Group State  |
 
 ### 15-16
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Stef Wells | 26.09 | 15 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 2 | Samantha Covello | 26.4 | 16 | 03/17/2018 | 2018 NCSA Spring Championship |
-| 3 | Razilee Luker | 27.21 | 16 | 03/01/2012 | 2012 AZ Swimming Senior State |
-| 4 | Cecelia Croman | 27.44 | 16 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 5 | Emma Munsch | 27.48 | 15 | 02/18/2005 | 2005 AZ Lost Dutchman Invite |
-| 6 | Avery Spade | 27.86 | 16 | 12/06/2020 | 2020 AZ NEP Holiday Swim Festival |
-| 7 | Kaylin Farnum | 28.21 | 16 | 03/17/2018 | 2018 NCSA Spring Championship |
-| 8 | Claire Houlton | 28.24 | 15 | 03/19/2009 | 2009 AZ Short Course Senior St |
-| 9 | Erin Kelaher | 28.4 | 15 | 11/10/2018 | 2018 AZ SAC Senior Open |
-| 10 | Sarah Schou | 28.43 | 16 | 02/19/2017 | 2017 AZ Lost Dutchman  |
+| 1 | Sarah Bennett | 25.73 | 16 | 10/31/2008 | 2008 AZ 4A High School Champs |
+| 2 | Stef Wells | 26.09 | 15 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 3 | Samantha Covello | 26.4 | 16 | 03/17/2018 | 2018 NCSA Spring Championship |
+| 4 | Razilee Luker | 27.21 | 16 | 03/01/2012 | 2012 AZ Swimming Senior State |
+| 5 | Cecelia Croman | 27.44 | 16 | 03/12/2013 | 2013 NCSA Junior Swim |
+| 6 | Emma Munsch | 27.48 | 15 | 02/18/2005 | 2005 AZ Lost Dutchman Invite |
+| 7 | Avery Spade | 27.86 | 16 | 12/06/2020 | 2020 AZ NEP Holiday Swim Festival |
+| 8 | Kaylin Farnum | 28.21 | 16 | 03/17/2018 | 2018 NCSA Spring Championship |
+| 9 | Claire Houlton | 28.24 | 15 | 03/19/2009 | 2009 AZ Short Course Senior St |
+| 10 | Erin Kelaher | 28.4 | 15 | 11/10/2018 | 2018 AZ SAC Senior Open |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Samantha Covello | 26.42 | 17 | 03/23/2019 | 2019 NCSA Spring Championship |
-| 2 | Skylar Dikeman | 26.64 | 17 | 03/23/2019 | 2019 NCSA Spring Championship |
-| 3 | Emma Munsch | 27.32 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 4 | Ana Welchert | 27.62 | 17 | 03/18/2010 | 2010 AZ  Short Course Senior St |
-| 5 | Hannah Houlton | 27.91 | 17 | 03/17/2018 | 2018 NCSA Spring Championship |
-| 6 | Avery Spade | 27.93 | 17 | 02/20/2022 | 2022 AZ RIO 30th Annual Lost Dutchman... |
-| 7 | Kristen Alicea-Jorgensen | 28.07 | 18 | 03/17/2018 | 2018 NCSA Spring Championship |
-| 8 | Izzy Bishop | 28.18 | 17 | 02/14/2016 | 2016 AZ Lost Dutchman Invitational |
-| 9 | Sasha Ganem | 28.5 | 17 | 02/19/2023 | 2023 AZ RIO 31st Annual Lost Dutchman |
-| 10 | lindsey Sohoel-Smith | 28.68 | 17 | 03/23/2019 | 2019 NCSA Spring Championship |
+| 1 | Stef Wells | 25.6 | 17 | 10/31/2008 | 2008 AZ 4A High School Champs |
+| 2 | Sarah Bennett | 26.15 | 17 | 10/30/2009 | 2009 AZ 4A High School Champs |
+| 3 | Samantha Covello | 26.42 | 17 | 03/23/2019 | 2019 NCSA Spring Championship |
+| 4 | Skylar Dikeman | 26.64 | 17 | 03/23/2019 | 2019 NCSA Spring Championship |
+| 5 | Emma Munsch | 27.32 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 6 | Ana Welchert | 27.62 | 17 | 03/18/2010 | 2010 AZ  Short Course Senior St |
+| 7 | Claire Houlton | 27.76 | 17 | 11/04/2011 | 2011 AZ High School State |
+| 8 | Hannah Houlton | 27.91 | 17 | 03/17/2018 | 2018 NCSA Spring Championship |
+| 9 | Avery Spade | 27.93 | 17 | 02/20/2022 | 2022 AZ RIO 30th Annual Lost Dutchman... |
+| 10 | Abby Corcoran | 27.99 | 17 | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Marshi Smith | 25.99 | 19 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
-| 2 | Stef Wells | 26.09 | 15 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 3 | Jenna Gresdal | 26.25 | 19 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
-| 4 | Samantha Covello | 26.40 | 16 | 03/17/2018 | 2018 NCSA Spring Championship |
-| 5 | Skylar Dikeman | 26.64 | 17 | 03/23/2019 | 2019 NCSA Spring Championship |
-| 6 | Razilee Luker | 27.21 | 16 | 03/01/2012 | 2012 AZ Swimming Senior State |
-| 7 | Avery Spade | 27.27 | 13 | 02/18/2018 | 2018 AZ RIO Lost Dutchman  |
-| 8 | Emma Munsch | 27.32 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 9 | Ella Cosgrove | 27.39 | 14 | 02/20/2022 | 2022 AZ RIO 30th Annual Lost Dutchman... |
-| 10 | Leticia Lelli | 27.39 | 19 | 11/23/2013 | Arizona vs. Boise State |
+| 1 | Hannah Ross ‡ | 25.80 | 20 | 02/24/2010 | 2010 PAC 10 Champs women |
+| 2 | Marshi Smith | 25.99 | 19 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
+| 3 | Stef Wells | 26.09 | 15 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 4 | Jenna Gresdal | 26.25 | 19 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
+| 5 | Samantha Covello | 26.40 | 16 | 03/17/2018 | 2018 NCSA Spring Championship |
+| 6 | Skylar Dikeman | 26.64 | 17 | 03/23/2019 | 2019 NCSA Spring Championship |
+| 7 | Razilee Luker | 27.21 | 16 | 03/01/2012 | 2012 AZ Swimming Senior State |
+| 8 | Avery Spade | 27.27 | 13 | 02/18/2018 | 2018 AZ RIO Lost Dutchman  |
+| 9 | Emma Munsch | 27.32 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 10 | Ella Cosgrove | 27.39 | 14 | 02/20/2022 | 2022 AZ RIO 30th Annual Lost Dutchman... |
 
 ---
 
@@ -693,25 +693,25 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Avery Spade | 57.20 | 14 | 03/22/2019 | 2019 NCSA Spring Championship |
 | 5 | Sarah Bennett | 58.34 | 14 | 03/20/2007 | 2007 FL NCSA Junior Champs |
 | 6 | Razilee Luker | 59.44 | 14 | 03/04/2010 | 2010 AZ Short Course Age Champ |
-| 7 | Sarah Schou | 1:00.10 | 14 | 02/14/2015 | 2015 AZ Lost Dutchman  |
-| 8 | Esther Sarok | 1:00.37 | 13 | 03/21/2025 | 2025 SN Southwestern Age Group Region... |
-| 9 | Dalen Hinderaker | 1:00.98 | 14 | 03/06/2015 | 2015 AZ Short Course Age Grou |
-| 10 | Ellie Doran | 1:01.03 | 14 | 12/04/2003 | 2003 AZ Holiday Fest |
+| 7 | Hannah Houlton ‡ | 59.78 | 14 | 03/28/2015 | 2015 ST TXLA Speedo Champs Western Re... |
+| 8 | Sarah Schou | 1:00.10 | 14 | 02/14/2015 | 2015 AZ Lost Dutchman  |
+| 9 | Esther Sarok | 1:00.37 | 13 | 03/21/2025 | 2025 SN Southwestern Age Group Region... |
+| 10 | Dalen Hinderaker | 1:00.98 | 14 | 03/06/2015 | 2015 AZ Short Course Age Grou |
 
 ### 15-16
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Sarah Bennett | 55.06 | 16 | 01/16/2009 | 2009 CA SO CAL GRAND PRIX OF S |
-| 2 | Stef Wells | 55.69 | 15 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 3 | Samantha Covello | 57.51 | 16 | 11/19/2017 | 2017 NM CAQ 11th Annual High D |
-| 4 | Cecelia Croman | 57.62 | 16 | 02/28/2013 | 2013 AZ SR State SC |
-| 5 | Skylar Dikeman | 57.63 | 16 | 03/24/2018 | 2018 Sectionals - Paradise Valley |
-| 6 | Emma Munsch | 57.70 | 15 | 03/09/2005 | 2005 PN Speedo Sectionals |
-| 7 | Avery Spade | 58.44 | 15 | 03/01/2020 | 2020 AZ SC Senior Open Champs @ MAC |
-| 8 | Razilee Luker | 58.96 | 16 | 03/01/2012 | 2012 AZ Swimming Senior State |
-| 9 | Shayla Markle | 59.20 | 16 | 11/11/2018 | 2018 AZ SAC Senior Open |
-| 10 | Sarah Schou | 59.31 | 16 | 03/18/2017 | 2017 Sectionals - Lewisville |
+| 1 | Sarah Bennett | 54.54 | 16 | 10/31/2008 | 2008 AZ 4A High School Champs |
+| 2 | Stef Wells | 55.62 | 16 | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
+| 3 | Leticia Lelli | 56.41 | 16 | 11/04/2010 | 2010 AZ High School Swimming Champ |
+| 4 | Samantha Covello | 57.51 | 16 | 11/19/2017 | 2017 NM CAQ 11th Annual High D |
+| 5 | Cecelia Croman | 57.62 | 16 | 02/28/2013 | 2013 AZ SR State SC |
+| 6 | Taylor Nations | 57.63 | 16 | 11/08/2013 | 2013 AZ Arizona High School Swim  |
+| 7 | Skylar Dikeman | 57.63 | 16 | 03/24/2018 | 2018 Sectionals - Paradise Valley |
+| 8 | Emma Munsch | 57.70 | 15 | 03/09/2005 | 2005 PN Speedo Sectionals |
+| 9 | Avery Spade | 58.44 | 15 | 03/01/2020 | 2020 AZ SC Senior Open Champs @ MAC |
+| 10 | Shayla Markle | 58.64 | 16 | 11/02/2018 | 2018 AZ Arizona High School Swim & Div |
 
 ### 17-18
 
@@ -719,14 +719,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Sarah Bennett | 53.00 | 18 | 02/23/2011 | 2011 PAC 10 Champs women |
 | 2 | Stef Wells | 53.31 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 3 | Skylar Dikeman | 56.36 | 17 | 11/11/2018 | 2018 AZ SAC Senior Open |
-| 4 | Kate Rollins | 56.38 | 17 | 11/05/1999 | 1999 US 5a Hs State |
-| 5 | Samantha Covello | 57.10 | 17 | 03/22/2019 | 2019 NCSA Spring Championship |
-| 6 | Avery Spade | 57.41 | 17 | 03/25/2022 | 2022 AZ Spring Speedo Sectional |
-| 7 | Hannah Houlton | 58.12 | 18 | 03/22/2019 | 2019 NCSA Spring Championship |
-| 8 | Molly Houlton | 58.12 | 17 | 01/13/2006 | 2006 CA 'Q' Meet |
-| 9 | Sasha Ganem | 58.24 | 18 | 11/18/2023 | La Verne Collegiate Winter Invite |
-| 10 | Emma Munsch | 58.60 | 18 | 11/29/2007 | UT Invite |
+| 3 | Jenna Gresdal ‡ | 54.67 | 18 | 02/27/2003 | 2003 PN Pac-10 Champs |
+| 4 | Andrea Boritzke | 55.39 | 17 | 11/12/2004 | 2004 WI High School State |
+| 5 | Skylar Dikeman | 55.58 | 18 | 11/07/2019 | 2019 AIA Division 2 State Cham |
+| 6 | Kathryn Thompson | 56.30 | 18 | 02/18/2005 | 2005 OR High School Champs |
+| 7 | Kate Rollins | 56.38 | 17 | 11/05/1999 | 1999 US 5a Hs State |
+| 8 | Kathleen Mulligan | 56.47 | 17 | 11/02/2012 | 2012 AZ High School Swim & Dive |
+| 9 | Taylor Nations | 56.70 | 18 | 11/06/2015 | 2015 AZ High School Swim & Div |
+| 10 | Samantha Covello | 57.10 | 17 | 03/22/2019 | 2019 NCSA Spring Championship |
 
 ### Open
 
@@ -740,8 +740,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Jenny Forster | 53.29 | 20 | 12/04/2008 | UT Invite |
 | 7 | Stef Wells | 53.31 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
 | 8 | Bonnie Brandon | 53.40 | 20 | 12/05/2014 | Texas Swimming & Diving Hall o |
-| 9 | Sarah Bennett | 53.95 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
-| 10 | Margo Geer | 53.97 | 22 | 12/05/2014 | Texas Swimming & Diving Hall o |
+| 9 | Hannah Ross ‡ | 53.83 | 20 | 02/24/2010 | 2010 PAC 10 Champs women |
+| 10 | Sarah Bennett | 53.95 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
 
 ---
 
@@ -795,8 +795,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Samantha Covello | 2:05.88 | 16 | 11/18/2017 | 2017 NM CAQ 11th Annual High D |
 | 6 | Ellie Doran | 2:06.05 | 15 | 02/18/2005 | 2005 AZ Lost Dutchman Invite |
 | 7 | Lauren Baker | 2:06.15 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 8 | Dalen Hinderaker | 2:07.15 | 15 | 03/05/2016 | 2016 AZ SCY Senior State Championship |
-| 9 | Alissa Ricard | 2:07.17 | 16 | 03/12/2003 | 2003 PN USA Swimming Speedo Champions... |
+| 8 | Alissa Ricard ‡ | 2:06.88 | 15 | 03/08/2002 | 2002 US Senior Short Cou |
+| 9 | Dalen Hinderaker | 2:07.15 | 15 | 03/05/2016 | 2016 AZ SCY Senior State Championship |
 | 10 | Madeline Bolin | 2:07.36 | 16 | 02/15/2013 | 2013 AZ Phoenix Winter Invitation |
 
 ### 17-18
@@ -806,13 +806,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Sarah Bennett | 1:53.67 | 18 | 12/02/2010 | 2010 UT Invite |
 | 2 | Stef Wells | 1:56.85 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
 | 3 | Skylar Dikeman | 1:58.33 | 18 | 02/29/2020 | 2020 AZ SC Senior Open Champs @ MAC |
-| 4 | Molly Houlton | 2:02.08 | 17 | 01/13/2006 | 2006 CA 'Q' Meet |
-| 5 | Samantha Covello | 2:04.02 | 17 | 03/20/2019 | 2019 NCSA Spring Championship |
-| 6 | Shayla Markle | 2:04.76 | 17 | 03/23/2019 | 2019 Sectionals - Paradise Valley |
-| 7 | Frankie Judy | 2:05.26 | 17 | 03/09/2005 | 2005 PN Speedo Sectionals |
-| 8 | Lauren Baker | 2:05.55 | 17 | 01/15/2010 | 2010 CA SO CAL GRAND PRIX |
-| 9 | Kate Rollins | 2:06.22 | 17 | 11/07/1999 | 1999 US Day After Hs |
-| 10 | Courtney Dangremond | 2:06.54 | 17 | 03/10/2010 | 2010 PN Speedo Champions Series Weste... |
+| 4 | Jenna Gresdal ‡ | 1:59.96 | 18 | 02/27/2003 | 2003 PN Pac-10 Champs |
+| 5 | Molly Houlton | 2:02.08 | 17 | 01/13/2006 | 2006 CA 'Q' Meet |
+| 6 | Samantha Covello | 2:04.02 | 17 | 03/20/2019 | 2019 NCSA Spring Championship |
+| 7 | Shayla Markle | 2:04.76 | 17 | 03/23/2019 | 2019 Sectionals - Paradise Valley |
+| 8 | Frankie Judy | 2:05.26 | 17 | 03/09/2005 | 2005 PN Speedo Sectionals |
+| 9 | Lauren Baker | 2:05.55 | 17 | 01/15/2010 | 2010 CA SO CAL GRAND PRIX |
+| 10 | Kate Rollins | 2:06.22 | 17 | 11/07/1999 | 1999 US Day After Hs |
 
 ### Open
 
@@ -824,10 +824,10 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Caitlin Iversen | 1:54.95 | 20 | 12/04/2008 | UT Invite |
 | 5 | Sarah Bennett | 1:55.15 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
 | 6 | Aria Bernal | 1:55.18 | 19 | 02/29/2020 | 2020 PAC-12 Champs women |
-| 7 | Andrea Boritzke | 1:55.68 | 20 | 02/27/2008 | 2008 PAC-10 Champs women  |
-| 8 | Jessica Hayes | 1:56.07 | 20 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
-| 9 | Whitney Burnett | 1:56.20 | 25 | 12/03/2009 | UT Invite |
-| 10 | Leone Vorster | 1:56.82 | 20 | 12/04/2008 | UT Invite |
+| 7 | Daniela Georges ‡ | 1:55.66 | 21 | 12/01/2018 | Texas Hall of Fame Swimming In |
+| 8 | Andrea Boritzke | 1:55.68 | 20 | 02/27/2008 | 2008 PAC-10 Champs women  |
+| 9 | Hannah Ross ‡ | 1:55.89 | 20 | 02/24/2010 | 2010 PAC 10 Champs women |
+| 10 | Jessica Hayes | 1:56.07 | 20 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
 
 ---
 
@@ -846,7 +846,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Connolly Taylor | 39.78 | 10 | 03/10/2019 | 2019 AZ SC Age Group State Champ |
 | 8 | Alyson Schleicher | 39.80 | 10 | 03/09/2025 | 2025 AZ SC Age Group State Championsh... |
 | 9 | Chloe Garcia | 40.07 | 10 | 10/15/2011 | 2011 AZ Ford October Invite |
-| 10 | Beatrice Oliver | 40.20 | 10 | 10/16/2010 | 2010 AZ Fall League meet 2 |
+| 10 | Nina Weinberger ‡ | 40.16 | 10 | 03/08/2012 | 2012 AZ Age Group State Champs |
 
 ### 11-12
 
@@ -858,7 +858,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Tori Dabney | 33.5 | 12 | 12/06/2014 | 2014 AZ NEP Holiday Swim Festival |
 | 5 | Eleora Bailey | 33.52 | 12 | 03/10/2011 | 2011 AZ SC Age Group State  |
 | 6 | Esther Sarok | 33.71 | 12 | 03/10/2024 | 2024 AZ AZSI SC Age Group State Champ... |
-| 7 | Brooke Kimball | 34.34 | 12 | 04/11/2015 | 2015 PC Speedo FW Champs |
+| 7 | Brooke Kimball ‡ | 33.97 | 12 | 03/07/2015 | 2015 AZ Short Course Age Grou |
 | 8 | Hannah McIver | 34.41 | 12 | 03/11/2016 | 2016 AZ Short Course AG Championship |
 | 9 | Connie Lee | 34.66 | 12 | 03/07/2015 | 2015 AZ Short Course Age Grou |
 | 10 | Scarlett Bonomolo | 34.70 | 12 | 09/11/2022 | 2022 AZ FAST Patriot Meet |
@@ -884,36 +884,36 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Sara Borendame | 29.75 | 16 | 03/20/2012 | 2012 NCSA Junior National Swim |
 | 2 | lindsey Sohoel-Smith | 30.05 | 16 | 03/15/2018 | 2018 NCSA Spring Championship |
-| 3 | Connie Lee | 31.04 | 15 | 11/12/2018 | 2018 AZ SAC Senior Open |
-| 4 | Avery Howayeck | 31.49 | 16 | 09/15/2019 | 2019 AZ FAST Patriot Meet |
-| 5 | Christiana Williams | 32.2 | 16 | 03/15/2018 | 2018 NCSA Spring Championship |
-| 6 | Hope Nakazato | 32.27 | 16 | 03/13/2008 | 2008 AZ Senior Short Course State |
-| 7 | Daniella Emami | 32.51 | 16 | 03/01/2012 | 2012 AZ Swimming Senior State |
-| 8 | Veronica So | 32.61 | 15 | 03/18/2010 | 2010 AZ  Short Course Senior St |
-| 9 | Eleora Bailey | 32.64 | 15 | 12/06/2014 | 2014 AZ NEP Holiday Swim Festival |
-| 10 | Harley Quinn | 33.35 | 15 | 03/18/2010 | 2010 AZ  Short Course Senior St |
+| 3 | Avery Spade ‡ | 30.91 | 16 | 12/05/2020 | 2020 AZ NEP Holiday Swim Festival |
+| 4 | Connie Lee | 31.04 | 15 | 11/12/2018 | 2018 AZ SAC Senior Open |
+| 5 | Avery Howayeck | 31.49 | 16 | 09/15/2019 | 2019 AZ FAST Patriot Meet |
+| 6 | Christiana Williams | 32.2 | 16 | 03/15/2018 | 2018 NCSA Spring Championship |
+| 7 | Hope Nakazato | 32.27 | 16 | 03/13/2008 | 2008 AZ Senior Short Course State |
+| 8 | Daniella Emami | 32.51 | 16 | 03/01/2012 | 2012 AZ Swimming Senior State |
+| 9 | Veronica So | 32.61 | 15 | 03/18/2010 | 2010 AZ  Short Course Senior St |
+| 10 | Eleora Bailey | 32.64 | 15 | 12/06/2014 | 2014 AZ NEP Holiday Swim Festival |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Sara Borendame | 29.31 | 17 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 2 | lindsey Sohoel-Smith | 29.64 | 18 | 11/22/2019 | 2019 Pepperdine Winter Invite |
-| 3 | Christiana Williams | 29.81 | 17 | 03/21/2019 | 2019 NCSA Spring Championship |
-| 4 | Leighanne Oliver | 30.14 | 18 | 03/15/2011 | 2011 NCSA Jr National Swimming |
-| 5 | Chloe Garcia | 31.45 | 17 | 03/15/2018 | 2018 NCSA Spring Championship |
-| 6 | Jessica McNamee | 31.72 | 17 | 03/03/2011 | 2011 AZ Short Course Senior State |
-| 7 | Lindsay Hnyda | 32.37 | 17 | 02/13/2004 | 2004 AZ Lost Dutchman Invit |
-| 8 | Hope Peterson | 32.45 | 18 | 03/19/2009 | 2009 AZ Short Course Senior St |
-| 9 | Briana Wilford | 32.51 | 17 | 01/11/2009 | 2009 AZ Ford's January Age Group  |
-| 10 | Connie Lee | 32.51 | 18 | 02/15/2021 | 2021 AZ RIO Lost Dutchman Invite |
+| 2 | Annie Chandler ‡ | 29.44 | 17 | 12/10/2004 | 2004 ST South Zone TISCA Champion |
+| 3 | lindsey Sohoel-Smith | 29.64 | 18 | 11/22/2019 | 2019 Pepperdine Winter Invite |
+| 4 | Christiana Williams | 29.81 | 17 | 03/21/2019 | 2019 NCSA Spring Championship |
+| 5 | Leighanne Oliver | 30.14 | 18 | 03/15/2011 | 2011 NCSA Jr National Swimming |
+| 6 | Chloe Garcia | 31.45 | 17 | 03/15/2018 | 2018 NCSA Spring Championship |
+| 7 | Jessica McNamee | 31.72 | 17 | 03/03/2011 | 2011 AZ Short Course Senior State |
+| 8 | Lindsay Hnyda | 32.37 | 17 | 02/13/2004 | 2004 AZ Lost Dutchman Invit |
+| 9 | Hope Peterson | 32.45 | 18 | 03/19/2009 | 2009 AZ Short Course Senior St |
+| 10 | Briana Wilford | 32.51 | 17 | 01/11/2009 | 2009 AZ Ford's January Age Group  |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Sara Borendame | 29.31 | 17 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 2 | Annie Chandler | 29.57 | 24 | 11/18/2011 | 2011 WI OSHY Approved Champion |
+| 2 | Annie Chandler ‡ | 29.44 | 17 | 12/10/2004 | 2004 ST South Zone TISCA Champion |
 | 3 | Emma Simonson | 29.59 | 19 | 11/23/2013 | Arizona vs. Boise State |
 | 4 | lindsey Sohoel-Smith | 29.64 | 18 | 11/22/2019 | 2019 Pepperdine Winter Invite |
 | 5 | Christiana Williams | 29.81 | 17 | 03/21/2019 | 2019 NCSA Spring Championship |
@@ -921,7 +921,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Connie Lee | 31.04 | 15 | 11/12/2018 | 2018 AZ SAC Senior Open |
 | 8 | Chloe Garcia | 31.3 | 14 | 02/16/2015 | 2015 AZ Lost Dutchman  |
 | 9 | Avery Howayeck | 31.49 | 16 | 09/15/2019 | 2019 AZ FAST Patriot Meet |
-| 10 | Jessica McNamee | 31.72 | 17 | 03/03/2011 | 2011 AZ Short Course Senior State |
+| 10 | Brittani Schwanenberger ‡ | 31.67 | 14 | 02/18/2005 | 2005 AZ Lost Dutchman Invite |
 
 ---
 
@@ -962,30 +962,30 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Avery Spade | 1:04.17 | 14 | 03/20/2019 | 2019 NCSA Spring Championship |
-| 2 | Holland Nye | 1:06.41 | 14 | 02/18/2024 | 2024 AZ RIO 32nd Annual Lost Dutchman... |
-| 3 | Eleora Bailey | 1:06.49 | 14 | 04/04/2013 | 2013 PC Far Western Champs |
-| 4 | Chloe Garcia | 1:06.64 | 14 | 02/28/2015 | 2015 AZ Swimming SC Senior States |
-| 5 | lindsey Sohoel-Smith | 1:08.10 | 14 | 03/13/2016 | 2016 AZ Short Course AG Championship |
-| 6 | Sarah Schou | 1:08.37 | 14 | 02/28/2015 | 2015 AZ Swimming SC Senior States |
-| 7 | Christi Pierini | 1:08.66 | 14 | 10/29/2004 | 2004 AZ 4A HS Champs |
-| 8 | Avery Howayeck | 1:08.90 | 14 | 03/11/2018 | 2018 AZ SC Age Group at FAST |
-| 9 | Claudia Garcia | 1:08.95 | 14 | 02/14/2014 | 2014 AZ RIO Lost Dutchman Invitational |
-| 10 | Connie Lee | 1:09.13 | 14 | 12/03/2017 | 2017 AZ FAST Winter Lights |
+| 2 | Reagan Edquid | 1:05.58 | 14 | 11/03/2023 | 2023 AZ AIA Division 3 |
+| 3 | Holland Nye | 1:06.41 | 14 | 02/18/2024 | 2024 AZ RIO 32nd Annual Lost Dutchman... |
+| 4 | Eleora Bailey | 1:06.49 | 14 | 04/04/2013 | 2013 PC Far Western Champs |
+| 5 | Chloe Garcia | 1:06.64 | 14 | 02/28/2015 | 2015 AZ Swimming SC Senior States |
+| 6 | lindsey Sohoel-Smith | 1:08.10 | 14 | 03/13/2016 | 2016 AZ Short Course AG Championship |
+| 7 | Sarah Schou | 1:08.37 | 14 | 02/28/2015 | 2015 AZ Swimming SC Senior States |
+| 8 | Sara Borendame | 1:08.63 | 14 | 11/06/2009 | 2009 AZ 5A Division II High School Ch... |
+| 9 | Christi Pierini | 1:08.66 | 14 | 10/29/2004 | 2004 AZ 4A HS Champs |
+| 10 | Avery Howayeck | 1:08.90 | 14 | 03/11/2018 | 2018 AZ SC Age Group at FAST |
 
 ### 15-16
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Sara Borendame | 1:03.01 | 16 | 03/01/2012 | 2012 AZ Swimming Senior State |
-| 2 | lindsey Sohoel-Smith | 1:05.26 | 15 | 03/18/2017 | 2017 Sectionals - Lewisville |
-| 3 | Avery Spade | 1:05.50 | 15 | 02/29/2020 | 2020 AZ SC Senior Open Champs @ MAC |
-| 4 | Christiana Williams | 1:05.96 | 16 | 11/10/2018 | 2018 AZ SAC Senior Open |
-| 5 | Connie Lee | 1:05.97 | 15 | 11/10/2018 | 2018 AZ SAC Senior Open |
-| 6 | Leighanne Oliver | 1:06.25 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 7 | Eleora Bailey | 1:06.26 | 16 | 12/05/2015 | 2015 AZ FAST Winter Lights 2015 |
-| 8 | Alyssa Haddock | 1:06.57 | 15 | 02/17/2019 | 2019 AZ RIO Lost Dutchman |
-| 9 | Holland Nye | 1:06.83 | 15 | 02/16/2025 | 2025 AZ RIO 33rd Annual Lost Dutchman... |
-| 10 | Audy Scala | 1:07.21 | 16 | 11/10/2018 | 2018 AZ SAC Senior Open |
+| 2 | Emma Simonson | 1:03.97 | 15 | 02/13/2009 | 2009 IN IHSAA Girls High School State C |
+| 3 | Madison Blakesley | 1:04.18 | 16 | 02/12/2016 | 2016 OBS IN Girls High School State C |
+| 4 | lindsey Sohoel-Smith | 1:05.26 | 15 | 03/18/2017 | 2017 Sectionals - Lewisville |
+| 5 | Avery Spade | 1:05.48 | 16 | 11/07/2020 | 2020 AZ AIA Div III Swim & Dive Champs |
+| 6 | Christiana Williams | 1:05.96 | 16 | 11/10/2018 | 2018 AZ SAC Senior Open |
+| 7 | Connie Lee | 1:05.97 | 15 | 11/10/2018 | 2018 AZ SAC Senior Open |
+| 8 | Leighanne Oliver | 1:06.25 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 9 | Eleora Bailey | 1:06.26 | 16 | 12/05/2015 | 2015 AZ FAST Winter Lights 2015 |
+| 10 | Alyssa Haddock | 1:06.57 | 15 | 02/17/2019 | 2019 AZ RIO Lost Dutchman |
 
 ### 17-18
 
@@ -993,14 +993,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Ellie Jew | 1:00.57 | 18 | 02/28/2020 | 2020 PAC-12 Champs women |
 | 2 | Sara Borendame | 1:01.38 | 18 | 12/05/2013 | 2013 UT Invite |
-| 3 | Christiana Williams | 1:03.65 | 18 | 02/29/2020 | 2020 AZ SC Senior Open Champs @ MAC |
-| 4 | Leighanne Oliver | 1:04.23 | 18 | 03/15/2011 | 2011 NCSA Jr National Swimming |
-| 5 | lindsey Sohoel-Smith | 1:04.50 | 18 | 11/23/2019 | 2019 Pepperdine Winter Invite |
-| 6 | Courtney Rhodenbaugh | 1:04.59 | 18 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 7 | Avery Spade | 1:05.31 | 17 | 03/26/2022 | 2022 AZ Spring Speedo Sectional |
-| 8 | Kailey Lozano | 1:06.14 | 17 | 03/26/2022 | 2022 AZ Spring Speedo Sectional |
-| 9 | Connie Lee | 1:06.48 | 18 | 03/06/2021 | 2021 AZ SC Senior Classic @ DTAC |
-| 10 | Chloe Garcia | 1:07.13 | 17 | 03/14/2018 | 2018 NCSA Spring Championship |
+| 3 | Amy Spaay ‡ | 1:02.36 | 18 | 12/02/2010 | 2010 UT Invite |
+| 4 | Christiana Williams | 1:03.60 | 17 | 11/07/2019 | 2019 AIA Division 2 State Cham |
+| 5 | Jessica Embick | 1:03.88 | 17 | 02/18/2005 | 2005 OR High School Champs |
+| 6 | Leighanne Oliver | 1:04.23 | 18 | 03/15/2011 | 2011 NCSA Jr National Swimming |
+| 7 | lindsey Sohoel-Smith | 1:04.50 | 18 | 11/23/2019 | 2019 Pepperdine Winter Invite |
+| 8 | Courtney Rhodenbaugh | 1:04.59 | 18 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 9 | Kati Hage | 1:04.75 | 18 | 11/04/2016 | 2016 AZ AIA HS Championship |
+| 10 | Avery Spade | 1:05.31 | 17 | 03/26/2022 | 2022 AZ Spring Speedo Sectional |
 
 ### Open
 
@@ -1046,10 +1046,10 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Teagan McGinnis | 2:36.99 | 12 | 02/17/2012 | 2012 AZ Lost Dutchman Invitational |
 | 5 | Hailey Palma | 2:40.13 | 12 | 12/02/2010 | 2010 AZ Holiday Festival  |
 | 6 | Melissa King | 2:40.34 | 12 | 11/01/2014 | 2014 AZ FORD November NTS Meet |
-| 7 | lindsey Sohoel-Smith | 2:41.10 | 12 | 11/10/2013 | 2013 AZ Senior Time Trial - Nov a |
-| 8 | Elise Peters | 2:41.81 | 12 | 03/31/2011 | 2011 PC ALMA Far Westerns |
-| 9 | Hannah McIver | 2:42.27 | 12 | 03/19/2016 | 2016 CC SWAGR |
-| 10 | Lauren Jorgensen | 2:42.27 | 12 | 03/06/2015 | 2015 AZ Short Course Age Grou |
+| 7 | Brooke Kimball ‡ | 2:40.46 | 12 | 02/16/2015 | 2015 AZ Lost Dutchman  |
+| 8 | lindsey Sohoel-Smith | 2:41.10 | 12 | 11/10/2013 | 2013 AZ Senior Time Trial - Nov a |
+| 9 | Elise Peters | 2:41.81 | 12 | 03/31/2011 | 2011 PC ALMA Far Westerns |
+| 10 | Hannah McIver | 2:42.27 | 12 | 03/19/2016 | 2016 CC SWAGR |
 
 ### 13-14
 
@@ -1072,8 +1072,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Sara Borendame | 2:17.37 | 16 | 03/20/2012 | 2012 NCSA Junior National Swim |
 | 2 | Holland Nye | 2:20.76 | 15 | 03/27/2025 | 2025 ST TXLA Four Corners Spring Spee... |
-| 3 | Christiana Williams | 2:22.05 | 16 | 03/02/2018 | 2018 AZ  SC Senior Champs at MAC |
-| 4 | Avery Spade | 2:22.50 | 15 | 02/28/2020 | 2020 AZ SC Senior Open Champs @ MAC |
+| 3 | Avery Spade ‡ | 2:21.13 | 16 | 12/05/2020 | 2020 AZ NEP Holiday Swim Festival |
+| 4 | Christiana Williams | 2:22.05 | 16 | 03/02/2018 | 2018 AZ  SC Senior Champs at MAC |
 | 5 | lindsey Sohoel-Smith | 2:22.62 | 15 | 03/16/2017 | 2017 Sectionals - Lewisville |
 | 6 | Eleora Bailey | 2:23.94 | 16 | 03/26/2015 | 2015 ST TXLA Speedo Champs Western Re... |
 | 7 | Chloe Garcia | 2:24.44 | 15 | 03/04/2016 | 2016 AZ SCY Senior State Championship |
@@ -1092,9 +1092,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Chloe Garcia | 2:21.03 | 17 | 03/22/2018 | 2018 Sectionals - Paradise Valley |
 | 6 | Leighanne Oliver | 2:22.01 | 18 | 01/14/2011 | 2011 CA SCS Senior Meet |
 | 7 | Courtney Rhodenbaugh | 2:22.55 | 18 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 8 | lindsey Sohoel-Smith | 2:23.06 | 18 | 11/24/2019 | 2019 Pepperdine Winter Invite |
-| 9 | Connie Lee | 2:23.94 | 18 | 03/25/2021 | 2021 AZ Spring Speedo Sectionals-2 @ PSC |
-| 10 | Lindsay Hnyda | 2:27.14 | 18 | 02/23/2005 | 2005 MWC Champs |
+| 8 | Amy Spaay ‡ | 2:22.64 | 18 | 12/02/2010 | 2010 UT Invite |
+| 9 | lindsey Sohoel-Smith | 2:23.06 | 18 | 11/24/2019 | 2019 Pepperdine Winter Invite |
+| 10 | Connie Lee | 2:23.94 | 18 | 03/25/2021 | 2021 AZ Spring Speedo Sectionals-2 @ PSC |
 
 ### Open
 
@@ -1107,8 +1107,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Jacquelyn Craft | 2:11.72 | 21 | 02/14/2007 | 2007 Pac-10 Champs women |
 | 6 | Jessica Wagner | 2:13.16 | 20 | 11/30/2001 | 2001 US University |
 | 7 | Alexandra Martelle | 2:14.31 | 21 | 12/03/2016 | Texas Hall of Fame Swimming In |
-| 8 | Erin Sieper | 2:14.62 | 20 | 02/23/2005 | 2005 PN Pac 10 Conference |
-| 9 | Mallory Korenwinder | 2:15.27 | 21 | 12/07/2019 | Minnesota Invite 2019 |
+| 8 | Mallory Korenwinder ‡ | 2:14.41 | 20 | 12/01/2018 | Texas Hall of Fame Swimming In |
+| 9 | Erin Sieper | 2:14.62 | 20 | 02/23/2005 | 2005 PN Pac 10 Conference |
 | 10 | Shannyn Hultin | 2:15.68 | 20 | 12/05/2013 | 2013 UT Invite |
 
 ---
@@ -1170,8 +1170,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Kaylin Farnum | 26.41 | 16 | 03/15/2018 | 2018 NCSA Spring Championship |
 | 5 | Kaci Kelaher | 26.8 | 15 | 02/19/2022 | 2022 AZ RIO 30th Annual Lost Dutchman... |
 | 6 | Miranda Lyle | 27.0 | 16 | 03/18/2010 | 2010 AZ  Short Course Senior St |
-| 7 | Stephanie White | 27.33 | 15 | 02/18/2005 | 2005 AZ Lost Dutchman Invite |
-| 8 | Cecelia Croman | 27.33 | 15 | 03/01/2012 | 2012 AZ Swimming Senior State |
+| 7 | Cecelia Croman | 27.33 | 15 | 03/01/2012 | 2012 AZ Swimming Senior State |
+| 8 | Stephanie White | 27.33 | 15 | 02/18/2005 | 2005 AZ Lost Dutchman Invite |
 | 9 | Erin Kelaher | 27.48 | 15 | 11/11/2018 | 2018 AZ SAC Senior Open |
 | 10 | Susana Helms | 27.5 | 16 | 02/18/2005 | 2005 AZ Lost Dutchman Invite |
 
@@ -1198,12 +1198,12 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 2 | Margo Geer | 25.24 | 21 | 11/23/2013 | Arizona vs. Boise State |
 | 3 | Emma Munsch | 25.43 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
 | 4 | Bonnie Brandon | 25.5 | 19 | 11/23/2013 | Arizona vs. Boise State |
-| 5 | Sarah Bennett | 25.83 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
-| 6 | Courtney Kuehl | 26.03 | 19 | 12/01/2005 | 2005 AZ Holiday Fest |
-| 7 | Lauren Baker | 26.07 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
-| 8 | Kristen Alicea-Jorgensen | 26.1 | 18 | 03/15/2018 | 2018 NCSA Spring Championship |
-| 9 | Taylor Alicea-Jorgensen | 26.14 | 16 | 03/21/2019 | 2019 NCSA Spring Championship |
-| 10 | Krista Duffield | 26.18 | 15 | 03/20/2012 | 2012 NCSA Junior National Swim |
+| 5 | Julia Urbanowski ‡ | 25.71 | 19 | 10/12/2024 | ASU/UofA/GCU/NAU |
+| 6 | Sarah Bennett | 25.83 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
+| 7 | Courtney Kuehl | 26.03 | 19 | 12/01/2005 | 2005 AZ Holiday Fest |
+| 8 | Lauren Baker | 26.07 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
+| 9 | Kristen Alicea-Jorgensen | 26.1 | 18 | 03/15/2018 | 2018 NCSA Spring Championship |
+| 10 | Taylor Alicea-Jorgensen | 26.14 | 16 | 03/21/2019 | 2019 NCSA Spring Championship |
 
 ---
 
@@ -1218,9 +1218,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Mandy Rothe | 1:10.53 | 9 | 04/09/2015 | 2015 PC Speedo FW Champs |
 | 4 | Addie Hobbs | 1:11.60 | 10 | 09/12/2021 | 2021 AZ FAST Patriot Meet |
 | 5 | Stephanie Flores | 1:12.05 | 10 | 04/09/2015 | 2015 PC Speedo FW Champs |
-| 6 | Whitley Taylor | 1:14.30 | 10 | 12/07/2000 | 2000 US Top 16 |
-| 7 | Dillon Nye | 1:14.39 | 10 | 03/11/2022 | 2022 AZ SC Age Group State |
-| 8 | Ella Cosgrove | 1:15.56 | 10 | 01/13/2018 | 2018 AZ PSC Dual Meet Champs -3 |
+| 6 | Ella Cosgrove ‡ | 1:13.18 | 10 | 12/01/2017 | 2017 AZ FAST Winter Lights |
+| 7 | Whitley Taylor | 1:14.30 | 10 | 12/07/2000 | 2000 US Top 16 |
+| 8 | Dillon Nye | 1:14.39 | 10 | 03/11/2022 | 2022 AZ SC Age Group State |
 | 9 | Ruby Smith | 1:17.48 | 10 | 03/08/2019 | 2019 AZ SC Age Group State Champ |
 | 10 | Maggie Oliver | 1:18.20 | 10 | 03/04/2010 | 2010 AZ Short Course Age Champ |
 
@@ -1243,46 +1243,46 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Avery Spade | 55.41 | 14 | 03/22/2019 | 2019 NCSA Spring Championship |
-| 2 | Molly Houlton | 57.44 | 14 | 04/07/2003 | 2003 FL NCSA Junior National C |
-| 3 | Taylor Alicea-Jorgensen | 58.07 | 14 | 03/03/2017 | 2017 AZ SC Senior Open |
-| 4 | Lauren Baker | 58.32 | 14 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 5 | Sydney Even | 58.40 | 14 | 03/09/2018 | 2018 AZ SC Age Group at FAST |
-| 6 | Cecelia Croman | 59.51 | 14 | 03/10/2011 | 2011 AZ SC Age Group State  |
-| 7 | Eleora Bailey | 59.64 | 14 | 02/15/2013 | 2013 AZ Phoenix Winter Invitation |
-| 8 | Julie Turk | 59.88 | 14 | 03/06/2014 | 2014 AZ SC Age Group State Championship |
-| 9 | Tori Dabney | 1:00.25 | 13 | 11/07/2015 | 2015 CA Kevin Perry Senior Inv |
-| 10 | Stephanie Flores | 1:00.38 | 13 | 03/24/2018 | 2018 Sectionals - Paradise Valley |
+| 1 | Avery Spade | 55.35 | 14 | 11/02/2018 | 2018 AZ Arizona High School Champs |
+| 2 | Leticia Lelli | 55.65 | 14 | 10/31/2008 | 2008 AZ 4A High School Champs |
+| 3 | Taylor Alicea-Jorgensen | 57.04 | 14 | 11/04/2016 | 2016 AZ AIA HS Championship |
+| 4 | Molly Houlton | 57.44 | 14 | 04/07/2003 | 2003 FL NCSA Junior National C |
+| 5 | Tyler Driscoll | 57.72 | 14 | 11/07/2019 | 2019 AIA Division 1 State Cham |
+| 6 | Lauren Baker | 58.32 | 14 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 7 | Sydney Even | 58.40 | 14 | 03/09/2018 | 2018 AZ SC Age Group at FAST |
+| 8 | Stephanie White | 59.26 | 14 | 11/05/2004 | 2004 AZ AIA 5A Swim Champs |
+| 9 | Cecelia Croman | 59.51 | 14 | 03/10/2011 | 2011 AZ SC Age Group State  |
+| 10 | Eleora Bailey | 59.64 | 14 | 02/15/2013 | 2013 AZ Phoenix Winter Invitation |
 
 ### 15-16
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Sarah Bennett | 55.44 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 2 | Kaci Kelaher | 55.64 | 16 | 03/25/2023 | 2023 ST Spring Speedo Sectionals |
-| 3 | Avery Spade | 55.64 | 15 | 02/28/2020 | 2020 AZ SC Senior Open Champs @ MAC |
-| 4 | Lauren Baker | 55.75 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 5 | Lacey Nymeyer | 55.83 | 16 | 01/18/2002 | Q 2002 |
-| 6 | Emily Thompson | 56.39 | 16 | 03/08/2002 | 2002 US Az. Senior Champ |
-| 7 | Taylor Alicea-Jorgensen | 56.57 | 16 | 03/22/2019 | 2019 NCSA Spring Championship |
-| 8 | Krista Duffield | 56.88 | 16 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 9 | Lindsey Russenberger | 57.75 | 16 | 04/07/2003 | 2003 FL NCSA Junior National C |
-| 10 | Kaylin Farnum | 57.90 | 16 | 03/16/2018 | 2018 NCSA Spring Championship |
+| 1 | Tyler Driscoll | 54.86 | 16 | 11/05/2021 | 2021 AZ AIA Division 2 State Cham |
+| 2 | Leticia Lelli | 54.90 | 16 | 11/04/2010 | 2010 AZ High School Swimming Champ |
+| 3 | Sarah Bennett | 55.44 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 4 | Taylor Alicea-Jorgensen | 55.54 | 16 | 11/02/2018 | 2018 AZ Arizona High School Swim & Div |
+| 5 | Avery Spade | 55.64 | 15 | 02/28/2020 | 2020 AZ SC Senior Open Champs @ MAC |
+| 6 | Kaci Kelaher | 55.64 | 16 | 03/25/2023 | 2023 ST Spring Speedo Sectionals |
+| 7 | Lauren Baker | 55.75 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 8 | Lacey Nymeyer | 55.83 | 16 | 01/18/2002 | Martin Inkmann S |
+| 9 | Jenny Forster | 56.16 | 16 | 01/15/2005 | 2005 OH High School Classic |
+| 10 | Sam Getzen | 56.32 | 16 | 11/04/2011 | 2011 AZ High School State |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Emma Munsch | 54.84 | 18 | 02/27/2008 | 2008 PAC-10 Champs women  |
-| 2 | Sydney Even | 54.95 | 18 | 03/26/2022 | 2022 AZ Spring Speedo Sectional |
-| 3 | Krista Duffield | 55.04 | 17 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
-| 4 | Avery Spade | 55.65 | 17 | 03/26/2022 | 2022 AZ Spring Speedo Sectional |
-| 5 | Kaci Kelaher | 55.87 | 17 | 03/01/2024 | 2024 AZ AZSI SC Senior State Champion... |
-| 6 | Kailey Lozano | 56.12 | 18 | 03/25/2023 | 2023 ST Spring Speedo Sectionals |
-| 7 | Shayla Markle | 56.17 | 17 | 03/23/2019 | 2019 Sectionals - Paradise Valley |
-| 8 | Lauren Baker | 56.19 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
-| 9 | Emily Thompson | 56.30 | 17 | 04/07/2003 | 2003 FL NCSA Junior National C |
-| 10 | Lacey Nymeyer | 56.35 | 18 | 11/09/2003 | 2003 AZ Nov 9th Senior Time Trial |
+| 1 | Whitney Lopus | 53.18 | 17 | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
+| 2 | Emma Munsch | 54.84 | 18 | 02/27/2008 | 2008 PAC-10 Champs women  |
+| 3 | Sydney Even | 54.95 | 18 | 03/26/2022 | 2022 AZ Spring Speedo Sectional |
+| 4 | Krista Duffield | 55.04 | 17 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
+| 5 | Paige Kremer ‡ | 55.23 | 18 | 02/07/2015 | Arizona Vs ASU |
+| 6 | Taylor Nations | 55.39 | 18 | 11/06/2015 | 2015 AZ High School Swim & Div |
+| 7 | Sam Getzen | 55.52 | 18 | 11/08/2013 | 2013 AZ Arizona High School Swim  |
+| 8 | Avery Spade | 55.65 | 17 | 03/26/2022 | 2022 AZ Spring Speedo Sectional |
+| 9 | Kaci Kelaher | 55.87 | 17 | 03/01/2024 | 2024 AZ AZSI SC Senior State Champion... |
+| 10 | Kailey Lozano | 56.12 | 18 | 03/25/2023 | 2023 ST Spring Speedo Sectionals |
 
 ### Open
 
@@ -1295,9 +1295,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Mackenzie Rumrill | 52.37 | 19 | 12/02/2016 | Texas Hall of Fame Swimming In |
 | 6 | Dana Christ | 52.39 | 20 | 02/24/2010 | 2010 PAC 10 Champs women |
 | 7 | Jenny Forster | 52.56 | 20 | 12/04/2008 | UT Invite |
-| 8 | Beth Botsford | 53.94 | 21 | 12/05/2002 | 2002 US  University of Texas Invit |
-| 9 | Hannah Farrow | 54.00 | 19 | 02/27/2020 | 2020 Pac 12 Chmps women TT |
-| 10 | Mik Ranslem | 54.02 | 20 | 11/29/2017 | Texas Hall of Fame Swimming In |
+| 8 | Whitney Lopus ‡ | 52.75 | 19 | 12/03/2009 | UT Invite |
+| 9 | Julia Urbanowski ‡ | 53.91 | 19 | 02/27/2025 | 2025 Big 12 Conference Championships |
+| 10 | Beth Botsford | 53.94 | 21 | 12/05/2002 | 2002 US  University of Texas Invit |
 
 ---
 
@@ -1319,8 +1319,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Kristina Defoor | 2:24.72 | 12 | 02/14/2015 | 2015 AZ Lost Dutchman  |
 | 7 | Ainsley Limesand | 2:25.92 | 12 | 02/14/2015 | 2015 AZ Lost Dutchman  |
 | 8 | Maggie Oliver | 2:26.95 | 12 | 03/08/2012 | 2012 AZ Age Group State Champs |
-| 9 | Michelle Trujillo | 2:29.11 | 12 | 03/10/2011 | 2011 AZ SC Age Group State  |
-| 10 | Dillon Nye | 2:30.93 | 12 | 10/28/2023 | 2023 AZ SWAS Spooktakular |
+| 9 | Taylor Schlicht ‡ | 2:28.67 | 12 | 12/04/2008 | 2008 AZ Holiday Fest  |
+| 10 | Michelle Trujillo | 2:29.11 | 12 | 03/10/2011 | 2011 AZ SC Age Group State  |
 
 ### 13-14
 
@@ -1341,16 +1341,16 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Lauren Baker | 2:01.09 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 2 | Emily Thompson | 2:03.05 | 16 | 03/08/2002 | 2002 US Senior Short Cou |
-| 3 | Ellie Doran | 2:03.98 | 15 | 03/09/2005 | 2005 PN Speedo Sectionals |
-| 4 | Taylor Alicea-Jorgensen | 2:04.06 | 16 | 11/10/2018 | 2018 AZ SAC Senior Open |
-| 5 | Kaci Kelaher | 2:04.54 | 16 | 03/23/2023 | 2023 ST Spring Speedo Sectionals |
-| 6 | Shayla Markle | 2:06.54 | 16 | 11/10/2018 | 2018 AZ SAC Senior Open |
-| 7 | Molly Houlton | 2:06.58 | 15 | 11/02/2003 | 2003 AZ Nov. 2nd Senior Time Tria |
-| 8 | Lacey Nymeyer | 2:06.99 | 16 | 02/15/2002 | 2002 US Lost Dutchm |
-| 9 | Noelle Miesfeld | 2:08.31 | 16 | 03/17/2005 | 2005 AZ Senior Classic |
-| 10 | Sydney Even | 2:09.58 | 15 | 11/10/2018 | 2018 AZ SAC Senior Open |
+| 1 | Jenny Forster | 2:00.72 | 16 | 01/15/2005 | 2005 OH High School Classic |
+| 2 | Lauren Baker | 2:01.09 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 3 | Emily Thompson | 2:03.05 | 16 | 03/08/2002 | 2002 US Senior Short Cou |
+| 4 | Ellie Doran | 2:03.98 | 15 | 03/09/2005 | 2005 PN Speedo Sectionals |
+| 5 | Taylor Alicea-Jorgensen | 2:04.06 | 16 | 11/10/2018 | 2018 AZ SAC Senior Open |
+| 6 | Kaci Kelaher | 2:04.54 | 16 | 03/23/2023 | 2023 ST Spring Speedo Sectionals |
+| 7 | Shayla Markle | 2:06.54 | 16 | 11/10/2018 | 2018 AZ SAC Senior Open |
+| 8 | Molly Houlton | 2:06.58 | 15 | 11/02/2003 | 2003 AZ Nov. 2nd Senior Time Tria |
+| 9 | Lacey Nymeyer | 2:06.99 | 16 | 02/15/2002 | 2002 US Lost Dutchm |
+| 10 | Noelle Miesfeld | 2:08.31 | 16 | 03/17/2005 | 2005 AZ Senior Classic |
 
 ### 17-18
 
@@ -1359,13 +1359,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Emily Thompson | 2:02.04 | 17 | 04/07/2003 | 2003 FL NCSA Junior National C |
 | 2 | Lauren Baker | 2:02.20 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
 | 3 | Ellie Doran | 2:02.32 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 4 | Sydney Even | 2:03.11 | 18 | 03/06/2022 | 2022 AZ SC Senior State |
-| 5 | Avery Spade | 2:03.56 | 17 | 03/24/2022 | 2022 AZ Spring Speedo Sectional |
-| 6 | Kaci Kelaher | 2:04.28 | 18 | 11/08/2024 | NM State vs NAU & UTRGV |
-| 7 | Shayla Markle | 2:04.47 | 17 | 03/21/2019 | 2019 Sectionals - Paradise Valley |
-| 8 | Noelle Miesfeld | 2:06.26 | 17 | 03/08/2006 | 2006 AZ Speedo Sectionals |
-| 9 | Caitlin Wright | 2:06.51 | 18 | 03/15/2011 | 2011 NCSA Jr National Swimming |
-| 10 | Molly Houlton | 2:06.82 | 17 | 01/13/2006 | 2006 CA 'Q' Meet |
+| 4 | Claire Lockridge ‡ | 2:02.93 | 18 | 12/06/2014 | Texas Swimming & Diving Hall o |
+| 5 | Sydney Even | 2:03.11 | 18 | 03/06/2022 | 2022 AZ SC Senior State |
+| 6 | Avery Spade | 2:03.56 | 17 | 03/24/2022 | 2022 AZ Spring Speedo Sectional |
+| 7 | Kaci Kelaher | 2:04.28 | 18 | 11/08/2024 | NM State vs NAU & UTRGV |
+| 8 | Shayla Markle | 2:04.47 | 17 | 03/21/2019 | 2019 Sectionals - Paradise Valley |
+| 9 | Noelle Miesfeld | 2:06.26 | 17 | 03/08/2006 | 2006 AZ Speedo Sectionals |
+| 10 | Caitlin Wright | 2:06.51 | 18 | 03/15/2011 | 2011 NCSA Jr National Swimming |
 
 ### Open
 
@@ -1376,11 +1376,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Emily Mason-Milak | 1:56.36 | 22 | 02/23/2005 | 2005 PN Pac 10 Conference |
 | 4 | Mik Ranslem | 1:57.68 | 20 | 12/02/2017 | Texas Hall of Fame Swimming In |
 | 5 | Erin Vogt | 1:58.26 | 20 | 12/01/2000 | Ut Inv |
-| 6 | Hannah Farrow | 1:58.66 | 19 | 02/29/2020 | 2020 PAC-12 Champs women |
-| 7 | Jenny Forster | 1:59.73 | 19 | 02/27/2008 | 2008 PAC-10 Champs women  |
-| 8 | Sam Getzen | 1:59.76 | 20 | 12/05/2015 | Texas Swimming & Diving Hall  |
-| 9 | Beth Botsford | 2:00.10 | 21 | 12/05/2002 | 2002 US  University of Texas Invit |
-| 10 | Dana Christ | 2:00.12 | 20 | 02/24/2010 | 2010 PAC 10 Champs women |
+| 6 | Whitney Lopus ‡ | 1:58.46 | 19 | 02/24/2010 | 2010 PAC 10 Champs women |
+| 7 | Hannah Farrow | 1:58.66 | 19 | 02/29/2020 | 2020 PAC-12 Champs women |
+| 8 | Jenny Forster | 1:59.73 | 19 | 02/27/2008 | 2008 PAC-10 Champs women  |
+| 9 | Sam Getzen | 1:59.76 | 20 | 12/05/2015 | Texas Swimming & Diving Hall  |
+| 10 | Beth Botsford | 2:00.10 | 21 | 12/05/2002 | 2002 US  University of Texas Invit |
 
 ---
 
@@ -1436,9 +1436,10 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Kaci Kelaher | 1:02.38 | 16 | 01/29/2023 | 2023 AZ NEP 19th Annual Phil Levine |
-| 2 | Steph Sinn | 1:09.51 | 16 | 02/28/2009 | 2009 AZ Pusch Ridge 8&U/Senior  |
-| 3 | Gina McNair-Larese | 1:10.54 | 16 | 02/28/2009 | 2009 AZ Pusch Ridge 8&U/Senior  |
-| 4 | Sydnee Whetten | 1:10.83 | 15 | 02/15/2021 | 2021 AZ RIO Lost Dutchman Invite |
+| 2 | Avani Deshmukh ‡ | 1:06.20 | 15 | 01/13/2018 | 2018 OH OB Classic Finals |
+| 3 | Steph Sinn | 1:09.51 | 16 | 02/28/2009 | 2009 AZ Pusch Ridge 8&U/Senior  |
+| 4 | Gina McNair-Larese | 1:10.54 | 16 | 02/28/2009 | 2009 AZ Pusch Ridge 8&U/Senior  |
+| 5 | Sydnee Whetten | 1:10.83 | 15 | 02/15/2021 | 2021 AZ RIO Lost Dutchman Invite |
 
 ### 17-18
 
@@ -1475,12 +1476,12 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 2 | Teagan McGinnis | 2:33.14 | 10 | 02/13/2010 | 2010  AZ Lost Dutchman Invite |
 | 3 | Stephanie Flores | 2:37.10 | 10 | 03/07/2015 | 2015 AZ Short Course Age Grou |
 | 4 | Whitley Taylor | 2:39.21 | 10 | 12/07/2000 | 2000 US Top 16 |
-| 5 | Allie Even | 2:42.05 | 10 | 03/11/2018 | 2018 AZ SC Age Group at FAST |
-| 6 | Emily Sizemore | 2:42.55 | 10 | 03/13/2016 | 2016 AZ Short Course AG Championship |
-| 7 | Ruby Smith | 2:47.93 | 10 | 03/10/2019 | 2019 AZ SC Age Group State Champ |
-| 8 | Mandy Rothe | 2:48.18 | 9 | 12/07/2014 | 2014 AZ NEP Holiday Swim Festival |
-| 9 | Wren Smith | 2:48.88 | 10 | 12/02/2018 | 2018 AZ FAST Winter Lights |
-| 10 | Holly Flores | 2:49.41 | 10 | 03/11/2018 | 2018 AZ SC Age Group at FAST |
+| 5 | Ella Cosgrove ‡ | 2:39.90 | 10 | 12/03/2017 | 2017 AZ FAST Winter Lights |
+| 6 | Allie Even | 2:42.05 | 10 | 03/11/2018 | 2018 AZ SC Age Group at FAST |
+| 7 | Emily Sizemore | 2:42.55 | 10 | 03/13/2016 | 2016 AZ Short Course AG Championship |
+| 8 | Ruby Smith | 2:47.93 | 10 | 03/10/2019 | 2019 AZ SC Age Group State Champ |
+| 9 | Mandy Rothe | 2:48.18 | 9 | 12/07/2014 | 2014 AZ NEP Holiday Swim Festival |
+| 10 | Wren Smith | 2:48.88 | 10 | 12/02/2018 | 2018 AZ FAST Winter Lights |
 
 ### 11-12
 
@@ -1495,7 +1496,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Ella Cosgrove | 2:21.02 | 12 | 03/08/2020 | 2020 AZ SC Age Group State Cha |
 | 8 | Connie Lee | 2:23.60 | 12 | 12/06/2015 | 2015 AZ FAST Winter Lights 2015 |
 | 9 | Chloe Garcia | 2:24.15 | 12 | 12/05/2013 | 2013 AZ Holiday Festival 2013 |
-| 10 | Sarah Schou | 2:24.16 | 12 | 09/21/2013 | 2013 AZ Patriot Meet  |
+| 10 | Natalie Ward | 2:24.16 | 12 | 12/02/2010 | 2010 AZ Holiday Festival  |
 
 ### 13-14
 
@@ -1503,44 +1504,44 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Molly Houlton | 2:02.57 | 14 | 04/07/2003 | 2003 FL NCSA Junior National C |
 | 2 | Avery Spade | 2:06.55 | 13 | 03/25/2018 | 2018 Sectionals - Paradise Valley |
-| 3 | Sydney Even | 2:09.53 | 14 | 03/25/2018 | 2018 Sectionals - Paradise Valley |
-| 4 | Ellie Doran | 2:10.38 | 14 | 02/13/2004 | 2004 AZ Lost Dutchman Invit |
-| 5 | Lauren Baker | 2:10.52 | 14 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 6 | Eleora Bailey | 2:11.03 | 14 | 03/07/2013 | 2013 AZ Swimming SC AG State  |
-| 7 | Esther Sarok | 2:11.64 | 13 | 03/23/2025 | 2025 SN Southwestern Age Group Region... |
-| 8 | Tori Dabney | 2:12.13 | 13 | 03/29/2015 | 2015 ST TXLA Speedo Champs Western Re... |
-| 9 | Chloe Garcia | 2:12.39 | 14 | 03/29/2015 | 2015 ST TXLA Speedo Champs Western Re... |
-| 10 | Connie Lee | 2:12.51 | 14 | 11/18/2017 | 2017 NM CAQ 11th Annual High D |
+| 3 | Lauren Baker | 2:09.18 | 14 | 10/27/2006 | 2006 AZ 4A High School Champs |
+| 4 | Sydney Even | 2:09.53 | 14 | 03/25/2018 | 2018 Sectionals - Paradise Valley |
+| 5 | Reagan Edquid | 2:09.63 | 14 | 11/03/2023 | 2023 AZ AIA Division 3 |
+| 6 | Ellie Doran | 2:10.38 | 14 | 02/13/2004 | 2004 AZ Lost Dutchman Invit |
+| 7 | Eleora Bailey | 2:11.03 | 14 | 03/07/2013 | 2013 AZ Swimming SC AG State  |
+| 8 | Kathleen Mulligan | 2:11.05 | 14 | 11/06/2009 | 2009 AZ 5A Division I High School Champs |
+| 9 | Esther Sarok | 2:11.64 | 13 | 03/23/2025 | 2025 SN Southwestern Age Group Region... |
+| 10 | Taylor Alicea-Jorgensen | 2:11.72 | 14 | 11/04/2016 | 2016 AZ AIA HS Championship |
 
 ### 15-16
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Ellie Doran | 2:03.68 | 16 | 10/28/2005 | 2005 AZ 4A HS State |
-| 2 | Lauren Baker | 2:06.44 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 3 | Sara Borendame | 2:07.71 | 16 | 03/01/2012 | 2012 AZ Swimming Senior State |
-| 4 | Connie Lee | 2:07.89 | 15 | 11/10/2018 | 2018 AZ SAC Senior Open |
-| 5 | Kaci Kelaher | 2:08.06 | 16 | 03/26/2023 | 2023 ST Spring Speedo Sectionals |
-| 6 | Samantha Covello | 2:08.96 | 16 | 03/25/2018 | 2018 Sectionals - Paradise Valley |
-| 7 | Avery Spade | 2:09.06 | 16 | 12/06/2020 | 2020 AZ NEP Holiday Swim Festival |
-| 8 | Eleora Bailey | 2:09.28 | 15 | 02/27/2014 | 2014 AZ  SC Senior States |
-| 9 | Molly Houlton | 2:09.63 | 16 | 10/16/2004 | 2004 SI NCA/SAC Dual Meet |
-| 10 | Bonnie Diamond | 2:09.67 | 16 | 11/29/2012 | 2012 AZ Holiday Festival 2012 |
+| 1 | Jenny Forster | 2:01.15 | 16 | 01/15/2005 | 2005 OH High School Classic |
+| 2 | Ellie Doran | 2:03.68 | 16 | 10/28/2005 | 2005 AZ 4A HS State |
+| 3 | Lauren Baker | 2:06.44 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 4 | Sara Borendame | 2:07.71 | 16 | 03/01/2012 | 2012 AZ Swimming Senior State |
+| 5 | Connie Lee | 2:07.89 | 15 | 11/10/2018 | 2018 AZ SAC Senior Open |
+| 6 | Kaci Kelaher | 2:08.06 | 16 | 03/26/2023 | 2023 ST Spring Speedo Sectionals |
+| 7 | Samantha Covello | 2:08.96 | 16 | 03/25/2018 | 2018 Sectionals - Paradise Valley |
+| 8 | Kathleen Mulligan | 2:08.99 | 16 | 11/04/2011 | 2011 AZ High School State |
+| 9 | Avery Spade | 2:09.06 | 16 | 12/06/2020 | 2020 AZ NEP Holiday Swim Festival |
+| 10 | Eleora Bailey | 2:09.28 | 15 | 02/27/2014 | 2014 AZ  SC Senior States |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Ellie Jew | 2:03.29 | 18 | 02/27/2020 | 2020 PAC-12 Champs women |
-| 2 | Avery Spade | 2:06.26 | 17 | 03/27/2022 | 2022 AZ Spring Speedo Sectional |
-| 3 | Sara Borendame | 2:06.51 | 17 | 02/28/2013 | 2013 AZ SR State SC |
-| 4 | Molly Houlton | 2:06.97 | 17 | 01/13/2006 | 2006 CA 'Q' Meet |
-| 5 | Leighanne Oliver | 2:07.12 | 18 | 03/15/2011 | 2011 NCSA Jr Natl Time Trials |
-| 6 | Lauren Baker | 2:07.36 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
-| 7 | Samantha Covello | 2:07.67 | 17 | 03/23/2019 | 2019 NCSA Spring Championship |
-| 8 | Bonnie Diamond | 2:08.23 | 18 | 02/27/2014 | 2014 AZ  SC Senior States |
-| 9 | Mac Stump | 2:08.96 | 18 | 03/25/2018 | 2018 Sectionals - Paradise Valley |
-| 10 | Connie Lee | 2:09.00 | 18 | 03/07/2021 | 2021 AZ SC Senior Classic @ DTAC |
+| 1 | Ann Ochitwa ‡ | 1:56.73 | 18 | 12/03/2015 | Texas Swimming & Diving Hall  |
+| 2 | Mackenzie Rumrill ‡ | 1:58.21 | 18 | 12/03/2015 | Texas Swimming & Diving Hall  |
+| 3 | Jenny Forster ‡ | 1:59.93 | 18 | 11/30/2006 | 2006 ST Texas Invite |
+| 4 | Alyssa Anderson ‡ | 2:00.51 | 18 | 12/04/2008 | UT Invite |
+| 5 | Caitlin Iversen ‡ | 2:01.07 | 18 | 02/14/2007 | 2007 Pac-10 Champs women |
+| 6 | Andrea Boritzke | 2:01.39 | 17 | 11/12/2004 | 2004 WI High School State |
+| 7 | Karli Thuen ‡ | 2:01.82 | 18 | 12/03/2015 | Texas Swimming & Diving Hall  |
+| 8 | Aria Bernal ‡ | 2:02.56 | 18 | 11/29/2018 | Texas Hall of Fame Swimming In |
+| 9 | Cameron McHugh ‡ | 2:02.96 | 18 | 12/04/2014 | Texas Swimming & Diving Hall o |
+| 10 | Ellie Jew | 2:03.29 | 18 | 02/27/2020 | 2020 PAC-12 Champs women |
 
 ### Open
 
@@ -1599,31 +1600,31 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Lauren Baker | 4:22.01 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 2 | Ellie Doran | 4:23.33 | 15 | 03/09/2005 | 2005 PN Speedo Sectionals |
-| 3 | Molly Houlton | 4:28.92 | 16 | 10/16/2004 | 2004 SI NCA/SAC Dual Meet |
-| 4 | Sara Borendame | 4:29.88 | 16 | 03/20/2012 | 2012 NCSA Junior National Swim |
-| 5 | Sydney Even | 4:30.39 | 15 | 11/11/2018 | 2018 AZ SAC Senior Open |
-| 6 | Avery Spade | 4:30.56 | 15 | 02/29/2020 | 2020 AZ SC Senior Open Champs @ MAC |
-| 7 | Eleora Bailey | 4:36.47 | 16 | 03/27/2015 | 2015 ST TXLA Speedo Champs Western Re... |
-| 8 | Holland Nye | 4:37.19 | 15 | 02/15/2025 | 2025 AZ RIO 33rd Annual Lost Dutchman... |
-| 9 | Lindsey Russenberger | 4:39.20 | 16 | 03/12/2003 | 2003 PN USA Swimming Speedo Champions... |
-| 10 | Susana Helms | 4:40.46 | 16 | 12/01/2005 | 2005 AZ Holiday Fest |
+| 1 | Jenny Forster | 4:18.61 | 16 | 01/15/2005 | 2005 OH High School Classic |
+| 2 | Lauren Baker | 4:22.01 | 16 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 3 | Ellie Doran | 4:23.33 | 15 | 03/09/2005 | 2005 PN Speedo Sectionals |
+| 4 | Molly Houlton | 4:28.92 | 16 | 10/16/2004 | 2004 SI NCA/SAC Dual Meet |
+| 5 | Sara Borendame | 4:29.88 | 16 | 03/20/2012 | 2012 NCSA Junior National Swim |
+| 6 | Sydney Even | 4:30.39 | 15 | 11/11/2018 | 2018 AZ SAC Senior Open |
+| 7 | Avery Spade | 4:30.56 | 15 | 02/29/2020 | 2020 AZ SC Senior Open Champs @ MAC |
+| 8 | Eleora Bailey | 4:36.47 | 16 | 03/27/2015 | 2015 ST TXLA Speedo Champs Western Re... |
+| 9 | Holland Nye | 4:37.19 | 15 | 02/15/2025 | 2025 AZ RIO 33rd Annual Lost Dutchman... |
+| 10 | Lindsey Russenberger | 4:39.20 | 16 | 03/12/2003 | 2003 PN USA Swimming Speedo Champions... |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Lauren Baker | 4:23.94 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
-| 2 | Ellie Doran | 4:24.86 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 3 | Sara Borendame | 4:27.44 | 17 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 4 | Susana Helms | 4:27.58 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 5 | Laura Aronsson | 4:33.17 | 17 | 11/08/2003 | 2003 NJ SC Fall Festival |
-| 6 | Mac Stump | 4:34.44 | 18 | 03/23/2018 | 2018 Sectionals - Paradise Valley |
-| 7 | Anlise Chiamentti | 4:38.33 | 17 | 03/03/2011 | 2011 AZ Short Course Senior State |
-| 8 | Shayla Markle | 4:39.30 | 17 | 03/22/2019 | 2019 Sectionals - Paradise Valley |
-| 9 | Kyla Babson | 4:40.31 | 17 | 03/25/2022 | 2022 AZ Spring Speedo Sectional |
-| 10 | Emily Thompson | 4:44.51 | 17 | 02/28/2003 | 2003 AZ Short Course Sen |
+| 1 | Alyssa Anderson ‡ | 4:10.75 | 18 | 12/04/2008 | UT Invite |
+| 2 | Caitlin Iversen ‡ | 4:14.13 | 18 | 02/14/2007 | 2007 Pac-10 Champs women |
+| 3 | Jenny Forster ‡ | 4:16.41 | 18 | 02/14/2007 | 2007 Pac-10 Champs women |
+| 4 | Karli Thuen ‡ | 4:20.43 | 18 | 12/04/2015 | Texas Swimming & Diving Hall  |
+| 5 | Kathleen Mulligan ‡ | 4:21.29 | 18 | 02/20/2014 | 2014 Ivy League Champs women |
+| 6 | Lauren Baker | 4:23.94 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
+| 7 | Ellie Doran | 4:24.86 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 8 | Sara Borendame | 4:27.44 | 17 | 03/12/2013 | 2013 NCSA Junior Swim |
+| 9 | Susana Helms | 4:27.58 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 10 | Laura Aronsson | 4:33.17 | 17 | 11/08/2003 | 2003 NJ SC Fall Festival |
 
 ### Open
 
@@ -1631,16 +1632,16 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Jenny Forster | 4:07.20 | 20 | 12/04/2008 | UT Invite |
 | 2 | Caitlin Iversen | 4:10.64 | 20 | 12/04/2008 | UT Invite |
-| 3 | Whitney Burnett | 4:11.44 | 22 | 11/30/2006 | 2006 ST Texas Invite |
-| 4 | Hannah Cox | 4:11.94 | 21 | 12/06/2019 | Minnesota Invite 2019 |
+| 3 | Hannah Cox ‡ | 4:10.74 | 20 | 11/30/2018 | Texas Hall of Fame Swimming In |
+| 4 | Whitney Burnett | 4:11.44 | 22 | 11/30/2006 | 2006 ST Texas Invite |
 | 5 | Emily Mason-Milak | 4:12.10 | 22 | 02/23/2005 | 2005 PN Pac 10 Conference |
 | 6 | Alyssa Anderson | 4:12.24 | 20 | 01/28/2011 | UT vs. Arizona vs. SMU |
 | 7 | Molly Houlton | 4:12.43 | 14 | 04/07/2003 | 2003 FL NCSA Junior National C |
 | 8 | Sarah Tolar | 4:13.12 | 20 | 12/01/2000 | Ut Inv |
-| 9 | Shannyn Hultin | 4:16.40 | 20 | 12/05/2013 | 2013 UT Invite |
-| 10 | Kathryn Thompson | 4:17.68 | 20 | 11/29/2007 | UT Invite |
+| 9 | Tjasa Oder ‡ | 4:13.84 | 20 | 12/05/2014 | Texas Swimming & Diving Hall o |
+| 10 | Shannyn Hultin | 4:16.40 | 20 | 12/05/2013 | 2013 UT Invite |
 
 ---
 
-*Generated: October 06, 2025 at 04:35 PM*
+*Generated: October 06, 2025 at 04:41 PM*
 *International swim policy: During-Ford-Year*
