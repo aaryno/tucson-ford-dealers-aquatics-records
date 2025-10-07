@@ -20,18 +20,18 @@ Complete list of all 32 team records broken during the 2024-2025 season,
 listed in the order they were broken. Note that some of these records may have
 been broken multiple times during the season.
 
-### 1. 11/22/2024 - SCY Boys Open 200 Freestyle
-
-**Swimmer:** Tomas LUKMINAS ‡
-**Time:** 1:32.22
-**Meet:** Wolfpack Elite GAC Invitational
-**Type:** Probationary
-
-### 2. 11/23/2024 - SCY Boys 17-18 100 Individual Medley
+### 1. 11/23/2024 - SCY Boys 17-18 100 Individual Medley
 
 **Swimmer:** Keegan Kelly
 **Time:** 54.94
 **Meet:** House of Champions
+
+### 2. 01/18/2025 - SCY Boys Open 200 Butterfly
+
+**Swimmer:** Haakon Naughton ‡
+**Time:** 1:42.62
+**Meet:** Arizona v. Minnesota
+**Type:** Probationary
 
 ### 3. 03/06/2025 - SCY Boys 11-12 1650 Freestyle
 
@@ -246,8 +246,8 @@ the current team records as of the end of the season (not broken by a subsequent
 
 | Age Group | Event | Time | Athlete | Date | Meet |
 |-----------|-------|------|---------|------|------|
-| Open | 200 Freestyle | 1:32.22 | Tomas LUKMINAS ‡ | 11/22/2024 | Wolfpack Elite GAC Invitational |
 | 17-18 | 100 Individual Medley | 54.94 | Keegan Kelly | 11/23/2024 | House of Champions |
+| Open | 200 Butterfly | 1:42.62 | Haakon Naughton ‡ | 01/18/2025 | Arizona v. Minnesota |
 | 11-12 | 1650 Freestyle | 17:36.97 | Caden Castillo | 03/06/2025 | 2025 AZ SC Age Group State Championship @FAST |
 | 13-14 | 200 Medley Relay | 1:42.19 | Aleks Wolert, Max Cook, Michael Hess, Tyler Shao | 03/08/2025 | 2025 AZ SC Age Group State Championship @FAST |
 | 11-12 | 1000 Freestyle | 10:32.93 | Caden Castillo | 03/09/2025 | 2025 AZ SC Age Group State Championship @FAST |
@@ -286,8 +286,8 @@ the current team records as of the end of the season (not broken by a subsequent
 - Aleks Wolert, Max Cook, Michael Hess, Tyler Shao: 2 records
 - Mateo Valdivia, Sam McCarrell, Rudy Saffer, Caden Castillo: 2 records
 - Ethan Hoefferle: 2 records
-- Tomas LUKMINAS: 1 record
 - Keegan Kelly: 1 record
+- Haakon Naughton: 1 record
 - Sam McCarrell, Mateo Valdivia, Caden Castillo, Rudy Saffer: 1 record
 - Sam McCarrell, Mateo Valdivia, Rudy Saffer, Caden Castillo: 1 record
 - Mateo Valdivia: 1 record

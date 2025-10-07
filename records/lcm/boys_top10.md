@@ -97,8 +97,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Matt Grevers ◊ | 21.38 | nan | 2011-12-16 | Mutual of Omaha Duel in the Pool 2011 |
 | 2 | Roland Schoeman | 21.69 | 25.0 | 07/24/2005 | 2005 World Champs |
 | 3 | Bradley Tandy | 21.79 | 25.0 | 08/12/2016 | 2016 Olympic Games |
-| 4 | Masayuki Kishida | 22.11 | 24.0 | 03/01/2010 | Top Times (personal best) |
-| 5 | Simon Burnett | 22.12 | 22.0 | 08/04/2005 | 2005 British Commonwealth Gm Trls |
+| 4 | Masayuki Kishida | 22.11 | 24.0 | 04/15/2010 | 2010 JPN Invite |
+| 5 | Simon Burnett | 22.12 | 22.0 | 08/04/2005 | 2005 British Youth Nationals |
 | 6 | Lyndon Ferns | 22.22 | 24.0 | 04/01/2008 | 2008 RSA Olympic Trials |
 | 7 | Ryk Neethling | 22.26 | 30.0 | 04/01/2008 | 2008 RSA Olympic Trials |
 | 8 | Adam Small | 22.31 | 21.0 | 08/14/2011 | 2011 WUGS |
@@ -174,15 +174,15 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Aldan Johnston | 50.91 | 18 | 07/31/2019 | 2019 Summer Nationals |
-| 2 | Trey Cashion | 52.05 | 17 | 07/15/2014 | 2014 OR Speedo Western Section LC |
-| 3 | Chad Idensohn ‡ | 52.13 | 18 | 12/10/2014 | African Union Sports-Region 5 |
+| 2 | Parks Jones ‡ | 50.99 | 18 | 07/31/2015 | 2015 Summer Junior Nats |
+| 3 | Trey Cashion | 52.05 | 17 | 07/15/2014 | 2014 OR Speedo Western Section LC |
 | 4 | Adrian Kirkpatrick | 52.24 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
 | 5 | Matthew Barnard | 52.26 | 17 | 07/28/2004 | 2004 ST Speedo Summer Sectional  |
 | 6 | Kurt Denninghoff | 52.38 | 18 | 08/06/2007 | 2007 Summer Junior Nats |
 | 7 | Ben Aaberg | 52.44 | 18 | 08/06/2007 | 2007 Summer Junior Nats |
-| 8 | Brooks Fail | 52.50 | 18 | 07/30/2017 | 2017 AZ Senior LC Champs |
-| 9 | Cole Puchi | 52.52 | 17 | 07/20/2010 | 2010 OR Speedo Western Section LC |
-| 10 | Keegan Kelly | 52.55 | 17 | 08/01/2023 | 2023 Speedo Junior National Champions... |
+| 8 | Chad Idensohn | 52.45 | 18 | 06/05/2015 | 2015 AZ Southwest Classic |
+| 9 | Brooks Fail | 52.50 | 18 | 07/30/2017 | 2017 AZ Senior LC Champs |
+| 10 | Cole Puchi | 52.52 | 17 | 07/20/2010 | 2010 OR Speedo Western Section LC |
 
 ### Open
 
@@ -196,8 +196,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Ryk Neethling | 48.81 | 29.0 | 03/25/2007 | 2007 World Champs |
 | 7 | Darian Townsend ◊ | 48.87 | nan | 2011-12-01 | US Winter National Championships (50m) |
 | 8 | Tomas LUKMINAS | 48.96 | 20.0 | 05/01/2025 | 2025 TYR Pro Swim Series - Fort Laude... |
-| 9 | Albert Subirats | 49.17 | 20.0 | 03/25/2007 | 2007 World Champs |
-| 10 | Jorge Iga | 49.23 | 24.0 | 05/13/2021 | 2021 TYR Pro Swim Series - Ind |
+| 9 | Jorge Iga | 49.23 | 24.0 | 05/13/2021 | 2021 TYR Pro Swim Series - Ind |
+| 10 | Albert Subirats | 49.29 | 22.0 | 07/07/2009 | 2009 USAS National Champs TT |
 
 ---
 
@@ -267,31 +267,31 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Brooks Fail | 1:50.52 | 18 | 07/26/2018 | 2018 Summer Nationals |
-| 2 | Aldan Johnston | 1:51.30 | 18 | 08/01/2019 | 2019 Summer Nationals |
-| 3 | Grant Sanders | 1:52.06 | 18 | 06/27/2016 | 2016 Olympic Trials  |
-| 4 | Tyler Deberry | 1:53.13 | 18 | 03/19/2002 | 2002 Spring Nationals |
-| 5 | Alex Nikolaev | 1:54.26 | 17 | 08/04/2017 | 2017 Futures - Santa Clara |
-| 6 | Isaac Stump | 1:54.47 | 18 | 06/08/2018 | 2018 Pro Series - Santa Clara  |
-| 7 | Christian Imbus | 1:54.48 | 18 | 06/23/2018 | 2018 CA MVN Fran Crippen SMOC |
-| 8 | Chris Trimble | 1:54.48 | 17 | 08/01/2000 | 2000 US Speedo Jr. Champ |
-| 9 | Pete Stacy | 1:54.50 | 18 | 06/11/2009 | 2009 Pro Swim - Santa Clara |
-| 10 | Adrian Kirkpatrick | 1:54.70 | 18 | 08/06/2007 | 2007 Summer Junior Nats |
+| 1 | Parks Jones ‡ | 1:50.01 | 18 | 08/02/2015 | 2015 Summer Junior Nats |
+| 2 | Brooks Fail | 1:50.52 | 18 | 07/26/2018 | 2018 Summer Nationals |
+| 3 | Aldan Johnston | 1:51.30 | 18 | 08/01/2019 | 2019 Summer Nationals |
+| 4 | Grant Sanders | 1:52.06 | 18 | 06/27/2016 | 2016 Olympic Trials  |
+| 5 | Tyler Deberry | 1:53.13 | 18 | 03/19/2002 | 2002 Spring Nationals |
+| 6 | Alex Nikolaev | 1:54.26 | 17 | 08/04/2017 | 2017 Futures - Santa Clara |
+| 7 | Isaac Stump | 1:54.47 | 18 | 06/08/2018 | 2018 Pro Series - Santa Clara  |
+| 8 | Christian Imbus | 1:54.48 | 18 | 06/23/2018 | 2018 CA MVN Fran Crippen SMOC |
+| 9 | Chris Trimble | 1:54.48 | 17 | 08/01/2000 | 2000 US Speedo Jr. Champ |
+| 10 | Pete Stacy | 1:54.50 | 18 | 06/11/2009 | 2009 Pro Swim - Santa Clara |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Jean Basson | 1:45.67 | 21.0 | 07/26/2009 | 2009 World Champs  |
-| 2 | Simon Burnett | 1:46.59 | 22.0 | 08/04/2005 | 2005 British Commonwealth Gm Trls |
-| 3 | Adam Ritter | 1:47.42 | 22.0 | 08/09/2007 | 2007 WUGS |
+| 1 | Simon Burnett | 1:46.59 | 22.0 | 07/25/2002 | 2005 British Youth Nationals |
+| 2 | Adam Ritter | 1:47.42 | 22.0 | 08/09/2007 | 2007 WUGS |
+| 3 | Jean Basson | 1:47.43 | 22.0 | 08/18/2010 | 2010 Pan Pacific Champs |
 | 4 | Darian Townsend ◊ | 1:47.46 | nan | 2012-03-29 | Indianapolis Grand Prix 2012 |
 | 5 | Nicolas Nilo | 1:47.55 | 21.0 | 07/26/2009 | 2009 World Champs  |
 | 6 | Jorge Iga | 1:47.65 | 24.0 | 06/27/2021 | 2021 CA Dolfin Fran Crippen SMOC |
 | 7 | Tomas LUKMINAS | 1:47.81 | 20.0 | 05/02/2025 | 2025 TYR Pro Swim Series - Fort Laude... |
-| 8 | Bobby Hurley ‡ | 1:48.28 | 23.0 | 03/15/2012 | 2012 EnergyAustralia Swimming |
-| 9 | Matt Grevers | 1:48.41 | 22.0 | 03/06/2008 | 2008 ST All-American LC Champions |
-| 10 | Ugur Taner | 1:48.54 | 23.0 | 01/12/1998 | 1998 World Championship |
+| 8 | Matt Grevers | 1:48.41 | 22.0 | 03/06/2008 | 2008 ST All-American LC Champions |
+| 9 | Ugur Taner | 1:48.54 | 23.0 | 01/12/1998 | 1998 World Championship |
+| 10 | Bobby Hurley | 1:49.21 | 24.0 | 05/30/2013 | 2013 Pro Series - Santa Clara  |
 
 ---
 
@@ -376,16 +376,16 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Jean Basson | 3:46.64 | 21.0 | 07/26/2009 | 2009 World Champs  |
-| 2 | Bobby Hurley ‡ | 3:48.60 | 23.0 | 03/15/2012 | 2012 EnergyAustralia Swimming |
-| 3 | Brooks Fail | 3:50.72 | 20.0 | 08/03/2019 | 2019 Summer Nationals |
+| 1 | Bobby Hurley ‡ | 3:48.60 | 23.0 | 03/15/2012 | 2012 EnergyAustralia Swimming |
+| 2 | Brooks Fail | 3:50.72 | 20.0 | 08/03/2019 | 2019 Summer Nationals |
+| 3 | Jean Basson | 3:51.38 | 22.0 | 08/18/2010 | 2010 Pan Pacific Champs |
 | 4 | Chris Wieser | 3:51.83 | 20.0 | 06/26/2016 | 2016 Olympic Trials  |
-| 5 | Daniel Namir | 3:53.24 | 21.0 | 07/31/2019 | 2019 Israel Summer Champs |
-| 6 | Ugur Taner | 3:53.65 | 24.0 | 08/11/1998 | 1998 US Summer Nationals |
-| 7 | Isaac Stump | 3:54.45 | 19.0 | 07/28/2018 | 2018 Summer Nationals |
-| 8 | Ricky Maestri ‡ | 3:54.76 | 20.0 | 12/19/2014 | Italian Winter Championhips |
-| 9 | Nick Hogsed | 3:55.12 | 20.0 | 06/26/2016 | 2016 Olympic Trials  |
-| 10 | Ty Fowler | 3:55.19 | 20.0 | 08/06/2015 | 2015 Summer Nationals |
+| 5 | Ugur Taner | 3:53.65 | 24.0 | 08/11/1998 | 1998 US Summer Nationals |
+| 6 | Isaac Stump | 3:54.45 | 19.0 | 07/28/2018 | 2018 Summer Nationals |
+| 7 | Ricky Maestri ‡ | 3:54.76 | 20.0 | 12/19/2014 | Italian Winter Championhips |
+| 8 | Nick Hogsed | 3:55.12 | 20.0 | 06/26/2016 | 2016 Olympic Trials  |
+| 9 | Ty Fowler | 3:55.19 | 20.0 | 08/06/2015 | 2015 Summer Nationals |
+| 10 | Tyler Deberry | 3:55.20 | 22.0 | 08/01/2006 | 2006 Summer Nationals |
 
 ---
 
@@ -545,13 +545,13 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Chris Wieser | 15:09.70 | 20 | 07/03/2016 | 2016 Olympic Trials  |
 | 2 | Ty Fowler | 15:24.70 | 20 | 08/09/2015 | 2015 Summer Nationals |
 | 3 | Brooks Fail | 15:28.36 | 18 | 07/25/2018 | 2018 Summer Nationals |
-| 4 | Scott Pekarske | 15:33.86 | 18 | 08/06/2019 | 2019 Summer Junior Nats |
-| 5 | Christian Imbus | 15:35.03 | 20 | 07/11/2019 | 2019 CA  Los Angeles Invite |
-| 6 | Aidan Reagan | 15:35.35 | 16 | 08/06/2019 | 2019 Summer Junior Nats |
-| 7 | Mason Nyboer | 15:38.59 | 24 | 07/11/2025 | 2025 CA Los Angeles Invite |
-| 8 | Matt Biel | 15:41.20 | 21 | 06/29/2008 | 2008 Olympic Trials |
-| 9 | Nick Hogsed | 15:41.44 | 19 | 12/06/2015 | Texas Swimming & Diving Hall o |
-| 10 | Tyler Deberry | 15:42.57 | 19 | 08/05/2003 | 2003 Summer Nationals |
+| 4 | Bobby Hurley ‡ | 15:30.49 | 23 | 03/15/2012 | 2012 EnergyAustralia Swimming |
+| 5 | Scott Pekarske | 15:33.86 | 18 | 08/06/2019 | 2019 Summer Junior Nats |
+| 6 | Christian Imbus | 15:35.03 | 20 | 07/11/2019 | 2019 CA  Los Angeles Invite |
+| 7 | Aidan Reagan | 15:35.35 | 16 | 08/06/2019 | 2019 Summer Junior Nats |
+| 8 | Mason Nyboer | 15:38.59 | 24 | 07/11/2025 | 2025 CA Los Angeles Invite |
+| 9 | Matt Biel | 15:41.20 | 21 | 06/29/2008 | 2008 Olympic Trials |
+| 10 | Nick Hogsed | 15:41.44 | 19 | 12/06/2015 | Texas Swimming & Diving Hall o |
 
 ---
 
@@ -640,7 +640,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 2 | Nick Thoman | 25.12 | 29.0 | 08/08/2015 | 2015 U.S. Nats Time Trials |
 | 3 | Bryce Bohman | 25.57 | 24.0 | 08/06/2014 | 2014 Summer Nationals |
 | 4 | Bobby Hurley | 25.58 | 24.0 | 04/26/2013 | 2013 EnergyAustralia Swimming |
-| 5 | Darian Townsend ◊ | 26.05 | nan | 2011-11-16 | 2011 MI CW Pro Meet |
+| 5 | Darian Townsend | 26.05 | 27.0 | 11/16/2011 | 2011 MI CW Pro Meet |
 | 6 | Jack Anderson ‡ | 26.23 | 21.0 | 06/20/2019 | 2019  Aon NZ Open Championship |
 | 7 | Will Meyers | 26.39 | 20.0 | 06/05/2025 | 2025 Toyota National Championships |
 | 8 | Michael Sheppard | 26.43 | 21.0 | 06/25/2013 | 2013 Summer Nationals |
@@ -738,8 +738,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Bryan O'Connor | 55.27 | 20.0 | 07/07/2009 | 2009 Summer Nationals |
 | 7 | Bryce Bohman | 55.40 | 24.0 | 08/06/2014 | 2014 Summer Nationals Time Trials |
 | 8 | Gerhard Zandberg | 55.48 | 22.0 | 08/03/2005 | 2005 Summer Nationals |
-| 9 | Jake Tapp ‡ | 55.54 | 20.0 | 08/09/2008 | 2008 Olympic Games |
-| 10 | Chatham Dobbs | 55.67 | 19.0 | 06/27/2016 | 2016 Olympic Trials  |
+| 9 | Chatham Dobbs | 55.67 | 19.0 | 06/27/2016 | 2016 Olympic Trials  |
+| 10 | Ryan Hardy | 55.80 | 20.0 | 06/06/2025 | 2025 Toyota National Championships |
 
 ---
 
@@ -1012,8 +1012,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 4 | Clark Burckle | 1:00.81 | 24.0 | 06/25/2012 | 2012 Olympic Trials |
 | 5 | Gage Crosby | 1:01.07 | 20.0 | 08/06/2015 | 2015 Summer Nationals |
 | 6 | Adam Ritter | 1:01.36 | 27.0 | 06/25/2012 | 2012 Olympic Trials |
-| 7 | Sam Iida | 1:01.75 | 20.0 | 06/23/2019 | 2019 CA MVN SMOC |
-| 8 | Bart Steninger | 1:01.75 | 23.0 | 07/07/2009 | 2009 Summer Nationals |
+| 7 | Bart Steninger | 1:01.75 | 23.0 | 07/07/2009 | 2009 Summer Nationals |
+| 8 | Sam Iida | 1:01.75 | 20.0 | 06/23/2019 | 2019 CA MVN SMOC |
 | 9 | Kevin Steel | 1:01.80 | 21.0 | 06/25/2013 | 2013 Summer Nationals |
 | 10 | Blair Bish | 1:01.81 | 19.0 | 07/14/2016 | 2016 CA  Los Angeles Invite |
 
@@ -1188,10 +1188,10 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Roland Schoeman | 22.96 | 25.0 | 07/25/2005 | 2005 World Champs |
-| 2 | Matt Grevers | 23.29 | 28.0 | 07/28/2013 | 2013 World Champs |
+| 2 | Matt Grevers ◊ | 23.35 | nan | 2013-07-28 | 15th FINA World Championships 2013 |
 | 3 | Chatham Dobbs | 23.38 | 21.0 | 07/26/2018 | 2018 Summer Nationals |
 | 4 | Masayuki Kishida | 23.46 | 29.0 | 08/07/2015 | 2015 U.S. Nats Time Trials |
-| 5 | Albert Subirats | 23.57 | 20.0 | 03/25/2007 | 2007 World Champs |
+| 5 | Albert Subirats | 23.78 | 25.0 | 03/12/2012 | South American Swimming Championships... |
 | 6 | Haakon Naughton | 23.78 | 21.0 | 06/04/2025 | 2025 Toyota National Championships |
 | 7 | Giles Smith | 23.96 | 21.0 | 06/25/2013 | 2013 Summer Nationals |
 | 8 | Lyndon Ferns | 23.99 | 23.0 | 03/25/2007 | 2007 World Champs |
@@ -1266,28 +1266,28 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Brooks Taner | 54.59 | 18 | 03/08/2020 | 2020 PN Men's Pac-12 LC TT |
-| 2 | Barrett Miesfeld | 55.42 | 18 | 04/29/2010 | 2010 Irish Long Course Championship |
-| 3 | Aldan Johnston | 55.96 | 18 | 07/14/2019 | 2019 CA  Los Angeles Invite |
-| 4 | Grant Sanders | 56.11 | 18 | 06/03/2016 | 2016 FL CAT Escape The Heat |
-| 5 | Reed Patterson | 56.16 | 18 | 07/16/2013 | 2013 OR Speedo Western Section LC |
-| 6 | Drake Barberii | 56.23 | 18 | 11/22/2019 | Art Adamson Invitational |
-| 7 | Juan Veloz ‡ | 56.64 | 18 | 06/28/2001 | 2001 US Santa Clara Xxxi |
-| 8 | Brooks Fail | 56.67 | 18 | 07/28/2017 | 2017 AZ Senior LC Champs |
-| 9 | Jason Alentado | 56.68 | 18 | 04/11/2013 | 2013 Pro Series - Mesa |
-| 10 | Pete Stacy | 57.19 | 18 | 06/04/2009 | 2009 AZ Southwest Classic Sr. Invite |
+| 1 | Barrett Miesfeld | 55.42 | 18 | 04/29/2010 | 2010 Irish Long Course Championship |
+| 2 | Aldan Johnston | 55.96 | 18 | 07/14/2019 | 2019 CA  Los Angeles Invite |
+| 3 | Grant Sanders | 56.11 | 18 | 06/03/2016 | 2016 FL CAT Escape The Heat |
+| 4 | Reed Patterson | 56.16 | 18 | 07/16/2013 | 2013 OR Speedo Western Section LC |
+| 5 | Drake Barberii | 56.23 | 18 | 11/22/2019 | Art Adamson Invitational |
+| 6 | Brooks Fail | 56.67 | 18 | 07/28/2017 | 2017 AZ Senior LC Champs |
+| 7 | Jason Alentado | 56.68 | 18 | 04/11/2013 | 2013 Pro Series - Mesa |
+| 8 | Pete Stacy | 57.19 | 18 | 06/04/2009 | 2009 AZ Southwest Classic Sr. Invite |
+| 9 | Tyler Kybartas | 57.30 | 18 | 08/04/2008 | 2008 Summer Junior Nats  |
+| 10 | Carl Mickelson ‡ | 57.42 | 18 | 08/10/2009 | 2009 Summer Junior Nats |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Matt Grevers ◊ | 50.54 | nan | 2011-12-16 | Mutual of Omaha Duel in the Pool 2011 |
-| 2 | Albert Subirats | 51.81 | 20.0 | 03/25/2007 | 2007 World Champs |
-| 3 | Masayuki Kishida | 51.83 | 22.0 | 03/15/2008 | 2008 Olympic Invite |
-| 4 | Lyndon Ferns | 51.90 | 23.0 | 03/25/2007 | 2007 World Champs |
+| 2 | Lyndon Ferns | 51.90 | 23.0 | 03/25/2007 | 2007 World Champs |
+| 3 | Albert Subirats | 51.93 | 22.0 | 07/07/2009 | 2009 Summer Nationals |
+| 4 | Masayuki Kishida | 51.98 | 24.0 | 04/15/2010 | 2010 JPN Invite |
 | 5 | Justin Wright | 52.51 | 23.0 | 12/06/2019 | 2019 U.S. Open |
 | 6 | Giles Smith | 52.72 | 21.0 | 06/25/2013 | 2013 Summer Nationals |
-| 7 | Darian Townsend ◊ | 53.00 | nan | 2011-04-11 | SA National and Youth Open Championships |
+| 7 | Darian Townsend | 53.00 | 26.0 | 04/11/2011 | SA National and Youth Open Championships |
 | 8 | Haakon Naughton | 53.01 | 21.0 | 06/05/2025 | 2025 Toyota National Championships |
 | 9 | Simon Burnett | 53.04 | 28.0 | 06/14/2011 | British Gas ASA National Championships |
 | 10 | Roland Schoeman | 53.08 | 25.0 | 08/03/2005 | 2005 Summer Nationals |
@@ -1349,16 +1349,16 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Juan Veloz ‡ | 2:01.78 | 18 | 06/28/2001 | 2001 US Santa Clara Xxxi |
-| 2 | Brooks Fail | 2:02.36 | 18 | 06/09/2018 | 2018 Pro Series - Santa Clara  |
-| 3 | Jason Alentado | 2:03.81 | 17 | 08/13/2012 | 2012 Summer Junior Nats |
-| 4 | Barrett Miesfeld | 2:05.98 | 18 | 08/03/2010 | 2010 Summer Nationals |
-| 5 | Scott Pekarske | 2:06.21 | 18 | 08/06/2019 | 2019 Summer Junior Nats |
-| 6 | Tyler Kybartas | 2:06.64 | 18 | 08/04/2008 | 2008 Summer Junior Nats  |
-| 7 | Grant Sanders | 2:07.50 | 18 | 05/29/2016 | 2016 FL T2 Aquatics Norris Founda |
-| 8 | Phil Mercier | 2:07.64 | 17 | 08/01/2000 | 2000 US Speedo Jr. Champ |
-| 9 | Andrea Longo | 2:07.84 | 17 | 06/10/2017 | 2017 AZ Oro Valley Jon Borendame Invite |
-| 10 | Miles Smyczek | 2:08.55 | 18 | 07/17/2025 | 2025 OR SPEEDO SECTIONALS - MT HOOD |
+| 1 | Brooks Fail | 2:02.36 | 18 | 06/09/2018 | 2018 Pro Series - Santa Clara  |
+| 2 | Jason Alentado | 2:03.81 | 17 | 08/13/2012 | 2012 Summer Junior Nats |
+| 3 | Barrett Miesfeld | 2:05.98 | 18 | 08/03/2010 | 2010 Summer Nationals |
+| 4 | Scott Pekarske | 2:06.21 | 18 | 08/06/2019 | 2019 Summer Junior Nats |
+| 5 | Tyler Kybartas | 2:06.64 | 18 | 08/04/2008 | 2008 Summer Junior Nats  |
+| 6 | Grant Sanders | 2:07.50 | 18 | 05/29/2016 | 2016 FL T2 Aquatics Norris Founda |
+| 7 | Phil Mercier | 2:07.64 | 17 | 08/01/2000 | 2000 US Speedo Jr. Champ |
+| 8 | Andrea Longo | 2:07.84 | 17 | 06/10/2017 | 2017 AZ Oro Valley Jon Borendame Invite |
+| 9 | Miles Smyczek | 2:08.55 | 18 | 07/17/2025 | 2025 OR SPEEDO SECTIONALS - MT HOOD |
+| 10 | Bobby Koubratoff | 2:10.06 | 18 | 07/15/2008 | 2008 OR Speedo Western Section LC |
 
 ### Open
 
@@ -1371,9 +1371,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Juan Veloz | 1:57.83 | 24 | 03/25/2007 | 2007 World Champs |
 | 6 | Michael Meyer | 1:58.33 | 21 | 08/21/2014 | 2014 Pan Pacific Champs |
 | 7 | Aj Tipton | 1:58.83 | 20 | 08/03/2010 | 2010 Summer Nationals |
-| 8 | Etay Gurevich | 1:59.54 | 23 | 08/01/2019 | 2019 Israel Summer Champs |
-| 9 | Nick Thorne | 1:59.92 | 21 | 07/14/2017 | 2017 CA  Los Angeles Invite  |
-| 10 | Haakon Naughton | 2:00.56 | 21 | 06/03/2025 | 2025 Toyota National Championships |
+| 8 | Nick Thorne | 1:59.92 | 21 | 07/14/2017 | 2017 CA  Los Angeles Invite  |
+| 9 | Haakon Naughton | 2:00.56 | 21 | 06/03/2025 | 2025 Toyota National Championships |
+| 10 | Jordan Slaughter | 2:00.93 | 20 | 07/07/2009 | 2009 Summer Nationals |
 
 ---
 
@@ -1465,9 +1465,9 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Nick Thorne | 2:01.61 | 20 | 06/30/2016 | 2016 Olympic Trials  |
 | 6 | Michael Meyer | 2:01.78 | 21 | 08/21/2014 | 2014 Pan Pacific Champs |
 | 7 | Bryan O'Connor | 2:01.82 | 21 | 08/04/2009 | 2009 U. S. Open |
-| 8 | Etay Gurevich | 2:01.91 | 23 | 08/02/2019 | 2019 Israel Summer Champs |
-| 9 | Adam Ritter | 2:02.27 | 23 | 06/29/2008 | 2008 Olympic Trials |
-| 10 | Austen Thompson | 2:02.40 | 20 | 08/02/2011 | 2011 Summer Nationals |
+| 8 | Adam Ritter | 2:02.27 | 23 | 06/29/2008 | 2008 Olympic Trials |
+| 9 | Austen Thompson | 2:02.40 | 20 | 08/02/2011 | 2011 Summer Nationals |
+| 10 | Andrew Porter | 2:02.55 | 20 | 08/06/2014 | 2014 Summer Nationals |
 
 ---
 
@@ -1554,5 +1554,5 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 ---
 
-*Generated: October 06, 2025 at 04:41 PM*
+*Generated: October 06, 2025 at 05:42 PM*
 *International swim policy: During-Ford-Year*

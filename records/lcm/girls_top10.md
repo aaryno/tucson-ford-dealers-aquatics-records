@@ -81,14 +81,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Paige Kremer | 25.67 | 18 | 04/01/2015 | 2015 Canadian Swimming Trials |
 | 2 | Lacey Nymeyer | 25.73 | 18 | 07/07/2004 | 2004 Olympic Trials |
-| 3 | Ann Ochitwa ‡ | 25.96 | 18 | 12/06/2015 | Texas Swimming & Diving Hall o |
-| 4 | Emma Munsch | 26.31 | 18 | 06/29/2008 | 2008 Olympic Trials |
-| 5 | Krista Duffield | 26.33 | 17 | 07/19/2014 | 2014 Speedo Western Section LC |
-| 6 | Maggie McCord | 26.37 | 18 | 03/20/2012 | 2012 NCSA Junior National Swim |
-| 7 | Ryann Hackett | 26.56 | 18 | 07/10/2003 | 2003 CA JANET EVANS INV 0703 |
-| 8 | Hannah Houlton | 26.57 | 18 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
-| 9 | Taylor Schick | 26.67 | 18 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
-| 10 | Taylor Garcia | 26.9 | 18 | 04/15/2016 | 2016 Pro Series - Mesa |
+| 3 | Emma Munsch | 26.31 | 18 | 06/29/2008 | 2008 Olympic Trials |
+| 4 | Krista Duffield | 26.33 | 17 | 07/15/2014 | 2014 OR Speedo Western Section LC |
+| 5 | Maggie McCord | 26.37 | 18 | 03/20/2012 | 2012 NCSA Junior National Swim |
+| 6 | Ryann Hackett | 26.56 | 18 | 07/10/2003 | 2003 CA JANET EVANS INV 0703 |
+| 7 | Hannah Houlton | 26.57 | 18 | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
+| 8 | Taylor Schick | 26.67 | 18 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
+| 9 | Kristen Covello | 26.97 | 18 | 08/05/2017 | 2017 Futures - Santa Clara |
+| 10 | Mackenzie Rumrill ‡ | 27.04 | 18 | 07/11/2015 | 2015 CA  Los Angeles Invite |
 
 ### Open
 
@@ -177,12 +177,12 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 2 | Paige Kremer | 56.52 | 18 | 04/01/2015 | 2015 Canadian Swimming Trials |
 | 3 | Sarah Tolar | 56.77 | 18 | 08/22/1999 | Pan Pacs |
 | 4 | Lindsey Farella ‡ | 56.81 | 18 | 01/17/1998 | 1998 US Wc |
-| 5 | Ann Ochitwa | 56.90 | 18 | 03/20/2016 | 2016 GT Women's LC Collegiate |
-| 6 | Emma Munsch | 57.18 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
-| 7 | Sarah Bennett | 57.27 | 18 | 04/29/2010 | 2010 Irish Long Course Championship |
-| 8 | Casslyn Treydte | 57.38 | 18 | 03/01/2020 | 2020 PN AP Women's Pac-12 LC TT |
-| 9 | Ryann Hackett | 57.71 | 18 | 07/10/2003 | 2003 CA JANET EVANS INV 0703 |
-| 10 | Krista Duffield | 57.83 | 17 | 07/16/2014 | 2014 Speedo Western Section LC |
+| 5 | Emma Munsch | 57.18 | 17 | 08/07/2006 | 2006 Summer Junior Nats |
+| 6 | Sarah Bennett | 57.27 | 18 | 04/29/2010 | 2010 Irish Long Course Championship |
+| 7 | Ryann Hackett | 57.71 | 18 | 07/10/2003 | 2003 CA JANET EVANS INV 0703 |
+| 8 | Krista Duffield | 57.83 | 17 | 07/16/2014 | 2014 Speedo Western Section LC |
+| 9 | Taylor Schick | 57.94 | 18 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
+| 10 | Hannah Houlton | 58.00 | 18 | 07/28/2019 | 2019 AZ LC Senior Open @ FORD |
 
 ### Open
 
@@ -190,14 +190,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Margo Geer | 53.95 | 23 | 07/10/2015 | 2015 CA  Los Angeles Invite |
 | 2 | Lacey Nymeyer | 54.02 | 22 | 06/29/2008 | 2008 Olympic Trials |
-| 3 | Katrina Konopka | 55.34 | 19 | 06/30/2016 | 2016 Olympic Trials  |
-| 4 | Whitney Burnett | 55.34 | 21 | 08/17/2006 | 2006 Pan Pacific Champs |
+| 3 | Whitney Burnett | 55.34 | 21 | 08/17/2006 | 2006 Pan Pacific Champs |
+| 4 | Katrina Konopka | 55.34 | 19 | 06/30/2016 | 2016 Olympic Trials  |
 | 5 | Christine Magnuson | 55.41 | 26 | 03/09/2012 | 2012 Pro Swim - Columbus |
 | 6 | Kaitlyn Flederbach | 55.48 | 19 | 08/02/2011 | 2011 Summer Nationals |
 | 7 | Justine Schluntz | 55.52 | 22 | 07/07/2009 | 2009 Summer Nationals |
-| 8 | Taylor Schick | 55.67 | 21 | 03/20/2016 | 2016 GT Women's LC Collegiate |
-| 9 | Courtney Kuehl | 55.79 | 20 | 08/01/2006 | 2006 Summer Nationals |
-| 10 | Leone Vorster | 55.97 | 20 | 07/29/2008 | 2008 U. S. Open |
+| 8 | Courtney Kuehl | 55.79 | 20 | 08/01/2006 | 2006 Summer Nationals |
+| 9 | Leone Vorster | 55.97 | 20 | 07/29/2008 | 2008 U. S. Open |
+| 10 | Taylor Schick | 56.0 | 21 | 04/16/2016 | 2016 Pro Series - Mesa |
 
 ---
 
@@ -739,11 +739,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Ann Ochitwa | 1:01.25 | 19 | 06/27/2016 | 2016 Olympic Trials  |
 | 4 | Taylor Garcia | 1:01.32 | 19 | 06/27/2016 | 2016 Olympic Trials  |
 | 5 | Bonnie Brandon | 1:01.55 | 21 | 08/07/2015 | 2015 Summer Nationals |
-| 6 | Aria Bernal | 1:01.70 | 19 | 03/01/2020 | 2020 PN AP Women's Pac-12 LC TT |
-| 7 | Whitney Burnett | 1:01.81 | 24 | 08/04/2009 | 2009 U. S. Open |
-| 8 | Lauren Smart | 1:01.92 | 21 | 08/02/2011 | 2011 Summer Nationals |
-| 9 | Sarah Bennett | 1:02.02 | 19 | 08/02/2011 | 2011 Summer Nationals |
-| 10 | Katrina Konopka | 1:02.09 | 19 | 06/27/2016 | 2016 Olympic Trials  |
+| 6 | Whitney Burnett | 1:01.81 | 24 | 08/04/2009 | 2009 U. S. Open |
+| 7 | Lauren Smart | 1:01.92 | 21 | 08/02/2011 | 2011 Summer Nationals |
+| 8 | Sarah Bennett | 1:02.02 | 19 | 08/02/2011 | 2011 Summer Nationals |
+| 9 | Katrina Konopka | 1:02.09 | 19 | 06/27/2016 | 2016 Olympic Trials  |
+| 10 | Jenny Forster | 1:02.11 | 21 | 08/04/2009 | 2009 U. S. Open |
 
 ---
 
@@ -811,7 +811,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Skylar Dikeman | 2:14.53 | 17 | 08/07/2019 | 2019 Summer Junior Nats |
 | 2 | Caitlin Iversen | 2:16.71 | 18 | 07/12/2007 | 2007 CA Janet Evans Inv |
 | 3 | Sarah Bennett | 2:17.18 | 18 | 04/29/2010 | 2010 Irish Long Course Championship |
-| 4 | Taylor Garcia | 2:19.25 | 18 | 03/20/2016 | 2016 GT Women's LC Collegiate |
+| 4 | Taylor Garcia | 2:19.68 | 18 | 04/16/2016 | 2016 Pro Series - Mesa |
 | 5 | Taylor Schick | 2:20.53 | 18 | 06/06/2013 | 2013 AZ Southwest Classic Invitational |
 | 6 | Molly Houlton | 2:20.87 | 17 | 03/28/2006 | 2006 Spring Nationals |
 | 7 | Alyssa Anderson | 2:23.11 | 18 | 06/04/2009 | 2009 AZ Southwest Classic Sr. Invite |
@@ -922,8 +922,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Amanda Beard ◊ | 31.94 | nan | 2011-05-12 | NC Charlotte UltraSwim 2011 |
 | 4 | Ellyn Baumgardner | 32.01 | 22.0 | 06/25/2013 | 2013 Summer Nationals |
 | 5 | Emma Simonson | 32.30 | 21.0 | 05/22/2015 | 2015 AZ Cactus Classic |
-| 6 | Eve Sarris | 32.54 | 23.0 | 06/25/2013 | 2013 Summer Nationals |
-| 7 | Mallory Korenwinder | 32.54 | 21.0 | 06/22/2019 | 2019 CA MVN SMOC |
+| 6 | Mallory Korenwinder | 32.54 | 21.0 | 06/22/2019 | 2019 CA MVN SMOC |
+| 7 | Eve Sarris | 32.54 | 23.0 | 06/25/2013 | 2013 Summer Nationals |
 | 8 | Greta Leberfinger ‡ | 32.81 | 22.0 | 12/03/2015 | 2015 Winter Nats Time Trials  |
 | 9 | Sara Borendame | 33.15 | 18.0 | 06/20/2014 | 2014 AZ FAST Oro Valley Open Jon Bore... |
 | 10 | Alexandra Martelle | 33.36 | 21.0 | 06/29/2017 | 2017 Summer Nationals |
@@ -1195,7 +1195,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Christine Magnuson | 26.08 | 27 | 06/25/2013 | 2013 Summer Nationals |
+| 1 | Christine Magnuson ‡ | 26.06 | 23 | 07/26/2009 | 2009 World Champs  |
 | 2 | Ann Ochitwa | 26.49 | 20 | 06/28/2017 | 2017 Summer Nationals |
 | 3 | Paige Kremer | 26.92 | 18 | 04/01/2015 | 2015 Canadian Swimming Trials |
 | 4 | Ana Agy | 27.42 | 21 | 07/09/2009 | 2009 AZ Long Course Senior State |
@@ -1290,8 +1290,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Christine Magnuson | 57.32 | 24 | 08/03/2010 | 2010 Summer Nationals |
-| 2 | Whitney Burnett | 59.13 | 23 | 06/29/2008 | 2008 Olympic Trials |
-| 3 | Junko Onishi | 59.13 | 25 | 09/16/2000 | 2000 Olympic Games |
+| 2 | Junko Onishi | 59.13 | 25 | 09/16/2000 | 2000 Olympic Games |
+| 3 | Whitney Burnett | 59.13 | 23 | 06/29/2008 | 2008 Olympic Trials |
 | 4 | Erin Campbell | 59.54 | 22 | 08/03/2010 | 2010 Summer Nationals |
 | 5 | Whitney Lopus | 59.95 | 20 | 08/03/2010 | 2010 Summer Nationals |
 | 6 | Dana Christ | 59.97 | 19 | 08/04/2009 | 2009 U. S. Open |
@@ -1476,8 +1476,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 6 | Andrea Boritzke | 2:16.51 | 20 | 06/29/2008 | 2008 Olympic Trials |
 | 7 | Annie Chandler | 2:16.79 | 20 | 07/29/2008 | 2008 U. S. Open |
 | 8 | Alyssa Anderson | 2:17.76 | 19 | 07/08/2010 | 2010 CA LOS ANGELES GRAND PRIX |
-| 9 | Shannyn Hultin | 2:18.27 | 20 | 07/03/2013 | Swedish Championships |
-| 10 | Kathryn Thompson | 2:18.39 | 21 | 06/29/2008 | 2008 Olympic Trials |
+| 9 | Kathryn Thompson | 2:18.39 | 21 | 06/29/2008 | 2008 Olympic Trials |
+| 10 | Cameron McHugh | 2:18.73 | 21 | 07/15/2017 | 2017 CA  Los Angeles Invite  |
 
 ---
 
@@ -1561,11 +1561,11 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 5 | Emily Mason-Milak | 4:49.47 | 21 | 07/07/2004 | 2004 Olympic Trials |
 | 6 | Amanda Beard | 4:49.72 | 22 | 06/10/2004 | 2004 CA Janet Evans Invitational |
 | 7 | Kathryn Thompson | 4:51.07 | 21 | 06/29/2008 | 2008 Olympic Trials |
-| 8 | Shannyn Hultin | 4:51.14 | 20 | 07/03/2013 | Swedish Championships |
-| 9 | Hannah Cox | 4:51.59 | 20 | 07/27/2018 | 2018 Summer Nationals |
-| 10 | Carley Beaudreau | 4:54.05 | 20 | 07/09/2009 | 2009 AZ Long Course Senior State |
+| 8 | Hannah Cox | 4:51.59 | 20 | 07/27/2018 | 2018 Summer Nationals |
+| 9 | Carley Beaudreau | 4:54.05 | 20 | 07/09/2009 | 2009 AZ Long Course Senior State |
+| 10 | Jenna Bauer | 4:54.74 | 21 | 07/14/2017 | 2017 CA  Los Angeles Invite  |
 
 ---
 
-*Generated: October 06, 2025 at 04:41 PM*
+*Generated: October 06, 2025 at 05:42 PM*
 *International swim policy: During-Ford-Year*

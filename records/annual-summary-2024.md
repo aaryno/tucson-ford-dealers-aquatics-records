@@ -2,7 +2,7 @@
 ## 2023-2024 Season Records Summary
 
 **Generated:** October 06, 2025
-**Season:** September 1, 2023 - August 31, 2024
+**Season:** September 1, 2024 - August 31, 2025
 **Total Records Broken:** 4
 
 ---

@@ -154,7 +154,7 @@
 | 13-14 | 29.39 | Krista Duffield | 07/21/2011 | 2011 AZ Long Course Age Group Sta |
 | 15-16 | 28.4 | Krista Duffield | 07/12/2012 | 2012 AZ LC Senior State Champions |
 | 17-18 | 26.92 | Paige Kremer | 04/01/2015 | 2015 Canadian Swimming Trials |
-| Open | 26.08 | Christine Magnuson | 06/25/2013 | 2013 Summer Nationals |
+| Open | 26.06 | Christine Magnuson ‡ | 07/26/2009 | 2009 World Champs  |
 
 ### 100 Butterfly
 
@@ -202,5 +202,5 @@
 
 ---
 
-*Generated: October 06, 2025 at 04:41 PM*
+*Generated: October 06, 2025 at 05:42 PM*
 *International swim policy: During-Ford-Year*

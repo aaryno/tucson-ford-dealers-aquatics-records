@@ -82,28 +82,28 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Herbie Behm | 19.84 | 17 | 10/31/2008 | 2008 AZ 4A High School Champs |
 | 2 | Adam Small | 20.22 | 17 | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
 | 3 | Chatham Dobbs ‡ | 20.28 | 18 | 02/13/2015 | 2015 SE-OB TN HS Champs |
-| 4 | Brooks Taner | 20.38 | 18 | 03/05/2020 | 2020 PAC-12 Champs  men |
-| 5 | Nick Hadinger | 20.41 | 18 | 12/04/2008 | UT Invite |
-| 6 | Nick Popov | 20.63 | 18 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 7 | Barrett Miesfeld | 20.65 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
-| 8 | Nick Vonderahe | 20.72 | 18 | 12/09/2023 | 2023 Speedo Winter Junior Championshi... |
-| 9 | Joel Greenshields ‡ | 20.79 | 18 | 02/21/2007 | 2007 PAC-10 Champs men |
-| 10 | Miles Bottai | 20.84 | 18 | 12/09/2021 | 2021 West Speedo Winter Junior |
+| 4 | Nick Popov | 20.63 | 18 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 5 | Barrett Miesfeld | 20.65 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
+| 6 | Nick Vonderahe | 20.72 | 18 | 12/09/2023 | 2023 Speedo Winter Junior Championshi... |
+| 7 | Miles Bottai | 20.84 | 18 | 12/09/2021 | 2021 West Speedo Winter Junior |
+| 8 | Trey Cashion | 20.84 | 17 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
+| 9 | Devin Price | 20.93 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 10 | Kurt Denninghoff | 20.99 | 17 | 10/27/2006 | 2006 AZ 4A High School Champs |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Matt Grevers | 18.88 | 27 | 11/29/2012 | 2012 Winter Nationals |
+| 1 | Matt Grevers | 18.95 | 23 | 12/04/2008 | 2008 Winter Nationals |
 | 2 | Bradley Tandy ‡ | 19.04 | 23 | 12/04/2014 | Texas Swimming & Diving Hall o |
-| 3 | Roland Schoeman | 19.17 | 27 | 11/29/2007 | UT Invite |
-| 4 | Masayuki Kishida | 19.21 | 23 | 12/04/2008 | 2008 Winter Nationals |
-| 5 | Lyndon Ferns | 19.22 | 20 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
-| 6 | Simon Burnett | 19.28 | 22 | 12/01/2005 | 2005 ST Texas Invite |
-| 7 | Adam Small | 19.32 | 21 | 12/02/2010 | 2010 UT Invite |
-| 8 | Tomas LUKMINAS ‡ | 19.36 | 20 | 02/26/2025 | 2025 Big 12 Conference Championships |
-| 9 | Marin Ercegovic | 19.41 | 20 | 03/05/2020 | 2020 PAC-12 Champs  men |
-| 10 | Renny Richmond | 19.51 | 21 | 03/03/2016 | 2016 PAC12 Champs Men |
+| 3 | Masayuki Kishida | 19.21 | 23 | 12/04/2008 | 2008 Winter Nationals |
+| 4 | Lyndon Ferns | 19.22 | 20 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
+| 5 | Roland Schoeman | 19.39 | 25 | 03/02/2006 | 2006 ST American SC Champs |
+| 6 | Simon Burnett | 19.42 | 27 | 12/02/2010 | 2010 Winter Nationals |
+| 7 | Adam Small | 19.58 | 23 | 11/29/2012 | 2012 AT&T Winter National Time |
+| 8 | Coley Stickels | 19.74 | 23 | 03/07/2001 | 2001 US Speedo Champions |
+| 9 | Andrew Porter | 19.74 | 22 | 12/04/2015 | 2015 AZ Holiday Swim Festival |
+| 10 | Albert Subirats | 19.94 | 22 | 03/05/2009 | 2009 Pro Swim - Austin  |
 
 ---
 
@@ -173,31 +173,31 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Joel Greenshields ‡ | 44.16 | 18 | 02/21/2007 | 2007 PAC-10 Champs men |
-| 2 | Byron Jeffers | 44.40 | 18 | 03/07/2002 | 2002 Pac-10 Champs |
-| 3 | Herbie Behm | 44.68 | 17 | 10/31/2008 | 2008 AZ 4A High School Champs |
-| 4 | Nick Hadinger | 44.97 | 18 | 12/04/2008 | UT Invite |
-| 5 | Trey Cashion | 45.12 | 17 | 12/12/2013 | 2013 Winter Junior Nats |
-| 6 | Miles Bottai | 45.32 | 18 | 12/11/2021 | 2021 West Speedo Winter Junior |
-| 7 | Adam Small | 45.32 | 17 | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
-| 8 | Keegan Kelly | 45.43 | 17 | 03/23/2023 | 2023 ST Spring Speedo Sectionals |
-| 9 | Matthew Barnard | 45.43 | 17 | 10/29/2004 | 2004 AZ 4A HS Champs |
-| 10 | Nick Vonderahe | 45.44 | 18 | 12/09/2023 | 2023 Speedo Winter Junior Championshi... |
+| 1 | Herbie Behm | 44.68 | 17 | 10/31/2008 | 2008 AZ 4A High School Champs |
+| 2 | Trey Cashion | 45.12 | 17 | 12/12/2013 | 2013 Winter Junior Nats |
+| 3 | Adam Small | 45.32 | 17 | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
+| 4 | Miles Bottai | 45.32 | 18 | 12/11/2021 | 2021 West Speedo Winter Junior |
+| 5 | Keegan Kelly | 45.43 | 17 | 03/23/2023 | 2023 ST Spring Speedo Sectionals |
+| 6 | Matthew Barnard | 45.43 | 17 | 10/29/2004 | 2004 AZ 4A HS Champs |
+| 7 | Nick Vonderahe | 45.44 | 18 | 12/09/2023 | 2023 Speedo Winter Junior Championshi... |
+| 8 | Adrian Kirkpatrick | 45.72 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 9 | Nick Popov | 45.83 | 18 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 10 | Cole Puchi | 45.92 | 17 | 11/04/2010 | 2010 AZ High School Swimming Champ |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Matt Grevers | 41.35 | 25 | 12/02/2010 | 2010 Winter Nationals |
-| 2 | Tomas LUKMINAS ‡ | 41.56 | 20 | 03/01/2025 | 2025 Big 12 Conference Championships |
-| 3 | Roland Schoeman | 41.91 | 27 | 11/29/2007 | UT Invite |
-| 4 | Marin Ercegovic | 42.31 | 20 | 03/07/2020 | 2020 PAC-12 Champs  men |
-| 5 | Lyndon Ferns | 42.4 | 20 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
-| 6 | Albert Subirats | 42.52 | 20 | 11/30/2006 | 2006 ST Texas Invite |
-| 7 | Simon Burnett | 42.63 | 27 | 11/12/2010 | 2010 MN Grand Prix |
-| 8 | Darian Townsend | 42.68 | 24 | 03/19/2009 | 2009 AZ Short Course Senior St |
-| 9 | Renny Richmond | 42.78 | 21 | 03/05/2016 | 2016 PAC12 Champs Men |
-| 10 | Noah Reid | 42.94 | 22 | 03/07/2020 | 2020 PAC-12 Champs  men |
+| 2 | Lyndon Ferns | 42.4 | 20 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
+| 3 | Roland Schoeman | 42.47 | 25 | 03/02/2006 | 2006 ST American SC Champs |
+| 4 | Simon Burnett | 42.63 | 27 | 11/12/2010 | 2010 MN Grand Prix |
+| 5 | Darian Townsend | 42.68 | 24 | 03/19/2009 | 2009 AZ Short Course Senior St |
+| 6 | Bradley Tandy ‡ | 43.06 | 23 | 12/06/2014 | Texas Swimming & Diving Hall o |
+| 7 | Luis Rojas | 43.17 | 24 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
+| 8 | Adam Ritter | 43.27 | 24 | 01/16/2009 | 2009 CA SO CAL GRAND PRIX OF S |
+| 9 | Masayuki Kishida | 43.33 | 23 | 12/04/2008 | 2008 Winter Nationals |
+| 10 | Coley Stickels | 43.69 | 21 | 12/04/1999 | Ut Invite 1999 |
 
 ---
 
@@ -227,8 +227,8 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 3 | Colin Cosgrove ‡ | 1:59.97 | 12 | 11/19/2017 | 2017 NM CAQ 11th Annual High D |
 | 4 | Trey Cashion | 2:03.16 | 12 | 03/19/2009 | 2009 AZ Swimming SC Age Group |
 | 5 | Sam McCarrell | 2:04.17 | 12 | 03/21/2025 | 2025 SN Southwestern Age Group Region... |
-| 6 | Michael Hess | 2:04.45 | 12 | 02/18/2023 | 2023 AZ RIO 31st Annual Lost Dutchman |
-| 7 | Sam Stott ‡ | 2:04.45 | 12 | 09/24/2017 | 2017 AZ FAST Patriot Meet |
+| 6 | Sam Stott ‡ | 2:04.45 | 12 | 09/24/2017 | 2017 AZ FAST Patriot Meet |
+| 7 | Michael Hess | 2:04.45 | 12 | 02/18/2023 | 2023 AZ RIO 31st Annual Lost Dutchman |
 | 8 | Jackson Dubreuil | 2:05.94 | 12 | 03/11/2016 | 2016 AZ Short Course AG Championship |
 | 9 | Braden Hess | 2:06.09 | 12 | 11/12/2016 | 2016 AZ DTAC TYR Fall League Finale |
 | 10 | Nathan Covello | 2:07.02 | 12 | 03/04/2010 | 2010 AZ Short Course Age Champ |
@@ -270,28 +270,28 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Brooks Fail | 1:36.69 | 17 | 03/17/2017 | 2017 Sectionals - Lewisville |
 | 2 | Parks Jones | 1:37.11 | 17 | 02/28/2014 | 2014 OBS IN Boys High School State Ch |
 | 3 | Matt Barber | 1:37.30 | 18 | 02/26/2010 | 2010 ST UIL 5A High School State  |
-| 4 | Joel Greenshields ‡ | 1:37.47 | 18 | 02/21/2007 | 2007 PAC-10 Champs men |
-| 5 | Byron Jeffers | 1:38.21 | 18 | 03/07/2002 | 2002 Pac-10 Champs |
-| 6 | Tyler Deberry | 1:38.26 | 17 | 11/02/2001 | 2001 US 5a High School S |
-| 7 | Keegan Kelly | 1:38.42 | 17 | 03/24/2023 | 2023 ST Spring Speedo Sectionals |
-| 8 | Brian Stevens | 1:38.88 | 17 | 11/04/2010 | 2010 AZ High School Swimming Champ |
-| 9 | Riley Babson | 1:39.21 | 18 | 12/07/2019 | PRINCETON SWIMMING BIG AL OPEN |
-| 10 | Adrian Kirkpatrick | 1:39.52 | 18 | 10/27/2006 | 2006 AZ 4A High School Champs |
+| 4 | Tyler Deberry | 1:38.26 | 17 | 11/02/2001 | 2001 US Az. High School |
+| 5 | Keegan Kelly | 1:38.42 | 17 | 03/24/2023 | 2023 ST Spring Speedo Sectionals |
+| 6 | Brian Stevens | 1:38.88 | 17 | 11/04/2010 | 2010 AZ High School Swimming Champ |
+| 7 | Adrian Kirkpatrick | 1:39.52 | 18 | 10/27/2006 | 2006 AZ 4A High School Champs |
+| 8 | Chris Webb | 1:39.60 | 17 | 11/04/2011 | 2011 AZ High School State |
+| 9 | Trey Cashion | 1:39.75 | 17 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
+| 10 | Kurt Denninghoff | 1:39.81 | 17 | 10/27/2006 | 2006 AZ 4A High School Champs |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Tomas LUKMINAS ‡ | 1:32.22 | 20 | 11/22/2024 | Wolfpack Elite GAC Invitational |
-| 2 | Simon Burnett ‡ | 1:32.22 | 21 | 12/02/2004 | 2004 ST UT Invite |
-| 3 | Adam Ritter | 1:33.23 | 22 | 11/29/2007 | UT Invite |
-| 4 | Matt Grevers | 1:33.44 | 22 | 01/18/2008 | 2008 Pro Swim SoCal |
-| 5 | Darian Townsend | 1:33.48 | 24 | 03/19/2009 | 2009 AZ Short Course Senior St |
-| 6 | Jorge Iga ‡ | 1:33.73 | 22 | 12/08/2019 | Short Course Time Trials |
-| 7 | Daniel Namir | 1:33.96 | 22 | 03/06/2020 | 2020 PAC-12 Champs  men |
-| 8 | Brooks Fail | 1:34.28 | 20 | 12/06/2019 | Minnesota Invite 2019 |
-| 9 | Bobby Hurley | 1:34.65 | 24 | 02/28/2013 | 2013 AZ SR State SC |
-| 10 | Jean Basson | 1:34.66 | 22 | 12/03/2009 | UT Invite |
+| 1 | Matt Grevers | 1:33.44 | 22 | 01/18/2008 | 2008 Pro Swim SoCal |
+| 2 | Darian Townsend | 1:33.48 | 24 | 03/19/2009 | 2009 AZ Short Course Senior St |
+| 3 | Simon Burnett | 1:34.41 | 28 | 12/15/2011 | 2011 OK Elite Meet  |
+| 4 | Adam Ritter | 1:34.48 | 23 | 12/04/2008 | 2008 Winter Nationals |
+| 5 | Bobby Hurley | 1:34.65 | 24 | 02/28/2013 | 2013 AZ SR State SC |
+| 6 | Jean Basson | 1:35.35 | 23 | 12/02/2010 | 2010 Winter Nationals |
+| 7 | Parks Jones ‡ | 1:35.91 | 19 | 12/04/2015 | Texas Swimming & Diving Hall  |
+| 8 | Lyndon Ferns | 1:36.18 | 20 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
+| 9 | Brooks Fail | 1:36.69 | 17 | 03/17/2017 | 2017 Sectionals - Lewisville |
+| 10 | Jack Brown | 1:37.54 | 23 | 12/02/2010 | 2010 Winter Nationals |
 
 ---
 
@@ -361,31 +361,31 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Brooks Fail | 4:14.82 | 18 | 03/03/2018 | 2018 PAC12 Champs men TT |
-| 2 | Matt Barber | 4:22.08 | 18 | 02/26/2010 | 2010 ST UIL 5A High School State  |
-| 3 | Riley Babson | 4:22.55 | 18 | 12/06/2019 | PRINCETON SWIMMING BIG AL OPEN |
-| 4 | Parks Jones | 4:27.17 | 17 | 02/28/2014 | 2014 OBS IN Boys High School State Ch |
-| 5 | Alex Nikolaev | 4:27.61 | 18 | 02/15/2018 | 2018 MPSF Champs |
-| 6 | Austen Thompson | 4:28.24 | 17 | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
-| 7 | Tyler Deberry | 4:28.24 | 18 | 03/08/2002 | 2002 US Senior Short Cou |
+| 1 | Matt Barber | 4:22.08 | 18 | 02/26/2010 | 2010 ST UIL 5A High School State  |
+| 2 | Nick Hogsed ‡ | 4:25.62 | 18 | 12/04/2014 | Texas Swimming & Diving Hall o |
+| 3 | Brooks Fail ‡ | 4:26.10 | 17 | 12/08/2016 | 2016 Winter Junior Nats - West |
+| 4 | Grant Sanders ‡ | 4:26.67 | 18 | 12/03/2015 | Texas Swimming & Diving Hall  |
+| 5 | Parks Jones | 4:27.17 | 17 | 02/28/2014 | 2014 OBS IN Boys High School State Ch |
+| 6 | Tyler Deberry | 4:28.24 | 18 | 03/08/2002 | 2002 US Az. Senior Champ |
+| 7 | Austen Thompson | 4:28.24 | 17 | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
 | 8 | Chris Webb | 4:28.40 | 17 | 11/04/2011 | 2011 AZ High School State |
-| 9 | Chris Trimble | 4:29.06 | 18 | 03/07/2001 | 2001 US Speedo Champions |
+| 9 | Chris Trimble | 4:29.06 | 18 | 03/15/2001 | 2001 US Az Short Course |
 | 10 | Scott Pekarske | 4:29.25 | 17 | 03/20/2019 | 2019 NCSA Spring Championship |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Brooks Fail | 4:11.29 | 21 | 03/01/2021 | 2021 MEN'S PAC12 SWIMMING/DIVI |
-| 2 | Jean Basson | 4:15.22 | 22 | 12/03/2009 | UT Invite |
-| 3 | Isaac Stump ‡ | 4:17.84 | 19 | 11/29/2018 | Texas Hall of Fame Swimming In |
-| 4 | Adam Ritter | 4:17.85 | 22 | 11/29/2007 | UT Invite |
-| 5 | Nick Hogsed | 4:18.45 | 19 | 03/03/2016 | 2016 PAC12 Champs Men |
-| 6 | Ty Fowler | 4:19.62 | 20 | 03/03/2016 | 2016 PAC12 Champs Men |
-| 7 | Daniel Namir | 4:19.89 | 22 | 03/05/2020 | 2020 PAC-12 Champs  men |
-| 8 | Tyler Deberry | 4:20.06 | 21 | 12/01/2005 | 2005 ST Texas Invite |
-| 9 | Riley Babson | 4:22.55 | 18 | 12/06/2019 | PRINCETON SWIMMING BIG AL OPEN |
-| 10 | Matt Biel | 4:22.88 | 21 | 03/05/2008 | 2008 PAC-10 Champs men  |
+| 1 | Jean Basson | 4:17.95 | 23 | 12/02/2010 | 2010 Winter Nationals |
+| 2 | Riley Babson ‡ | 4:21.85 | 21 | 02/23/2023 | 2023 Summit League Championships |
+| 3 | Brooks Fail | 4:22.94 | 20 | 02/01/2020 | Arizona vs Texas |
+| 4 | Beck Parnham | 4:23.31 | 21 | 03/07/2025 | 2025 NT Southern Zones Speedo Spring ... |
+| 5 | Bobby Koubratoff | 4:24.16 | 20 | 03/03/2010 | 2010 PAC 10 Champs men |
+| 6 | Parks Jones ‡ | 4:24.94 | 19 | 12/03/2015 | Texas Swimming & Diving Hall  |
+| 7 | Aidan Reagan | 4:26.65 | 16 | 03/20/2019 | 2019 NCSA Spring Championship |
+| 8 | Tyler Deberry | 4:28.24 | 18 | 03/08/2002 | 2002 US Az. Senior Champ |
+| 9 | Scott Pekarske | 4:28.41 | 16 | 03/24/2018 | 2018 Sectionals - Paradise Valley |
+| 10 | Alex Nikolaev | 4:28.46 | 19 | 02/21/2019 | 2019 MPSF Champs |
 
 ---
 
@@ -450,28 +450,28 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 1 | Brooks Fail | 9:01.94 | 17 | 03/16/2017 | 2017 Sectionals - Lewisville |
 | 2 | Tyler Deberry | 9:13.41 | 18 | 01/18/2002 | Martin Inkmann S |
 | 3 | Chris Trimble | 9:17.56 | 18 | 03/07/2001 | 2001 US Speedo Champions |
-| 4 | Nick Hogsed ‡ | 9:18.99 | 18 | 01/02/2015 | UA vs MIZZ vs NAU vs NMS vs OS |
+| 4 | Nick Hogsed ‡ | 9:18.25 | 18 | 11/15/2014 | 2014 CA OB USC- ARIZONA UNV.- |
 | 5 | Scott Pekarske | 9:19.52 | 18 | 10/26/2019 | 2019 GT vs FSU |
-| 6 | Alex Nikolaev | 9:19.59 | 18 | 02/14/2018 | 2018 MPSF Champs |
-| 7 | Riley Babson | 9:23.30 | 17 | 03/21/2019 | 2019 Sectionals - Paradise Valley |
-| 8 | Bobby Koubratoff | 9:30.43 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 9 | Aidan Reagan | 9:31.44 | 17 | 02/27/2020 | 2020 AZ SC Senior Open Champs @ MAC |
-| 10 | Ty Fowler ‡ | 9:33.57 | 18 | 10/25/2013 | Arizona VS. UNLV |
+| 6 | Riley Babson | 9:23.30 | 17 | 03/21/2019 | 2019 Sectionals - Paradise Valley |
+| 7 | Bobby Koubratoff | 9:30.43 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 8 | Aidan Reagan | 9:31.44 | 17 | 02/27/2020 | 2020 AZ SC Senior Open Champs @ MAC |
+| 9 | Keith Brazzell | 9:34.02 | 18 | 03/25/2015 | 2015 ST TXLA Speedo Champs Western Re... |
+| 10 | Aj Tipton ‡ | 9:34.90 | 18 | 11/14/2008 | 2008 OB USC-Arizona-Arizona St |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Brooks Fail | 8:54.12 | 20 | 12/07/2019 | Minnesota Invite 2019 |
-| 2 | Ty Fowler | 9:02.00 | 20 | 02/06/2016 | ASU vs ARIZ |
-| 3 | Nick Hogsed | 9:09.93 | 19 | 02/06/2016 | ASU vs ARIZ |
-| 4 | Matt Biel | 9:10.98 | 21 | 02/16/2008 | ASU vs Arizona |
-| 5 | Tyler Deberry | 9:13.54 | 22 | 01/21/2006 | 2006 PC CAL vs ASU |
-| 6 | Chris Wieser | 9:14.03 | 20 | 11/13/2016 | 2016 College Challenge |
-| 7 | Aaron Taske | 9:14.12 | 21 | 12/18/2019 | DSU Christmas Invite 2019 |
-| 8 | Christian Imbus | 9:14.96 | 20 | 12/07/2019 | Minnesota Invite 2019 |
-| 9 | Aidan Reagan | 9:19.04 | 15 | 03/13/2018 | 2018 NCSA Spring Championship |
-| 10 | Jerad Kaskawal | 9:19.47 | 21 | 02/03/2018 | ASU vs Arizona |
+| 1 | Brooks Fail | 9:01.94 | 17 | 03/16/2017 | 2017 Sectionals - Lewisville |
+| 2 | Aidan Reagan | 9:19.04 | 15 | 03/13/2018 | 2018 NCSA Spring Championship |
+| 3 | Scott Pekarske | 9:19.52 | 18 | 10/26/2019 | 2019 GT vs FSU |
+| 4 | Riley Babson | 9:19.73 | 16 | 03/22/2018 | 2018 Sectionals - Paradise Valley |
+| 5 | Matt Aldrich ‡ | 9:21.88 | 20 | 02/28/2002 | 2002 US Men's Eisl |
+| 6 | Alex Nikolaev | 9:22.20 | 19 | 02/23/2019 | 2019 MPSF Champs |
+| 7 | Bobby Koubratoff | 9:30.43 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 8 | Juan Veloz | 9:30.69 | 23 | 03/08/2006 | 2006 AZ Speedo Sectionals |
+| 9 | Christian Imbus | 9:31.93 | 20 | 02/08/2020 | Arizona State vs. Arizona |
+| 10 | Keith Brazzell | 9:34.02 | 18 | 03/25/2015 | 2015 ST TXLA Speedo Champs Western Re... |
 
 ---
 
@@ -531,30 +531,30 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Brooks Fail | 14:59.01 | 18 | 12/02/2017 | Texas Hall of Fame Swimming In |
-| 2 | Ty Fowler ‡ | 15:10.18 | 18 | 12/05/2013 | 2013 UT Invite |
-| 3 | Riley Babson | 15:21.73 | 18 | 12/08/2019 | PRINCETON SWIMMING BIG AL OPEN |
-| 4 | Nick Hogsed ‡ | 15:22.60 | 18 | 12/06/2014 | Texas Swimming & Diving Hall o |
-| 5 | Alex Nikolaev | 15:23.06 | 18 | 02/17/2018 | 2018 MPSF Champs |
-| 6 | Tyler Deberry | 15:29.15 | 17 | 03/07/2001 | 2001 US Speedo Champions |
-| 7 | Christian Imbus ‡ | 15:31.45 | 18 | 12/02/2017 | Texas Hall of Fame Swimming In |
-| 8 | Scott Pekarske | 15:39.71 | 17 | 03/23/2019 | 2019 NCSA Spring Championship |
-| 9 | Brent Zang | 15:46.29 | 18 | 03/19/2017 | 2017 Sectionals - Lewisville |
-| 10 | Chris Trimble | 15:52.04 | 18 | 03/07/2001 | 2001 US Speedo Champions |
+| 2 | Nick Hogsed ‡ | 15:22.60 | 18 | 12/06/2014 | Texas Swimming & Diving Hall o |
+| 3 | Alex Nikolaev | 15:23.06 | 18 | 02/17/2018 | 2018 MPSF Champs |
+| 4 | Tyler Deberry | 15:29.15 | 17 | 03/15/2001 | 2001 US Az Short Course |
+| 5 | Scott Pekarske | 15:39.71 | 17 | 03/23/2019 | 2019 NCSA Spring Championship |
+| 6 | Brent Zang | 15:46.29 | 18 | 03/19/2017 | 2017 Sectionals - Lewisville |
+| 7 | Chris Trimble | 15:52.04 | 18 | 03/07/2001 | 2001 US Speedo Champions |
+| 8 | Bobby Koubratoff | 15:55.20 | 17 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 9 | Riley Babson | 16:06.36 | 18 | 10/25/2019 | Arizona vs Hawaii vs Denver |
+| 10 | Christopher Zeches | 16:07.70 | 18 | 03/12/2003 | 2003 PN USA Swimming Speedo Champions... |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Brooks Fail | 14:37.60 | 20 | 12/07/2019 | Minnesota Invite 2019 |
-| 2 | Ty Fowler | 14:49.44 | 20 | 03/05/2016 | 2016 PAC12 Champs Men |
-| 3 | Jean Basson | 14:50.32 | 22 | 12/03/2009 | UT Invite |
-| 4 | Nick Hogsed | 15:00.51 | 19 | 03/05/2016 | 2016 PAC12 Champs Men |
-| 5 | Christian Imbus | 15:05.33 | 20 | 03/07/2020 | 2020 PAC-12 Champs  men |
-| 6 | Jerad Kaskawal | 15:08.08 | 21 | 12/02/2017 | Texas Hall of Fame Swimming In |
-| 7 | Tyler Deberry | 15:10.56 | 19 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
-| 8 | Bobby Koubratoff | 15:19.59 | 19 | 03/04/2009 | 2009 PAC 10 Champs men |
-| 9 | Riley Babson | 15:21.73 | 18 | 12/08/2019 | PRINCETON SWIMMING BIG AL OPEN |
-| 10 | Aidan Reagan | 15:22.92 | 16 | 03/23/2019 | 2019 NCSA Spring Championship |
+| 1 | Brooks Fail | 15:03.57 | 17 | 03/19/2017 | 2017 Sectionals - Lewisville |
+| 2 | Tyler Deberry | 15:10.56 | 19 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
+| 3 | Riley Babson ‡ | 15:19.15 | 21 | 02/25/2023 | 2023 Summit League Championships |
+| 4 | Aidan Reagan | 15:22.92 | 16 | 03/23/2019 | 2019 NCSA Spring Championship |
+| 5 | Scott Pekarske | 15:26.87 | 16 | 03/25/2018 | 2018 Sectionals - Paradise Valley |
+| 6 | Alex Nikolaev | 15:28.08 | 19 | 02/23/2019 | 2019 MPSF Champs |
+| 7 | Christopher Zeches | 15:40.06 | 20 | 02/16/2005 | 2005 MR Big East Champs |
+| 8 | Parks Jones ‡ | 15:44.60 | 19 | 12/05/2015 | Texas Swimming & Diving Hall  |
+| 9 | Bobby Koubratoff | 15:45.31 | 20 | 03/03/2010 | 2010 PAC 10 Champs men |
+| 10 | Brent Zang | 15:46.29 | 18 | 03/19/2017 | 2017 Sectionals - Lewisville |
 
 ---
 
@@ -625,30 +625,30 @@ Top 10 swimmers (best time per swimmer) across all years.
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Adam Small | 23.05 | 17 | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
-| 2 | Bryan O'Connor | 23.15 | 18 | 02/21/2007 | 2007 PAC-10 Champs men |
-| 3 | Matt Lujan ‡ | 24.13 | 17 | 12/07/2014 | 2014 AZ NEP Holiday Swim Festival |
-| 4 | Ben Aaberg | 24.44 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 5 | Barrett Miesfeld | 24.47 | 17 | 02/13/2010 | 2010  AZ Lost Dutchman Invite |
-| 6 | Devin Price | 24.5 | 17 | 10/31/2008 | 2008 AZ 4A High School Champs |
-| 7 | Nick Hadinger | 24.5 | 17 | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
-| 8 | Hunter Thompson | 24.51 | 18 | 11/04/2011 | 2011 AZ High School State |
-| 9 | Tyler Kybartas | 24.56 | 18 | 03/13/2008 | 2008 AZ Senior Short Course State |
-| 10 | Alex Leighton | 24.7 | 17 | 11/04/2010 | 2010 AZ High School Swimming Champ |
+| 2 | Matt Lujan ‡ | 24.13 | 17 | 12/07/2014 | 2014 AZ NEP Holiday Swim Festival |
+| 3 | Ben Aaberg | 24.44 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 4 | Barrett Miesfeld | 24.47 | 17 | 02/13/2010 | 2010  AZ Lost Dutchman Invite |
+| 5 | Devin Price | 24.5 | 17 | 10/31/2008 | 2008 AZ 4A High School Champs |
+| 6 | Nick Hadinger | 24.5 | 17 | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
+| 7 | Hunter Thompson | 24.51 | 18 | 11/04/2011 | 2011 AZ High School State |
+| 8 | Tyler Kybartas | 24.56 | 18 | 03/13/2008 | 2008 AZ Senior Short Course State |
+| 9 | Alex Leighton | 24.7 | 17 | 11/04/2010 | 2010 AZ High School Swimming Champ |
+| 10 | Zach Byars | 24.9 | 17 | 01/29/2022 | 2022 SE Shelby County High School Champs |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Albert Subirats | 22.12 | 20 | 02/21/2007 | 2007 PAC-10 Champs men |
-| 2 | Matt Grevers | 22.73 | 26 | 11/18/2011 | 2011 WI OSHY Approved Champion |
-| 3 | Trey Cashion | 23.12 | 16 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 4 | Nick Thoman | 23.91 | 19 | 12/01/2005 | 2005 AZ Holiday Fest |
-| 5 | Matt Lujan | 24.21 | 15 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 6 | Ben Aaberg | 24.44 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 7 | Barrett Miesfeld | 24.47 | 17 | 02/13/2010 | 2010  AZ Lost Dutchman Invite |
-| 8 | Tyler Kybartas | 24.56 | 18 | 03/13/2008 | 2008 AZ Senior Short Course State |
-| 9 | Denton Taylor | 24.85 | 23 | 12/06/2007 | 2007 AZ Holiday Fest |
-| 10 | Simon Lam | 24.88 | 16 | 03/17/2018 | 2018 NCSA Spring Championship |
+| 1 | Matt Grevers | 22.73 | 26 | 11/18/2011 | 2011 WI OSHY Approved Champion |
+| 2 | Trey Cashion | 23.12 | 16 | 03/12/2013 | 2013 NCSA Junior Swim |
+| 3 | Nick Thoman | 23.91 | 19 | 12/01/2005 | 2005 AZ Holiday Fest |
+| 4 | Matt Lujan | 24.21 | 15 | 03/12/2013 | 2013 NCSA Junior Swim |
+| 5 | Ben Aaberg | 24.44 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 6 | Barrett Miesfeld | 24.47 | 17 | 02/13/2010 | 2010  AZ Lost Dutchman Invite |
+| 7 | Tyler Kybartas | 24.56 | 18 | 03/13/2008 | 2008 AZ Senior Short Course State |
+| 8 | Denton Taylor | 24.85 | 23 | 12/06/2007 | 2007 AZ Holiday Fest |
+| 9 | Simon Lam | 24.88 | 16 | 03/17/2018 | 2018 NCSA Spring Championship |
+| 10 | Sam Stuckey | 25.04 | 16 | 03/23/2019 | 2019 NCSA Spring Championship |
 
 ---
 
@@ -682,7 +682,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Zach Byars | 1:06.07 | 12 | 03/11/2017 | 2017 AZ SC Age Group Champs |
 | 8 | Tristan Daniels | 1:07.71 | 12 | 02/17/2012 | 2012 AZ Lost Dutchman Invitational |
 | 9 | Colin Cosgrove ‡ | 1:07.82 | 12 | 09/23/2017 | 2017 AZ FAST Patriot Meet |
-| 10 | Michael Hess | 1:07.86 | 12 | 01/08/2023 | 2023 SI San Diego Imperial Swimming V... |
+| 10 | Connor McGinnis | 1:07.88 | 12 | 02/27/2009 | 2009 AZ Southern Regional  |
 
 ### 13-14
 
@@ -712,22 +712,22 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Bryan O'Connor | 53.08 | 16 | 03/09/2005 | 2005 PN Speedo Sectionals |
 | 8 | Keegan Kelly | 53.14 | 16 | 12/03/2022 | 2022 AZ FAST Winter Lights |
 | 9 | Cole Puchi | 53.26 | 16 | 10/30/2009 | 2009 AZ 4A High School Champs |
-| 10 | Hunter Thompson | 53.41 | 16 | 11/06/2009 | 2009 AZ 5A Division II High School Ch... |
+| 10 | Braden Christensen | 53.41 | 16 | 12/05/2015 | 2015 AZ FAST Winter Lights 2015 |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Matt Lujan | 48.07 | 18 | 12/04/2015 | Texas Swimming & Diving Hall  |
-| 2 | Jake Tapp ‡ | 48.16 | 18 | 11/30/2006 | 2006 ST Texas Invite |
-| 3 | Bryan O'Connor | 48.94 | 18 | 02/23/2007 | 2007 PAC-10 Champs men |
-| 4 | Dave Rollins | 49.47 | 18 | 03/06/2003 | 2003 US Mens's Pac-10  |
-| 5 | Trey Cashion | 49.87 | 17 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
-| 6 | Nick Hadinger | 50.19 | 18 | 12/04/2008 | UT Invite |
-| 7 | Nick Vonderahe | 50.54 | 18 | 12/08/2023 | 2023 Speedo Winter Junior Championshi... |
-| 8 | Devin Price | 50.64 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 9 | Brooks Fail | 50.79 | 17 | 03/05/2017 | 2017 AZ SC Senior Open |
-| 10 | Tyler Kybartas | 50.90 | 17 | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
+| 2 | Nick Thoman ‡ | 48.47 | 18 | 03/02/2005 | 2005 CA Pac10 Men's Champs |
+| 3 | Steven Medvedev ‡ | 49.53 | 18 | 12/02/2016 | Texas Hall of Fame Swimming In |
+| 4 | Trey Cashion | 49.87 | 17 | 03/12/2014 | 2014 PN Speedo Champions Series Weste... |
+| 5 | Michael Sheppard ‡ | 49.96 | 18 | 11/05/2010 | Arizona vs Wisconsin 2010 |
+| 6 | Nick Vonderahe | 50.54 | 18 | 12/08/2023 | 2023 Speedo Winter Junior Championshi... |
+| 7 | Devin Price | 50.64 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 8 | Brooks Fail | 50.79 | 17 | 03/05/2017 | 2017 AZ SC Senior Open |
+| 9 | Tyler Kybartas | 50.90 | 17 | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
+| 10 | Ryan Richardson | 50.92 | 18 | 11/05/2004 | 2004 AZ AIA 5A Swim Champs |
 
 ### Open
 
@@ -735,14 +735,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Matt Grevers | 44.49 | 28 | 12/05/2013 | 2013 Winter Nationals |
 | 2 | Bobby Hurley | 45.32 | 24 | 02/28/2013 | 2013 AZ SR State SC |
-| 3 | Chatham Dobbs | 45.58 | 19 | 03/04/2016 | 2016 PAC12 Champs Men |
-| 4 | Grant Betulius ‡ | 45.60 | 22 | 12/06/2014 | 2014 Hawkeye Invitational |
-| 5 | Ryan Hardy ‡ | 45.64 | 20 | 02/28/2025 | 2025 Big 12 Conference Championships |
-| 6 | Bryce Bohman ‡ | 45.89 | 23 | 02/26/2014 | 2014 Big 12 Champs |
-| 7 | Albert Subirats | 45.91 | 20 | 11/30/2006 | 2006 ST Texas Invite |
-| 8 | Thomas Anderson | 46.04 | 21 | 03/06/2020 | 2020 PAC-12 Champs  men |
-| 9 | Will Meyers ‡ | 46.14 | 20 | 02/28/2025 | 2025 Big 12 Conference Championships |
-| 10 | Jake Tapp ‡ | 46.55 | 20 | 03/04/2009 | 2009 PAC 10 Champs men |
+| 3 | Chatham Dobbs | 46.37 | 19 | 12/04/2015 | Texas Swimming & Diving Hall  |
+| 4 | Albert Subirats | 47.35 | 22 | 03/05/2009 | 2009 Pro Swim - Austin  |
+| 5 | Matt Allen | 47.58 | 21 | 12/04/1999 | Ut Invite 1999 |
+| 6 | Simon Burnett | 47.89 | 27 | 11/12/2010 | 2010 MN Grand Prix |
+| 7 | Darian Townsend | 48.92 | 25 | 03/18/2010 | 2010 AZ  Short Course Senior St |
+| 8 | Nick Thoman | 48.99 | 19 | 12/01/2005 | 2005 AZ Holiday Fest |
+| 9 | Bryce Bohman | 49.05 | 24 | 03/14/2015 | 2015 WV Short Course Champions |
+| 10 | Sam Rowan | 49.26 | 21 | 02/28/2013 | 2013 AZ SR State SC |
 
 ---
 
@@ -807,31 +807,31 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Jake Tapp ‡ | 1:44.07 | 18 | 11/30/2006 | 2006 ST Texas Invite |
-| 2 | Bryan O'Connor | 1:45.23 | 18 | 02/21/2007 | 2007 PAC-10 Champs men |
-| 3 | Brooks Fail | 1:45.49 | 17 | 03/16/2017 | 2017 Sectionals - Lewisville |
-| 4 | Matt Lujan | 1:46.81 | 18 | 03/05/2016 | 2016 PAC12 Champs Men |
-| 5 | Nick Hadinger | 1:47.77 | 18 | 12/04/2008 | UT Invite |
-| 6 | Dave Rollins | 1:48.23 | 18 | 03/06/2003 | 2003 US Mens's Pac-10  |
-| 7 | Devin Price | 1:49.52 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 8 | Cole Puchi | 1:51.53 | 17 | 01/14/2011 | 2011 CA SCS Senior Meet |
-| 9 | Francisco Vazquez | 1:52.43 | 17 | 03/05/2016 | 2016 AZ SCY Senior State Championship |
-| 10 | Keegan Kelly | 1:53.32 | 17 | 03/25/2023 | 2023 ST Spring Speedo Sectionals |
+| 1 | Brooks Fail | 1:45.49 | 17 | 03/16/2017 | 2017 Sectionals - Lewisville |
+| 2 | Matt Lujan | 1:46.92 | 18 | 12/05/2015 | Texas Swimming & Diving Hall  |
+| 3 | Devin Price | 1:49.52 | 17 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 4 | Bryan O'Connor | 1:50.69 | 17 | 03/08/2006 | 2006 AZ Speedo Sectionals |
+| 5 | Cole Puchi | 1:51.53 | 17 | 01/14/2011 | 2011 CA SCS Senior Meet |
+| 6 | Francisco Vazquez | 1:52.43 | 17 | 03/05/2016 | 2016 AZ SCY Senior State Championship |
+| 7 | Nick Hadinger | 1:52.71 | 17 | 01/18/2008 | 2008 Pro Swim SoCal |
+| 8 | Dave Rollins | 1:53.08 | 17 | 01/18/2002 | Q 2002 |
+| 9 | Keegan Kelly | 1:53.32 | 17 | 03/25/2023 | 2023 ST Spring Speedo Sectionals |
+| 10 | Tyler Kybartas | 1:53.37 | 17 | 02/22/2007 | 2007 GU Speedo SC Sectionals |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Matt Grevers | 1:39.99 | 22 | 01/18/2008 | 2008 Pro Swim SoCal |
-| 2 | Jake Tapp ‡ | 1:40.72 | 20 | 03/04/2009 | 2009 PAC 10 Champs men |
-| 3 | Will Meyers ‡ | 1:40.81 | 20 | 03/01/2025 | 2025 Big 12 Conference Championships |
-| 4 | Cory Chitwood | 1:41.07 | 21 | 12/02/2010 | 2010 UT Invite |
-| 5 | Thane Maudslien | 1:41.13 | 21 | 03/05/2016 | 2016 PAC12 Champs Men |
-| 6 | Bryan O'Connor ‡ | 1:41.48 | 20 | 12/04/2008 | UT Invite |
-| 7 | Thomas Anderson | 1:41.51 | 21 | 03/07/2020 | 2020 PAC-12 Champs  men |
-| 8 | Bryce Bohman ‡ | 1:41.52 | 23 | 02/26/2014 | 2014 Big 12 Champs |
-| 9 | Grant Betulius ‡ | 1:42.19 | 22 | 12/07/2014 | 2014 Hawkeye Invitational |
-| 10 | Chatham Dobbs | 1:42.47 | 19 | 03/05/2016 | 2016 PAC12 Champs Men |
+| 2 | Chatham Dobbs | 1:42.88 | 19 | 12/05/2015 | Texas Swimming & Diving Hall  |
+| 3 | Simon Burnett | 1:43.33 | 24 | 01/18/2008 | 2008 Pro Swim SoCal |
+| 4 | Bobby Hurley | 1:44.31 | 24 | 02/28/2013 | 2013 AZ SR State SC |
+| 5 | Adam Ritter | 1:44.41 | 24 | 01/16/2009 | 2009 CA SO CAL GRAND PRIX OF S |
+| 6 | Brooks Fail | 1:45.49 | 17 | 03/16/2017 | 2017 Sectionals - Lewisville |
+| 7 | Dave Rollins | 1:47.58 | 19 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
+| 8 | Albert Subirats | 1:47.77 | 22 | 03/05/2009 | 2009 Pro Swim - Austin  |
+| 9 | Matt Lujan | 1:47.90 | 17 | 03/26/2015 | 2015 ST TXLA Speedo Champs Western Re... |
+| 10 | Sam Rowan | 1:48.08 | 21 | 11/29/2012 | 2012 Winter Nationals |
 
 ---
 
@@ -995,31 +995,31 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Andrew Sovero ‡ | 53.63 | 18 | 02/01/2013 | UT vs Arizona vs SMU |
-| 2 | Kevin Munsch ‡ | 54.23 | 18 | 03/04/2009 | 2009 OB MENS PAC10 INVITATIONA |
-| 3 | Gage Crosby ‡ | 54.73 | 18 | 12/05/2013 | 2013 UT Invite |
-| 4 | Carl Mickelson ‡ | 54.90 | 18 | 12/03/2009 | UT Invite |
-| 5 | Carson Brindle ‡ | 55.18 | 18 | 12/05/2013 | 2013 UT Invite |
-| 6 | Ty Wells ‡ | 55.30 | 18 | 11/30/2018 | Texas Hall of Fame Swimming In |
-| 7 | Marcello Quarante ‡ | 55.33 | 18 | 02/06/2016 | ASU vs ARIZ |
-| 8 | Ryan Foote ‡ | 55.44 | 18 | 02/01/2020 | Arizona vs Texas |
-| 9 | Aldan Johnston ‡ | 55.62 | 18 | 11/29/2018 | Texas Hall of Fame Swimming In |
-| 10 | Zac Hojnacki ‡ | 56.05 | 18 | 03/03/2010 | 2010 PAC 10 Champs men |
+| 1 | Marcello Quarante ‡ | 55.80 | 18 | 12/04/2015 | Texas Swimming & Diving Hall  |
+| 2 | Carl Mickelson ‡ | 55.81 | 18 | 11/06/2009 | UA vs UNLV vs. Wisc. |
+| 3 | Colin Cosgrove | 56.29 | 17 | 12/18/2021 | 2021 SI Winter Age Group Champ |
+| 4 | Ryan Foote ‡ | 56.30 | 18 | 01/24/2020 | California vs. Arizona |
+| 5 | Marcus Titus | 56.40 | 18 | 11/07/2004 | 2004 AZ Senior Time Trial |
+| 6 | Dave Rollins | 56.67 | 17 | 11/02/2001 | 2001 US 5a High School S |
+| 7 | Joshua Arreguin | 56.86 | 17 | 03/09/2005 | 2005 PN Speedo Sectionals |
+| 8 | Gage Crosby | 57.15 | 17 | 02/24/2012 | 2019 AR State High School Champs |
+| 9 | Grant Nations | 57.20 | 17 | 11/03/2017 | 2017 AZ HS Swim & Dive Champs III B |
+| 10 | Alex Edquid | 57.21 | 17 | 11/03/2023 | 2023 AZ AIA Division 3 |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Kevin Cordes | 50.70 | 20 | 12/05/2013 | 2013 UT Invite |
-| 2 | Mike Alexandrov | 51.35 | 25 | 12/02/2010 | 2010 Winter Nationals |
-| 3 | Clark Burckle | 51.89 | 22 | 12/02/2010 | 2010 Winter Nationals |
-| 4 | Marcus Titus | 51.90 | 24 | 12/02/2010 | 2010 Winter Nationals |
-| 5 | Tavner Wisdom ‡ | 52.33 | 21 | 02/28/2025 | 2025 Big 12 Conference Championships |
-| 6 | Kevin Steel | 52.58 | 22 | 12/05/2013 | 2013 UT Invite |
-| 7 | Matt Salerno ‡ | 52.79 | 21 | 03/01/2018 | 2018 PAC12 Champs men TT |
-| 8 | William Wihanto ‡ | 52.83 | 21 | 12/04/2015 | Texas Swimming & Diving Hall  |
-| 9 | Adam Ritter | 53.00 | 22 | 11/29/2007 | UT Invite |
-| 10 | Bart Steninger | 53.08 | 22 | 12/04/2008 | 2008 Winter Nationals |
+| 1 | Mike Alexandrov | 51.35 | 25 | 12/02/2010 | 2010 Winter Nationals |
+| 2 | Clark Burckle | 51.89 | 22 | 12/02/2010 | 2010 Winter Nationals |
+| 3 | Marcus Titus | 51.90 | 24 | 12/02/2010 | 2010 Winter Nationals |
+| 4 | William Wihanto ‡ | 52.83 | 21 | 12/04/2015 | Texas Swimming & Diving Hall  |
+| 5 | Tavner Wisdom ‡ | 52.94 | 21 | 03/07/2025 | SMU Last Chance Meet |
+| 6 | Bart Steninger | 53.08 | 22 | 12/04/2008 | 2008 Winter Nationals |
+| 7 | Matt Grevers | 53.24 | 34 | 01/02/2020 | Arizona vs Northwestern vs NAU |
+| 8 | Carl Mickelson | 53.25 | 23 | 12/19/2013 | 2013 OK Elite Meet |
+| 9 | Austen Thompson | 53.33 | 22 | 02/28/2013 | 2013 AZ SR State SC |
+| 10 | Adam Ritter | 53.50 | 23 | 12/04/2008 | 2008 Winter Nationals |
 
 ---
 
@@ -1089,31 +1089,31 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Andrew Sovero ‡ | 1:57.33 | 18 | 11/29/2012 | 2012 Winter Nationals |
-| 2 | Kevin Munsch ‡ | 1:57.52 | 18 | 03/04/2009 | 2009 OB MENS PAC10 INVITATIONA |
-| 3 | Carl Mickelson ‡ | 1:58.00 | 18 | 12/03/2009 | UT Invite |
-| 4 | Gage Crosby ‡ | 1:59.46 | 18 | 12/05/2013 | 2013 UT Invite |
-| 5 | Marcello Quarante ‡ | 1:59.89 | 18 | 02/06/2016 | ASU vs ARIZ |
-| 6 | Zac Hojnacki ‡ | 2:00.73 | 18 | 03/03/2010 | 2010 PAC 10 Champs men |
-| 7 | Colin Cosgrove | 2:01.62 | 17 | 12/19/2021 | 2021 SI Winter Age Group Champ |
-| 8 | Joshua Arreguin | 2:03.12 | 18 | 03/01/2006 | 2006 Pac-10 Champs men |
-| 9 | Hunter Hojnacki | 2:03.32 | 18 | 03/26/2015 | 2015 ST TXLA Speedo Champs Western Re... |
-| 10 | Ryan Foote ‡ | 2:04.30 | 18 | 02/08/2020 | Arizona State vs. Arizona |
+| 1 | Colin Cosgrove | 2:01.62 | 17 | 12/19/2021 | 2021 SI Winter Age Group Champ |
+| 2 | Marcello Quarante ‡ | 2:01.70 | 18 | 12/05/2015 | Texas Swimming & Diving Hall  |
+| 3 | Hunter Hojnacki | 2:03.32 | 18 | 03/26/2015 | 2015 ST TXLA Speedo Champs Western Re... |
+| 4 | Joshua Arreguin | 2:04.47 | 17 | 03/09/2005 | 2005 PN Speedo Sectionals |
+| 5 | Carl Mickelson ‡ | 2:04.53 | 18 | 11/06/2009 | UA vs UNLV vs. Wisc. |
+| 6 | Brian Morrison | 2:05.09 | 18 | 03/10/2010 | 2010 PN Speedo Champions Series Weste... |
+| 7 | Paul Oman | 2:05.20 | 18 | 11/03/2002 | 2002 AZ Senior TT |
+| 8 | Marcus Titus | 2:05.75 | 18 | 03/09/2005 | 2005 PN Speedo Sectionals |
+| 9 | Grant Nations | 2:06.23 | 17 | 03/22/2018 | 2018 Sectionals - Paradise Valley |
+| 10 | David Guyer | 2:06.34 | 18 | 02/15/2016 | 2016 AZ Lost Dutchman Invitational |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Kevin Cordes | 1:49.38 | 20 | 12/05/2013 | 2013 UT Invite |
-| 2 | Clark Burckle | 1:51.20 | 24 | 11/29/2012 | 2012 Winter Nationals |
-| 3 | Mike Alexandrov | 1:51.73 | 25 | 12/02/2010 | 2010 Winter Nationals |
-| 4 | Marcus Titus | 1:53.77 | 24 | 12/02/2010 | 2010 Winter Nationals |
-| 5 | Tavner Wisdom ‡ | 1:53.95 | 21 | 03/01/2025 | 2025 Big 12 Conference Championships |
-| 6 | Sam Iida | 1:54.06 | 21 | 03/07/2020 | 2020 PAC-12 Champs  men |
-| 7 | Austen Thompson | 1:54.33 | 22 | 02/28/2013 | 2013 AZ SR State SC |
-| 8 | Adam Ritter | 1:54.75 | 22 | 11/29/2007 | UT Invite |
-| 9 | Kevin Munsch | 1:55.20 | 19 | 03/03/2010 | 2010 PAC 10 Champs men |
-| 10 | Gage Crosby | 1:55.31 | 20 | 12/05/2015 | Texas Swimming & Diving Hall  |
+| 1 | Clark Burckle | 1:51.20 | 24 | 11/29/2012 | 2012 Winter Nationals |
+| 2 | Mike Alexandrov | 1:51.73 | 25 | 12/02/2010 | 2010 Winter Nationals |
+| 3 | Marcus Titus | 1:53.77 | 24 | 12/02/2010 | 2010 Winter Nationals |
+| 4 | Austen Thompson | 1:54.33 | 22 | 02/28/2013 | 2013 AZ SR State SC |
+| 5 | Tavner Wisdom ‡ | 1:54.91 | 21 | 03/08/2025 | SMU Last Chance Meet |
+| 6 | Carl Mickelson | 1:55.35 | 23 | 12/19/2013 | 2013 OK Elite Meet |
+| 7 | Bart Steninger | 1:55.38 | 22 | 12/04/2008 | 2008 Winter Nationals |
+| 8 | Sam Rowan | 1:55.93 | 21 | 02/28/2013 | 2013 AZ SR State SC |
+| 9 | Adam Ritter | 1:56.40 | 22 | 11/09/2007 | 2007 MN  Minnesota/Toyota Gran |
+| 10 | Jack Brown | 1:57.42 | 23 | 12/02/2010 | 2010 Winter Nationals |
 
 ---
 
@@ -1226,7 +1226,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Beri Yang | 1:21.49 | 10 | 10/11/2014 | 2014 AZ Sahuarita (SAQ) NTS Meet |
 | 8 | Eli Cindrich | 1:21.96 | 10 | 11/09/2014 | 2014 AZ FAST High School Time Trial |
 | 9 | Levi Cindrich | 1:24.59 | 10 | 03/08/2019 | 2019 AZ SC Age Group State Champ |
-| 10 | Reese Cindrich | 1:25.33 | 9 | 01/13/2018 | 2018 AZ PSC Dual Meet Champs -3 |
+| 10 | Reese Cindrich | 1:25.34 | 10 | 11/30/2018 | 2018 AZ FAST Winter Lights |
 
 ### 11-12
 
@@ -1277,31 +1277,31 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Brooks Taner | 46.88 | 18 | 03/06/2020 | 2020 PAC-12 Champs  men |
-| 2 | Barrett Miesfeld | 47.85 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
-| 3 | Drake Barberii | 48.60 | 17 | 03/16/2018 | 2018 NCSA Spring Championship |
-| 4 | Jake Tapp ‡ | 49.19 | 18 | 11/30/2006 | 2006 ST Texas Invite |
-| 5 | Herbie Behm | 49.43 | 18 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 6 | Jason Alentado | 49.49 | 18 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 7 | Nick Popov | 50.05 | 18 | 03/05/2009 | 2009 GU AGS Sectional Champs |
-| 8 | Alex Leighton | 50.15 | 18 | 03/20/2012 | 2012 NCSA Junior National Swim |
-| 9 | Tyler Kybartas | 50.21 | 17 | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
-| 10 | Nicolas Nilo ‡ | 50.29 | 18 | 10/14/2005 | 2005 FG A Invite 10/05 |
+| 1 | Barrett Miesfeld | 47.85 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
+| 2 | Drake Barberii | 48.60 | 17 | 03/16/2018 | 2018 NCSA Spring Championship |
+| 3 | Herbie Behm | 49.43 | 18 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 4 | Jason Alentado | 49.49 | 18 | 03/12/2013 | 2013 NCSA Junior Swim |
+| 5 | Nick Popov | 50.05 | 18 | 03/05/2009 | 2009 GU AGS Sectional Champs |
+| 6 | Alex Leighton | 50.15 | 18 | 03/20/2012 | 2012 NCSA Junior National Swim |
+| 7 | Tyler Kybartas | 50.21 | 17 | 10/19/2007 | 2007 AZ Arizona 4A High School Champs |
+| 8 | Nicolas Nilo ‡ | 50.29 | 18 | 10/14/2005 | 2005 FG A Invite 10/05 |
+| 9 | Alex Edquid | 50.33 | 17 | 11/03/2023 | 2023 AZ AIA Division 3 |
+| 10 | Reed Patterson | 50.41 | 18 | 03/12/2013 | 2013 NCSA Junior Swim |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
 | 1 | Matt Grevers | 44.94 | 28 | 12/05/2013 | 2013 Winter Nationals |
-| 2 | Albert Subirats | 45.06 | 20 | 11/30/2006 | 2006 ST Texas Invite |
-| 3 | Masayuki Kishida | 45.2 | 23 | 12/04/2008 | 2008 Winter Nationals |
-| 4 | Noah Reid | 45.95 | 21 | 12/06/2019 | Minnesota Invite 2019 |
-| 5 | Renny Richmond | 46.11 | 21 | 03/04/2016 | 2016 PAC12 Champs Men |
-| 6 | Chatham Dobbs | 46.14 | 20 | 12/02/2016 | Texas Hall of Fame Swimming In |
-| 7 | Andrew Porter | 46.27 | 20 | 12/05/2013 | 2013 UT Invite |
-| 8 | Lyndon Ferns | 46.43 | 22 | 03/01/2006 | 2006 Pac-10 Champs men |
-| 9 | Aj Tipton | 46.46 | 20 | 12/02/2010 | 2010 UT Invite |
-| 10 | Jeff Dash | 46.69 | 28 | 12/04/2008 | 2008 Winter Nationals |
+| 2 | Masayuki Kishida | 45.2 | 23 | 12/04/2008 | 2008 Winter Nationals |
+| 3 | Haakon Naughton ‡ | 45.99 | 20 | 01/18/2025 | Arizona v. Minnesota |
+| 4 | Andrew Porter | 46.27 | 22 | 12/05/2015 | 2015 AZ Holiday Swim Festival |
+| 5 | Jeff Dash | 46.69 | 28 | 12/04/2008 | 2008 Winter Nationals |
+| 6 | Lyndon Ferns | 46.71 | 20 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
+| 7 | Craig Jordens | 47.04 | 22 | 03/02/2011 | 2011 PAC 10 Champs men |
+| 8 | Albert Subirats | 47.2 | 22 | 03/05/2009 | 2009 Pro Swim - Austin  |
+| 9 | Luis Rojas | 47.58 | 24 | 12/04/2003 | 2003  ST Univ. of Texas Invi SCY |
+| 10 | Seth Orozco | 47.78 | 21 | 12/04/1999 | Ut Invite 1999 |
 
 ---
 
@@ -1357,37 +1357,37 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Benjamin Garcia | 1:54.35 | 15 | 03/20/2019 | 2019 NCSA Spring Championship |
 | 8 | Jackson Dubreuil | 1:54.40 | 15 | 03/21/2019 | 2019 Sectionals - Paradise Valley |
 | 9 | Riley Babson | 1:55.67 | 16 | 11/19/2017 | 2017 NM CAQ 11th Annual High D |
-| 10 | Aidan Reagan | 1:56.31 | 16 | 01/20/2019 | 2019 AZ MAC Sr Dual Meet Champs2 |
+| 10 | Sylas Cole | 1:56.38 | 15 | 02/28/2013 | 2013 AZ SR State SC |
 
 ### 17-18
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Brooks Taner | 1:43.62 | 18 | 03/07/2020 | 2020 PAC-12 Champs  men |
-| 2 | Brooks Fail | 1:46.97 | 17 | 03/16/2017 | 2017 Sectionals - Lewisville |
-| 3 | Jason Alentado | 1:48.92 | 18 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 4 | Scott Pekarske | 1:49.88 | 17 | 03/20/2019 | 2019 NCSA Spring Championship |
-| 5 | Barrett Miesfeld | 1:50.08 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
-| 6 | Drake Barberii | 1:51.05 | 17 | 03/14/2018 | 2018 NCSA Spring Championship |
-| 7 | Phil Mercier | 1:52.06 | 17 | 03/15/2001 | 2001 US Az Short Course |
-| 8 | Benjamin Garcia | 1:52.98 | 18 | 12/05/2021 | 2021 AZ FAST Winter Lights |
-| 9 | Sevi Multin | 1:53.02 | 18 | 03/22/2018 | 2018 Sectionals - Paradise Valley |
-| 10 | Tyler Kybartas | 1:54.45 | 18 | 01/18/2008 | 2008 Pro Swim SoCal |
+| 1 | Brooks Fail | 1:46.97 | 17 | 03/16/2017 | 2017 Sectionals - Lewisville |
+| 2 | Jason Alentado | 1:48.92 | 18 | 03/12/2013 | 2013 NCSA Junior Swim |
+| 3 | Scott Pekarske | 1:49.88 | 17 | 03/20/2019 | 2019 NCSA Spring Championship |
+| 4 | Barrett Miesfeld | 1:50.08 | 17 | 03/16/2010 | 2010 FL NCSA Junior Natl Swimming |
+| 5 | Drake Barberii | 1:51.05 | 17 | 03/14/2018 | 2018 NCSA Spring Championship |
+| 6 | Phil Mercier | 1:52.06 | 17 | 03/15/2001 | 2001 US Az Short Course |
+| 7 | Benjamin Garcia | 1:52.98 | 18 | 12/05/2021 | 2021 AZ FAST Winter Lights |
+| 8 | Sevi Multin | 1:53.02 | 18 | 03/22/2018 | 2018 Sectionals - Paradise Valley |
+| 9 | Tyler Kybartas | 1:54.45 | 18 | 01/18/2008 | 2008 Pro Swim SoCal |
+| 10 | Parks Jones | 1:54.52 | 18 | 12/05/2014 | 2014 IN High School Hall of Fame Clas... |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Brooks Fail | 1:42.03 | 20 | 12/07/2019 | Minnesota Invite 2019 |
-| 2 | Aj Tipton | 1:42.67 | 20 | 12/02/2010 | 2010 UT Invite |
-| 3 | Juan Veloz | 1:42.72 | 20 | 12/05/2002 | 2002 US  University of Texas Invit |
-| 4 | Mathias Oh | 1:43.00 | 21 | 02/28/2018 | 2018 PAC12 Champs men TT |
-| 5 | Brooks Taner | 1:43.62 | 18 | 03/07/2020 | 2020 PAC-12 Champs  men |
-| 6 | Brendan Meyer | 1:43.63 | 22 | 12/07/2019 | Minnesota Invite 2019 |
-| 7 | Michael Meyer ‡ | 1:43.65 | 21 | 12/05/2013 | 2013 UT Invite |
-| 8 | Rasmus Skjaerpe ‡ | 1:44.16 | 19 | 03/05/2016 | 2016 PAC12 Champs Men |
-| 9 | Beck Parnham | 1:44.58 | 21 | 03/09/2025 | 2025 NT Southern Zones Speedo Spring ... |
-| 10 | Nick Thorne | 1:44.85 | 21 | 12/03/2016 | Texas Hall of Fame Swimming In |
+| 1 | Haakon Naughton ‡ | 1:42.62 | 20 | 01/18/2025 | Arizona v. Minnesota |
+| 2 | Beck Parnham | 1:44.58 | 21 | 03/09/2025 | 2025 NT Southern Zones Speedo Spring ... |
+| 3 | Juan Veloz | 1:44.77 | 25 | 01/18/2008 | 2008 Pro Swim SoCal |
+| 4 | Brooks Fail | 1:45.43 | 20 | 02/01/2020 | Arizona vs Texas |
+| 5 | Lyndon Ferns | 1:45.77 | 23 | 02/16/2007 | 2007 AZ Lost Dutchman Invite |
+| 6 | Masayuki Kishida | 1:45.90 | 23 | 12/04/2008 | 2008 Winter Nationals |
+| 7 | Ben Anderson | 1:46.31 | 21 | 12/04/1999 | Ut Invite 1999 |
+| 8 | Jean Basson | 1:46.49 | 23 | 12/02/2010 | 2010 Winter Nationals |
+| 9 | Jeff Dash | 1:46.96 | 28 | 01/16/2009 | 2009 CA SO CAL GRAND PRIX OF S |
+| 10 | Bobby Koubratoff | 1:47.05 | 20 | 03/03/2010 | 2010 PAC 10 Champs men |
 
 ---
 
@@ -1505,7 +1505,7 @@ Top 10 swimmers (best time per swimmer) across all years.
 | 7 | Max Cook | 2:24.70 | 12 | 12/03/2023 | 2023 AZ FAST Winter Lights |
 | 8 | Mateo Valdivia | 2:24.73 | 12 | 09/06/2025 | 2025 AZ FAST Patriot Meet |
 | 9 | Sam McCarrell | 2:24.74 | 12 | 03/23/2025 | 2025 SN Southwestern Age Group Region... |
-| 10 | Michael Hess | 2:24.97 | 12 | 01/08/2023 | 2023 SI San Diego Imperial Swimming V... |
+| 10 | Michael Hess | 2:25.00 | 12 | 12/04/2022 | 2022 AZ FAST Winter Lights |
 
 ### 13-14
 
@@ -1541,16 +1541,16 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Dave Rollins | 1:48.05 | 18 | 03/06/2003 | 2003 US Mens's Pac-10  |
-| 2 | Byron Jeffers | 1:48.58 | 18 | 03/07/2002 | 2002 Pac-10 Champs |
-| 3 | Austen Thompson | 1:49.66 | 17 | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
-| 4 | Bryan O'Connor | 1:50.08 | 18 | 02/21/2007 | 2007 PAC-10 Champs men |
-| 5 | Matt Lujan | 1:50.93 | 18 | 03/03/2016 | 2016 PAC12 Champs Men |
-| 6 | Rubie Rubie | 1:51.90 | 18 | 11/04/2016 | 2016 AZ AIA HS Championship |
-| 7 | Bart Steninger ‡ | 1:52.69 | 18 | 03/02/2005 | 2005 CA Men's Pac-10 Champs |
-| 8 | Barrett Miesfeld | 1:53.01 | 17 | 10/30/2009 | 2009 AZ 4A High School Champs |
-| 9 | Ben Aaberg | 1:53.15 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
-| 10 | Colin Cosgrove | 1:53.27 | 17 | 12/09/2021 | 2021 West Speedo Winter Junior |
+| 1 | Austen Thompson | 1:49.66 | 17 | 11/02/2007 | 2007 AZ Arizona 5A High School Champs |
+| 2 | Dave Rollins | 1:50.39 | 17 | 11/02/2001 | 2001 US 5a High School S |
+| 3 | Matt Lujan | 1:51.58 | 18 | 12/03/2015 | Texas Swimming & Diving Hall  |
+| 4 | Rubie Rubie | 1:51.90 | 18 | 11/04/2016 | 2016 AZ AIA HS Championship |
+| 5 | Barrett Miesfeld | 1:53.01 | 17 | 10/30/2009 | 2009 AZ 4A High School Champs |
+| 6 | Ben Aaberg | 1:53.15 | 18 | 03/20/2007 | 2007 FL NCSA Junior Champs |
+| 7 | Colin Cosgrove | 1:53.27 | 17 | 12/09/2021 | 2021 West Speedo Winter Junior |
+| 8 | Brian Morrison | 1:53.96 | 18 | 03/10/2010 | 2010 PN Speedo Champions Series Weste... |
+| 9 | Bryan O'Connor | 1:54.44 | 17 | 10/28/2005 | 2005 AZ 4A HS State |
+| 10 | Sam Stuckey | 1:54.52 | 17 | 11/07/2019 | 2019 AIA Division 2 State Cham |
 
 ### Open
 
@@ -1558,14 +1558,14 @@ Top 10 swimmers (best time per swimmer) across all years.
 |------|------|------|-----|------|------|
 | 1 | Darian Townsend | 1:42.13 | 24 | 03/19/2009 | 2009 AZ Short Course Senior St |
 | 2 | Matt Grevers | 1:43.05 | 23 | 01/16/2009 | 2009 CA SO CAL GRAND PRIX OF S |
-| 3 | Cory Chitwood | 1:43.47 | 21 | 12/02/2010 | 2010 UT Invite |
-| 4 | Sam Iida | 1:43.65 | 20 | 03/28/2019 | 2019 NCAA DI - Men |
-| 5 | Adam Ritter | 1:43.96 | 21 | 11/30/2006 | 2006 ST Texas Invite |
-| 6 | Bryan O'Connor ‡ | 1:43.96 | 20 | 12/04/2008 | UT Invite |
-| 7 | Jack Brown | 1:44.05 | 22 | 12/03/2009 | UT Invite |
-| 8 | Justin Wright | 1:44.10 | 23 | 02/01/2020 | Arizona vs Texas |
-| 9 | Clark Burckle | 1:44.14 | 22 | 12/02/2010 | 2010 Winter Nationals |
-| 10 | Thomas Anderson | 1:44.19 | 21 | 12/05/2019 | Minnesota Invite 2019 |
+| 3 | Adam Ritter | 1:44.03 | 23 | 12/04/2008 | 2008 Winter Nationals |
+| 4 | Justin Wright | 1:44.10 | 23 | 02/01/2020 | Arizona vs Texas |
+| 5 | Clark Burckle | 1:44.14 | 22 | 12/02/2010 | 2010 Winter Nationals |
+| 6 | Austen Thompson | 1:44.48 | 22 | 11/29/2012 | 2012 Winter Nationals |
+| 7 | Jack Brown | 1:46.18 | 23 | 12/02/2010 | 2010 Winter Nationals |
+| 8 | Bart Steninger | 1:46.39 | 22 | 12/04/2008 | 2008 Winter Nationals |
+| 9 | Sam Rowan | 1:46.74 | 21 | 02/28/2013 | 2013 AZ SR State SC |
+| 10 | Etay Gurevich | 1:47.13 | 25 | 12/03/2020 | 2020 AZ Arizona Invite |
 
 ---
 
@@ -1626,33 +1626,33 @@ Top 10 swimmers (best time per swimmer) across all years.
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Austen Thompson ‡ | 3:46.43 | 18 | 12/04/2008 | UT Invite |
-| 2 | Brooks Fail | 3:47.00 | 18 | 12/01/2017 | Texas Hall of Fame Swimming In |
-| 3 | Grant Sanders ‡ | 3:48.70 | 18 | 03/04/2016 | 2016 PAC12 Champs Men |
-| 4 | Steven Medvedev ‡ | 3:51.12 | 18 | 12/02/2016 | Texas Hall of Fame Swimming In |
-| 5 | Riley Babson | 3:52.00 | 18 | 12/07/2019 | PRINCETON SWIMMING BIG AL OPEN |
-| 6 | Aldan Johnston ‡ | 3:52.64 | 18 | 11/30/2018 | Texas Hall of Fame Swimming In |
-| 7 | Nick Hogsed ‡ | 3:54.90 | 18 | 12/05/2014 | Texas Swimming & Diving Hall o |
-| 8 | Jason Alentado | 3:59.33 | 18 | 03/12/2013 | 2013 NCSA Junior Swim |
-| 9 | Colin Cosgrove | 3:59.44 | 17 | 12/10/2021 | 2021 West Speedo Winter Junior |
-| 10 | Brian Morrison | 4:02.32 | 18 | 03/10/2010 | 2010 PN Speedo Champions Series Weste... |
+| 1 | Brooks Fail | 3:47.00 | 18 | 12/01/2017 | Texas Hall of Fame Swimming In |
+| 2 | Steven Medvedev ‡ | 3:51.12 | 18 | 12/02/2016 | Texas Hall of Fame Swimming In |
+| 3 | Grant Sanders ‡ | 3:51.31 | 18 | 12/04/2015 | Texas Swimming & Diving Hall  |
+| 4 | Nick Hogsed ‡ | 3:54.90 | 18 | 12/05/2014 | Texas Swimming & Diving Hall o |
+| 5 | Jason Alentado | 3:59.33 | 18 | 03/12/2013 | 2013 NCSA Junior Swim |
+| 6 | Colin Cosgrove | 3:59.44 | 17 | 12/10/2021 | 2021 West Speedo Winter Junior |
+| 7 | Brian Morrison | 4:02.32 | 18 | 03/10/2010 | 2010 PN Speedo Champions Series Weste... |
+| 8 | Austen Thompson ‡ | 4:03.86 | 18 | 11/14/2008 | 2008 OB USC-Arizona-Arizona St |
+| 9 | Hunter Hojnacki | 4:03.90 | 18 | 03/27/2015 | 2015 ST TXLA Speedo Champs Western Re... |
+| 10 | Scott Pekarske | 4:04.00 | 17 | 03/02/2019 | 2019 AZ SC SR Open Champs @ MAC |
 
 ### Open
 
 | Rank | Name | Time | Age | Date | Meet |
 |------|------|------|-----|------|------|
-| 1 | Michael Meyer ‡ | 3:41.73 | 21 | 12/05/2013 | 2013 UT Invite |
-| 2 | Nick Thorne | 3:42.59 | 21 | 12/02/2016 | Texas Hall of Fame Swimming In |
-| 3 | Darian Townsend | 3:43.80 | 28 | 12/13/2012 | 2012 OK Elite Meet  |
-| 4 | Jack Brown | 3:44.41 | 22 | 12/03/2009 | UT Invite |
-| 5 | Sam Iida | 3:44.49 | 21 | 03/06/2020 | 2020 PAC-12 Champs  men |
-| 6 | Austen Thompson | 3:44.60 | 22 | 11/29/2012 | 2012 Winter Nationals |
-| 7 | Sam Rowan ‡ | 3:45.79 | 20 | 12/01/2011 | 2011 UT Invite |
-| 8 | Eric Solis | 3:45.95 | 22 | 12/05/2013 | 2013 UT Invite |
-| 9 | Etay Gurevich | 3:45.98 | 24 | 12/06/2019 | Minnesota Invite 2019 |
-| 10 | Cory Chitwood ‡ | 3:46.32 | 20 | 12/03/2009 | UT Invite |
+| 1 | Darian Townsend | 3:43.80 | 28 | 12/13/2012 | 2012 OK Elite Meet  |
+| 2 | Austen Thompson | 3:44.60 | 22 | 11/29/2012 | 2012 Winter Nationals |
+| 3 | Jack Brown | 3:46.94 | 23 | 12/02/2010 | 2010 Winter Nationals |
+| 4 | Sam Rowan | 3:47.34 | 21 | 02/28/2013 | 2013 AZ SR State SC |
+| 5 | Beck Parnham | 3:48.09 | 21 | 03/08/2025 | 2025 NT Southern Zones Speedo Spring ... |
+| 6 | Brooks Fail | 3:49.65 | 17 | 03/04/2017 | 2017 AZ SC Senior Open |
+| 7 | Etay Gurevich | 3:52.49 | 25 | 12/04/2020 | 2020 AZ Arizona Invite |
+| 8 | Ben Anderson | 3:54.32 | 21 | 12/04/1999 | Ut Invite 1999 |
+| 9 | Juan Veloz | 3:55.40 | 25 | 01/18/2008 | 2008 Pro Swim SoCal |
+| 10 | David Schlicht ‡ | 3:55.44 | 19 | 02/01/2019 | Texas vs NC State vs Arizona |
 
 ---
 
-*Generated: October 06, 2025 at 04:41 PM*
+*Generated: October 06, 2025 at 05:42 PM*
 *International swim policy: During-Ford-Year*

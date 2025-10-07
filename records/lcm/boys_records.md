@@ -43,8 +43,8 @@
 | 11-12 | 2:06.00 | Caden Castillo | 08/07/2025 | 2025 WESTERN ZONE AGE GROUP CHAMPIONSHIPS |
 | 13-14 | 2:00.50 | Aidan Reagan | 07/28/2017 | 2017 AZ Senior LC Champs |
 | 15-16 | 1:54.42 | Aidan Reagan | 06/13/2019 | 2019 Pro Series - Clovis |
-| 17-18 | 1:50.52 | Brooks Fail | 07/26/2018 | 2018 Summer Nationals |
-| Open | 1:45.67 | Jean Basson | 07/26/2009 | 2009 World Champs  |
+| 17-18 | 1:50.01 | Parks Jones ‡ | 08/02/2015 | 2015 Summer Junior Nats |
+| Open | 1:46.59 | Simon Burnett | 07/25/2002 | 2005 British Youth Nationals |
 
 ### 400 Freestyle
 
@@ -55,7 +55,7 @@
 | 13-14 | 4:12.48 | Aidan Reagan | 08/05/2017 | 2017 Futures - Santa Clara |
 | 15-16 | 4:01.06 | Aidan Reagan | 08/04/2018 | 2018 Futures - Santa Clara |
 | 17-18 | 3:52.24 | Brooks Fail | 07/28/2018 | 2018 Summer Nationals |
-| Open | 3:46.64 | Jean Basson | 07/26/2009 | 2009 World Champs  |
+| Open | 3:48.60 | Bobby Hurley ‡ | 03/15/2012 | 2012 EnergyAustralia Swimming |
 
 ### 800 Freestyle
 
@@ -164,7 +164,7 @@
 | 11-12 | 1:07.16 | Jackson Dubreuil | 06/03/2016 | 2016 AZ FORD TYR Quest for the Rings Meet |
 | 13-14 | 59.97 | Benjamin Garcia | 07/28/2017 | 2017 AZ Senior LC Champs |
 | 15-16 | 56.39 | Aidan Reagan | 06/13/2019 | 2019 Pro Series - Clovis |
-| 17-18 | 54.59 | Brooks Taner | 03/08/2020 | 2020 PN Men's Pac-12 LC TT |
+| 17-18 | 55.42 | Barrett Miesfeld | 04/29/2010 | 2010 Irish Long Course Championship |
 | Open | 50.54 | Matt Grevers ◊ | 2011-12-16 | Mutual of Omaha Duel in the Pool 2011 |
 
 ### 200 Butterfly
@@ -175,7 +175,7 @@
 | 11-12 | 2:34.50 | Jackson Dubreuil | 06/04/2016 | 2016 AZ FORD TYR Quest for the Rings Meet |
 | 13-14 | 2:14.49 | Benjamin Garcia | 07/16/2017 | 2017 AZ LC Age Group State |
 | 15-16 | 2:03.39 | Aidan Reagan | 07/27/2019 | 2019 AZ LC Senior Open @ FORD |
-| 17-18 | 2:01.78 | Juan Veloz ‡ | 06/28/2001 | 2001 US Santa Clara Xxxi |
+| 17-18 | 2:02.36 | Brooks Fail | 06/09/2018 | 2018 Pro Series - Santa Clara  |
 | Open | 1:54.63 | Justin Wright | 07/25/2018 | 2018 Summer Nationals |
 
 ### 200 Individual Medley
@@ -202,5 +202,5 @@
 
 ---
 
-*Generated: October 06, 2025 at 04:41 PM*
+*Generated: October 06, 2025 at 05:42 PM*
 *International swim policy: During-Ford-Year*
