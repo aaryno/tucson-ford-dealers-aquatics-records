@@ -44,12 +44,21 @@ This repository publishes **draft copies** of team records generated from USA Sw
 
 **Note:** Official team records are maintained by TFDA coaching staff. This repository provides data-driven analysis to support record-keeping efforts.
 
+### Annual Season Summaries
+
+**NEW:** Season-by-season breakdowns of records broken:
+- **[2024-2025 Season Summary](records/annual-summary-2025.md)** - 32 records broken, including Caden Castillo's incredible 13-record season
+- **[2023-2024 Season Summary](records/annual-summary-2024.md)** - 4 records broken across SCY events
+
 ## Repository Structure
 
 ```
 ├── README.md                          # This file
-├── records/
-│   ├── scy/                          # Short Course Yards records
+├── METHODOLOGY.md                     # Complete technical methodology
+└── records/
+    ├── annual-summary-2024.md        # 2023-2024 Season records summary
+    ├── annual-summary-2025.md        # 2024-2025 Season records summary
+    ├── scy/                          # Short Course Yards records
 │   │   ├── boys_records.md           # Boys individual records (all age groups)
 │   │   ├── girls_records.md          # Girls individual records (all age groups)
 │   │   ├── boys_relays.md            # Boys relay records
