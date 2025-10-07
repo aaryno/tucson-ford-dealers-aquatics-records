@@ -1,5 +1,17 @@
 # Tucson Ford Dealers Aquatics - Team Records
 
+---
+
+## ⚠️ **DRAFT RECORDS - NOT OFFICIAL** ⚠️
+
+**THIS REPOSITORY CONTAINS DRAFT RECORDS FOR REVIEW AND VERIFICATION PURPOSES ONLY.**
+
+These records are **NOT official** and are subject to change. Official team records are maintained by TFDA coaching staff. This repository is used for data analysis, verification, and coach review.
+
+**DO NOT CITE THESE AS OFFICIAL RECORDS WITHOUT COACH APPROVAL.**
+
+---
+
 **Official Team Website:** https://www.gomotionapp.com/team/astfda/page/home
 
 This repository contains draft copies of team records for Tucson Ford Dealers Aquatics (TFDA), a competitive swim team based in Tucson, Arizona.
